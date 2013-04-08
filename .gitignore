@@ -72,3 +72,5 @@ jetty/
 activemq/
 .idea/
 spec/reports
+/.ruby-gemset
+/.ruby-version
