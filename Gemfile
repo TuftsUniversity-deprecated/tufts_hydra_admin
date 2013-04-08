@@ -18,7 +18,7 @@ source 'http://rubygems.org'
 
 # You will probably want to use these to run the tests you write for your hydra head
 # For testing with rspec
-  group :development, :test do
+  group :development, :tdldev, :test do
     gem 'rspec-rails'
     gem 'jettywrapper'
   end
