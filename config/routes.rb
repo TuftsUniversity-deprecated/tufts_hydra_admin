@@ -1,6 +1,6 @@
 TuftsHydraAdmin::Application.routes.draw do
   root :to => "catalog#index"
-
+  match '/catalog/:id', :to => 'catalog#show', :constraints => {:id => /.*/}, :as =>'catalog'
   Blacklight.add_routes(self)
   HydraHead.add_routes(self)
 
