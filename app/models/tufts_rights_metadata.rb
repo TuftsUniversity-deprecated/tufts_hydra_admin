@@ -1,6 +1,6 @@
 # This is just a mock rights metadata stream to get us by without having to modify all our objects for now.
 
-class TuftsRightsMetadata  <  Hydra::RightsMetadata
+class TuftsRightsMetadata  <  Hydra::Datastream::RightsMetadata
    def to_xml(xml = self.ng_xml)
     return "";
    end

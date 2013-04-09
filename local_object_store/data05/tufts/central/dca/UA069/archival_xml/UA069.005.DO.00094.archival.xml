@@ -1,0 +1,1529 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+"http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+<TEI.2>
+	<teiHeader>
+            <fileDesc>
+               <titleStmt>
+                  <title>Here and There at Tufts</title>		
+                  <author>Doane, Lewis</author>
+                  <funder></funder>
+                  <respStmt>
+                     <resp>edited by:</resp>
+                     <name>Digital Collections and Archives, Tufts University</name>
+                  </respStmt>
+               </titleStmt>
+               <editionStmt>
+                  <edition>
+                     <date>11/28/2005</date>
+                  </edition>
+               </editionStmt>
+               <extent>172,758 bytes</extent>
+               <publicationStmt>
+                  <distributor>Tufts University Digital Collections and Archives</distributor>
+                  <address>
+                     <addrLine>Tufts University</addrLine>
+                     <addrLine>35 Professors Row</addrLine>
+                     <addrLine>Tisch Library Medford, MA 02155</addrLine>
+                  </address>
+                  <idno>UA069.005.DO.00094</idno>
+                  <availability status="free">
+                     <p>This publication is freely available for scholarly or educational use.</p>
+                  </availability>
+               </publicationStmt>
+               <notesStmt>
+                  <note place="unspecified" anchored="yes">Here and There at Tufts was published by the class of 1909 as an early form of a yearbook.  The text includes photographs and histories of academic buildings, dormitories, former deans and presidents, classrooms, fraternities, athletic teams, and student organizations.</note>		
+               </notesStmt>
+               <sourceDesc default="NO">
+                  <biblStruct default="NO">
+                     <monogr>
+                        <author>Doane, Lewis</author>
+                        <title>Here and There at Tufts</title>
+                        <imprint>
+                           <pubPlace>Boston, MA</pubPlace>
+                           <publisher>Class of 1909, Tufts College</publisher>
+                           <date>1907</date>
+                        </imprint>
+                     </monogr>
+                  </biblStruct>
+               </sourceDesc>
+            </fileDesc>
+            <encodingDesc>
+               <editorialDecl default="NO">
+                  <stdVals default="NO">
+                     <p>Standard date values are given in ISO form: yyyy-mm-dd.</p>
+                  </stdVals>
+                  <interpretation default="NO">
+                     <p>Page breaks are not marked.</p>
+                     <p>Line breaks were removed.</p>
+                  </interpretation>
+                  <hyphenation eol="none" default="NO">
+                     <p>End of line hyphens have been removed.</p>
+                  </hyphenation>
+               </editorialDecl>
+               <classDecl>
+                  <taxonomy id="LCSH">
+                     <bibl default="NO">
+                        <title>Library of Congress Subject Headings</title>
+                     </bibl>
+                  </taxonomy>
+                  <taxonomy id="LC">
+                     <bibl default="NO">
+                        <title>Library of Congress</title>
+                     </bibl>
+                 </taxonomy>
+               </classDecl>
+             </encodingDesc>
+              <encodingDesc>
+               <refsDecl n="TOC">
+               		<state unit="frontispeice"/>
+               </refsDecl>
+               <refsDecl n="TOC">
+               		<state unit="dedication"/>
+               </refsDecl> 
+               <refsDecl n="TOC">
+               		<state unit="preface"/>
+               </refsDecl>
+               <refsDecl n="TOC">
+               		<state unit="chapter"/>
+               		<state unit="subchapter"/>
+               </refsDecl>
+               <refsDecl n="TOC">
+               		<state unit="notes"/>
+               </refsDecl>
+               <refsDecl n="TOC">
+               		<state unit="colophon"/>
+               	</refsDecl>
+               </encodingDesc>
+            <profileDesc>
+               <creation>
+                  <date>11/28/2005</date>
+               </creation>
+               <langUsage default="NO">
+                  <language id="EN" usage="100">English.</language>
+               </langUsage>
+               <textClass default="NO">
+                  <keywords scheme="LCSH">
+                     <list type="simple">
+                        <item></item>
+			<item></item>
+			<item></item>
+			<item>Tufts University--History</item>
+                     </list>
+                  </keywords>
+                  <classCode scheme="LC"></classCode>
+               </textClass>
+            </profileDesc>
+           <revisionDesc>
+               <change>
+                  <date></date>
+                  <respStmt>
+                     <name></name>
+                     <resp></resp>
+                  </respStmt>
+                  <item></item>
+               </change>
+            </revisionDesc>
+         </teiHeader>
+<text>
+<front>
+	<div1 type="frontispiece" id="front001">
+	<figure n="tufts:central:dca:UA021:UA021.001.007.00002.00001" id="Fig.1">
+	<head>GODDARD CHAPEL, TUFTS COLLEGE</head></figure>
+	<p></p>
+	</div1>
+<titlePage>
+	<docTitle>
+		<titlePart type="main">HERE AND THERE AT TUFTS</titlePart>
+		<titlePart type="desc">Published by the Class of NINETEEN HUNDRED AND NINE</titlePart>
+	</docTitle>
+		<byline>Lewis Doane, Editor-in-Chief</byline>
+		<byline>Leroy James Cook, Assistant Editor</byline>
+              	<byline>Edwin Morey, Business Manager</byline>
+		<docAuthor>TUFTS COLLEGE MASSACHUSETTS</docAuthor>
+
+
+		<imprimatur>Copyrighted, 1907, by EDWIN MOREY For the Class of 1909 of Tufts College</imprimatur>
+		<docImprint>Printed by<publisher>OLD COLONY PRESS</publisher><pubPlace>Boston</pubPlace></docImprint>
+		<docImprint>Engravings by<publisher>C. J. Peters &#x0026; Son Co.</publisher>
+		<lb/><pubPlace>Boston</pubPlace></docImprint>
+		<docImprint>Binding by<publisher>MacDonald &#x0026; Sons</publisher>
+     		<lb/><pubPlace>Boston</pubPlace></docImprint>
+</titlePage>
+	<div1 type="dedication" id="front002">
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.04058" id="Fig.2">
+	<head>WILLIAM ROLLIN SHIPMAN</head></figure>
+		<p> To Professor William Rollin Shipman in grateful remembrance of his life-long devotion to Tufts College, we affectionately dedicate this book</p>
+	</div1>
+
+
+	<div1 type="preface" n="Preface" id="front003">
+		<head>PREFACE</head>
+       			<p>In editing a book of the character of the present publication we believe that a long-felt want of the college has been met. Tufts has reached that point in her history where the many traditions and events of student life and activities should be suitably recorded, and we hope that the book has fulfilled these conditions; that it will not only awaken fond memories of former days, but also inspire all with the hope of future accomplishment.</p>
+       			<p>To the members of the Faculty, Alumni and undergraduates, and especially to the photographers who have assisted us in our efforts, we wish to express our sincere gratitude.</p>
+       			<p>For the Class of 1909 of Tufts College,</p>
+                        <p>LEWIS DOANE,</p>
+                        <p>LEROY JAMES COOK,</p>
+                        <p>EDWIN MOREY.</p>
+
+
+
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00003" id="Fig.3">
+		<head>DEAN LEONARD,Theological. DEAN WREN, College of Letters. DEAN WILLIAMS, Medical and Dental. DEAN ANTHONY, Engineering. PRESIDENT HAMILTON</head></figure>
+      			<p>Frederick William Hamilton, A.M.,D.D.,LL.D.,&#x0398;&#x0394;&#x03A7;, &#x03D5;&#x0392;&#x039A;, President of Tufts College, was born in Portland, Me., March 30, 1860; 1876, graduated from Portland High and entered Tufts; degree of A.B. in class of 1880; editor-in-chief of Tuftonian; eight years engaged in railroad work; 1886, degree A.M. from Tufts; 1889, took a special course in Tufts Divinity School, and entered Universalist ministry; sixteen years in Universalist ministry at Pawtucket, R. I. and Boston; 1896, trustee of Tufts; 1899, degree D.D. from Tufts; I905,Acting President of Tufts; 1906, President of Tufts College.</p>
+      			<p>Charles Hall Leonard, A.M., D.D., LL.D., &#x03D5;&#x0392;&#x039A;, Professor of Homiletics and Pastoral Theology, was born in Northwood, N. H., September 16, 1822; prepared for the ministry, was pastor of the Universalist Society, Chelsea, for twenty-three years; came to Tufts,1869; A.M. from Tufts; S.T.D. from St. Lawrence; 1892, Dean of the Divinity School.</p>
+      			<p>Frank George Wren, A.M., &#x0391;&#x03A4;&#x03A9;, &#x03D5;&#x0392;&#x039A;; Professor of Mathematics, was born in Sharon, Mass., March 15, 1874; prepared at Dean Academy; entered Tufts, 1890; during senior year, Instructor in Mathematics, Bromfield-Pearson School; 1896, Walker Special Instructor in Mathematics; 1899, Assistant Professor of Mathematics; 1902, Professor ofMathematics; 1907, Dean of the College of Letters.</p>
+      			<p>Gardner Chace Anthony, A.M., Sc.D., Professor of Technical Drawing, was born in Providence, R. I., April 24, 1856; 1874, with Providence Steam Engine Co.; later entered Brown; 1877, entered Tufts; 1878 with Harris-Corliss Engine Works; 1881, with Providence Steam Engine Co.; 1895, dean of Bromfield-Pearson School; later, dean of Engineering Dept.</p>
+      			<p>Harold Williams, A.M., M.D., LL.D., Professor of the Theory and Practice of Medicine, was born in Brookline, Mass., December 5, 1853; A.M. from Harvard in 1875 and M.D. 1878; physician to the Boston Dispensary; trustee of Boston Dental College, and then Dean of Medical and Dental Schools.</p>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00004" id="Fig.4">
+  		<head>H. BALLOU, SECOND, D.D.,First President of Tufts College, 1853-1861. A. A. MINER D.D., LL.D., President Tufts College, 1862-1875. E. H. CAPEN, D.D., LL.D., President of Tufts College, 1875-1905.</head></figure>
+      			<p>Hosea Ballou, 2d., D.D., first president of Tufts College and Professor of History and Intellectual Philosophy, was born in Guilford, Vt., October 13, 1796; studied theology; first pastorate, Stafford, Conn.; 1821, pastor in Roxbury, Mass.; 1838, parish in Medford, Mass.; 1845, degree D.D. from Harvard University, the first Universalist to receive this honor; 1845, member Board of Overseers of Harvard; prime mover in the founding of Tufts; 1853, accepted presidency of Tufts; 1855, formal inauguration; died May 21, 1861.</p>
+      			<p>Alonzo Ames Miner, A.M., D.D., S.T.D., LL.D., second president of Tufts College, was born at Lempster, Sullivan County, N. H., August 17, 1814; at first a teacher; in 1838, received fellowship of the Universalist Church at Walpole, N. H.; 1838, ordained at Nashua, N. H.; after several pastorates, on the death of President Ballou, called to presidency of Tufts, 1862; 1861, honorary A.M. from Tufts; 1863, degree S.T.D. from Harvard College; 1875, degree of LL.D. from Tufts; 1875, resigned presidency of Tufts; died Class Day, June 14, 1895.</p>
+      			<p>Elmer Hewitt Capen, A.M., D.D., LL.D., &#x0398;&#x0394;&#x03A7;&#x03A7;, &#x03D5;&#x0392;&#x039A;, third president of Tufts College and Professor of Moral Philosophy and Political Economy, was born in Stoughton, Mass., April 5, 1838; prepared at Pierce Academy, Middleborough and Green Mountain Institute, Wood-stock, Vt.; 1856, entered Tufts; served in the Massachusetts Legislature during his senior year; 1864, admitted to the bar; 1865, ordained as a minister; several pastorates; 1875, accepted presidency of Tufts College; 1877, degree A.M. from Tufts; 1879, degree D.D. from St. Lawrence University; 1897, LL.D. from Buchtel College; 1888, delegate to Republican National Convention; died March 22, 1905.</p>
+        	</div1>
+      	</front>
+
+
+
+
+
+	<body>
+	<div1 type="chapter" n="A History of Tufts College" id="c1">
+	<div2 type="subchapter" n="A History of Tufts College" id="cls1">
+		<head>A History of Tufts College</head>
+	<figure n="tufts: central:dca:UP022:UP022.001.001.00001.00005" id="Fig.5">
+	<head>FESTIVAL At the Dedication of Tufts College, August 22, 1855</head></figure>
+		<p>He who today visits College Hill and strolls along the well kept paths, or beneath the shade of the trees which dot the campus, watching the squirrels at play in the chequered shade, would scarcely realise that hardly more than half a century ago this beautiful spot was a bare and wind-swept hill.</p>
+                <p>It was early in the year of 1847 that Tufts College was first talked of. Several members of the Universalist denomination raised the question as to whether the church did not need a college connected with it, to which youths of Universalist families could be sent. In those days proselyting among schools and colleges was much more common than in our own time, and this fact was a sharp incentive to those of the Universalist faith who entertained this idea. General sentiment was aroused, and preparing for action, when in the spring of 1847 Rev. Thomas J. Sawyer of New York opened correspondence with Rev. Hosea Ballou, 2nd, of Medford, Mass., and Rev. Thomas Whittemore of Cambridgeport, Mass., editor of the Universalist magazine, the " Trumpet." The result of this correspondence was the issuing of a, circular calling for an educational convention to meet in New York on the 18th of the following May. </p>
+      		<p>Great interest was evinced, and the convention was largely attended. The Rev. Hosea Ballou, 2nd, opened the meeting and the question discussed was: I, Do Universalists need a college, and 2, Shall an effort be made to answer the wants of the denomination by the founding of a college ? Both these resolutions were unanimously adopted. It is
+	<pb n="p.12" id="p.12"/>
+
+		
+		
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.01488" id="Fig.6">
+	<head>TUFTS CCOLLEGE, SOMERVILLE, MASSACHUSETTS</head></figure>
+		interesting to note that the site talked of at the time was in the valley of the Hudson or Mohawk rivers. The reason for this was that many entertained the idea of making the Clinton Liberal Institute a basis for a new college. However, the selection of the site was left to a board of trustees elected at this meeting, consisting of the following members: the Rev. Calvin Gardner, J. Burley, Eli Ballou, B. B. Mussey, the Rev. Thomas Whittemore, the Rev. J. T. Greenwood, Dr. Jacob Henson, the Rev. S. R. Smith, T. J. Sawyer, and Dolphus Skinner, B. Ellis, Esq., and Josiah Bartlett, Esq, of New York, Col. J. Kingsbury, Elijah Dallet and Dr. E. Crosby.</p>
+      		<p>It was then generally agreed that the college could not be founded unless the sum of $100,000 could be raised. Agents were appointed to solicit funds, it being the idea that all the pledges should be binding when the sum of $100,000 should be pledged. Report was to be made at the General Convention.</p>
+      		<p>The General Convention assembled on Sept. 14, 1847. On the morning of the 15th Dr. Ballou preached on the text "Unto whomsoever much is given, of him shall much be required." In his speech the doctor made a very powerful and impassioned plea for education which profoundly moved all present. On the following Friday, at a meeting of the Educational Convention, it was voted to rescind the vote appointing two or more agents to solicit funds and put it in the sole charge of one man, and this duty was entrusted to the Rev. Otis A. Skinner. To this man's devotion and disinterestedness all sons of Tufts should be grateful. It was a peculiarly trying and arduous undertaking, in a time when money was scarce, and in a cause which many deemed visionary. He visited Universalists all over the country, and was so successful that on April 21, 1851, he gave notice that he should begin to collect the amount subscribed. Death and failure had somewhat reduced
+ 	<pb n="p.14" id="p.14"/>
+
+
+
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.01487" id="Fig.7">
+	<head>TUFTS COLLEGE, 1860</head></figure>
+		the amount, but in all $97,000 was pledged and Dr. Skinner generously gave the remaining $3,000 from his own pocket, and the existence of the college became an assured fact.</p>
+     		<p> On the 19-20 of November, 1851, the trustees met and elected the following officers: President, the Rev. T. J. Sawyer of Clinton, N. Y.; Treasurer, B. B. Mussey of Boston; Secretary, the Rev. O. A. Skinner of Boston. It was now reported that the amount available considerably exceeded the requisite $100,000 and this cheered and encouraged everyone.</p> 
+     		<p>The committee on location reported two sites; one, on Walnut Hill, Somerville, on the farm of Charles Tufts, and the other in Franklin, Mass., on land owned by Oliver Dean. In connection with the Walnut Hill site is told a story which has always remained a tradition of the College. A friend, talking one day with Mr. Tufts as to what he intended to do with the bleak and wind-swept height, received the following characteristic reply: " I will set a light on it." It was finally agreed that the site offered by Mr. Tufts was the more advantageous, and the gift was accepted. Although desiring the college in Franklin, Mr. Dean generously supported the young institution and also founded in Franklin, Dean Academy, which is a preparatory school for Tufts. After the acceptance of the site Mr. Tufts increased his grant of land, making in all 100 acres. As he was the greatest benefactor of the young institution it received his name. Soon after, Mr. Timothy Cotting of Medford increased the land possessed by the college by a gift of 20 acres. Among other benefactors of the college at this time must be mentioned Sylvanus Packard, of Boston, and Thomas Goddard. At his death Oliver Dean generously remembered the institution, and gave largely during his life.</p>
+      		<p>The charter of the new college was issued April 15, 1852, and gave the right to confer all degrees except that of M. D, This was amended in 1867 to include that degree. At a
+ 	<pb n="p.16" id="p.16"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00008" id="Fig.8">
+	<head>FROM THE TOP OF BALLOU HALL, 1868</head></figure>
+		trustee meeting held July 21, 1852, B. B. Mussey, O. A. Skinner and Timothy Cotting were appointed a committee on building, and Hosea Ballou, 2nd, was elected the first president of the College. The labors of the building committee resulted in the erection of Ballou Hall, the first college building. It was built in the Italian style, of brick, trimmed with red sandstone, and on the 23d of July, 1853, with appropriate ceremonies, President Ballou laid the corner-stone. The day was one of rejoicing, and from fifteen hundred to two thousand persons were present.</p>
+      		<p>The opening of the College was in 1855, but during the year 1854, three students were on the hill doing special work. During this year Dr. Ballou travelled in Europe, preparing himself for the labors of his office. The first examination for entrance was held Saturday, August 18, 1855, and on Wednesday, August 22, the formal opening took place.</p>
+      		<p>The day of the birth of the college into the world of letters dawned warm and fair. By nine o'clock the people began to arrive, and long before the appointed hour the building was thronged. It was simply impossible to give seating accommodations to the immense crowd, and hundreds could not even get into the building. As originally planned, Ballou Hall contained not only recitation rooms, but dormitory and bathing accommodations, a chapel, a library, and rooms for two literary societies. How odd this seems to us now, who have so many buildings. After the inaugural address by President Ballou, dinner was served. Nine hundred plates had been provided, and hundreds who tried to obtain tickets had to be refused. After the feasting Dr. Ballou announced the following toast: " Charles Tufts, the venerable founder of Tufts College; may the fruition of his project gladden his heart through all his earthly journey." This toast was answered by the enthusiastic cheers of the assembled company. The following toasts were also responded to: " The founding of
+ 	<pb n="p.18" id="p.18"/>
+
+
+
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.01099" id="Fig.9">
+	<head>COLLEGE HILL FROM OLD POWDER HOUSE</head></figure>
+		the first Universalist college in the world; the success of this enterprise must be as gratifying to the numerous donors as it is honorable to the indefatigable agent," by Rev. O. A. Skinner. "Knowledge is Power," by the Rev. E. H. Chapin of New York. The fourth toast was: "The Tufts'College Educational Association," by the Rev. A. A. Miner, and the last: "The Treasurer of Tufts College," by B. B. Mussey, Esq. At the dinner about $4,000 was subscribed. The exercises were concluded by the singing of " From all that dwell below the skies," and Tufts was fairly launched on her career as an educational institution. Her founders builded better than they knew, and laid the foundations broad and deep upon which the Tufts of today has been reared: All honor is due to the faithful hearts who worked steadfastly for the future, and founded this college in a spirit of progression which has led and is still to lead it to greater and nobler accomplishments.</p>
+      		<p>It is a significant fact that from the very first Tufts College gave evidence of that broadness of teaching which has since characterized it. At the time of the opening of the college, History was not recognized as a subject for college study, and under President Ballou's administration the course given in history was not equalled by any other institution in the country.</p>
+      		<p>During President Ballou's incumbency only one course of study was offered-'that leading to the degree of Bachelor of Arts, and the larger part of the college work was prescribed. Greek and Latin were required for two years and a half, Mathematics for two years, History for three years, and Rhetoric for four years. The work in modern languages was entirely optional. This curriculum offers an interesting comparison to the modern college curriculum, with its large number of elective subjects. When Dr. Ballou died, however, there was no one to whom the course in History could be entrusted, and it dropped from
+ 	<pb n="p.20" id="p.20"/>
+
+
+
+	<figure n="tufts:central:dca:UA021:UA021.001.014.00006.00001" id="Fig.10">
+	<head>President's House, Professors Row, Metcalf, Chapel, Eaton Memorial Library, Miner, and Paige</head></figure>
+		the curriculum, not to appear again for more than thirty years, when the Department of History was organized.</p>
+      		<p>The first catalog of the College was issued in 1854-55. It was a pamphlet consisting of about sixteen pages and showed very few changes in the curriculum, the principal one being the extension of Mathematics throughout the Junior year.</p>
+      		<p>The opening of this year of 1854-55 saw the first Senior class in Tufts College. Its work included Chemistry, Intellectual Philosophy, Political Economy, Logic, Forensics, Mineralogy and Geology, Religion, and Rhetoric, with opportunity for the election of modern languages. In the years following a tendency to progress and liberality in curriculum can be traced. In 1857 Professor Drew resigned and A. A. Keene, a graduate of Harvard, was appointed Professor of Ancient Languages and Classical Literature. In 1860 Dr. Schneider was appointed Professor of the Greek Language and Literature.</p>
+      		<p>By 1856-57 the number of students rose to a point which was maintained for several years. The class entering in 1856 numbered about fifteen, while the Sophomore class numbered nineteen. The Junior and Senior classes numbered nine and four respectively, while six special students brought the total enrollment of students up to fifty-three. The next year it dropped to fifty and the next year to forty-nine, rising again to fifty-eight in 1859-60, and dropping to fifty-three in the next year.</p>
+      		<p>During the six years of Dr. Ballou's administration from 1855-61, one hundred and eight students registered in the regular course and twelve in special courses, while forty-seven men received the degree of Bachelor of Arts.</p> 
+      		<p>Thus before the war Tufts was launched on a career that boded prosperity. With a constantly increasing equipment, more than half a hundred students, and a corps of able and
+      <pb n="p.22" id="p.22"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00011" id="Fig.11">
+	<head>THE QUADRANGLE, MINER AND PAIGE</head></figure>
+		devoted instructors, a brilliant future seemed to lie before the young institution, but he to whom its success was so largely due, was not to live to see the fruitage of his labors. Dr. Ballou was a man of great conscientiousness, and the work into which he had thrown himself with his whole soul, at length brought on an illness from which he died on May 21, 1861.</p>
+      		<p>Dr. Ballou's gift to the College was his library, which for the time was a remarkably fine one. Students to-day, in looking through the volumes of our library often find books whose margins are closely annotated in the fine scholarly writing of Dr. Ballou, and we cannot but think that he who wrote them filled well his place, and that without his painstaking care and lofty ideals Tufts College would scarcely be what it is to-day.</p>
+      		<p>For a year after Dr. Ballou's death the College remained without an official head. During this time its affairs were well administered by Professor Marshall. On account of the low finances of the College it was thought that Alonzo Ames Miner, D.D., because of his energy and splendid business ability, would be the best man for the position, which was accordingly offered him, and on the eleventh of July, 1862, he was inaugurated.</p>
+      		<p>When Dr. Miner assumed the responsibility of his position he found the College with an income of about one thousand dollars and a debt of eighteen thousand, which was increasing at the rate of nearly five thousand dollars annually. When he left the presidency, the assets of the College amounted to nearly a million dollars, although expenses had greatly increased, and owing to the great Boston fire of 1872, manufacturing interests in which college money was invested, had greatly depreciated.</p>
+      		<p>But it was not merely as an executive business man that Dr. Miner took high rank, but also as a teacher. The influence of his powerful personality upon those who came under his instruction was great, although it is as an administrator that he is chiefly remembered.
+	<pb n="p.24" id="p.24"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00012" id="Fig.12">
+	<head>BALLOU HALL AND BARNUM MUSEUM</head></figure>
+		He did not relinquish his pastorate in Boston, and came nearly every day to the Hill, conducting classes in Ethics and Political Economy.</p>
+      		<p>During his administration several gifts came to the college. Mention has been made of Thomas A. Goddard and Sylvanus Packard, whose gifts were constant. During this period Dr. William J. Walker of Newport, R. I., bequeathed about two hundred thousand dollars to the college. Although not a Universalist, and deeply interested in Harvard University, he foresaw the career before the younger college. The first large sum which the College received after the accession of Dr. Miner was from his own parish, amounting to about seventeen thousand dollars. The state gave the sum of fifty thousand dollars on condition that the College furnish a like amount, and thus one hundred thousand dollars more was obtained.</p>
+      		<p>In Dr. Miner's administration but one new building was erected. This was West Hall, a four-storied brick dormitory which is still, perhaps, the most popular dormitory on the Hill.</p>
+      		<p>As the resources increased, the curriculum was expanded by the establishment of a Philosophical Course and a Department of Engineering. In 1861 Professor Brown was engaged as tutor in Mathematics and four years later was given charge of the Department. In 1864 Professor Dearborn was called to the chair of Latin, and Professor Shipman to take charge of the departments of Rhetoric, Logic, and English Literature. In 1866 a chair of Oratory was established with Moses True Brown as its incumbent. In 1869 an instructorship in vocal music was established. In 1871 Charles E. Fay of the class of '68 was appointed Wade Professor of Modern Languages. In 1874 Amos E. Dolbear, A.M., M.E., a man already prominent in the scientific world, was appointed Professor of Physics and Astronomy. Facilities for work in science and modern languages were increased and a few more electives added.</p>
+ 	<pb n="p.26" id="p.26"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00013" id="Fig.13">
+	<head>VIEW FROM THE WEST</head></figure>
+      		<p>In 1865 a course in Engineering leading to the degree of Civil Engineer was established. In 1868-69 T. Willis Pratt, C.E. was instructor, being assisted by Mr. Kinsman as Instructor in Applied Mathematics; and in 1869 Charles D. Bray, C.E., was appointed instructor in Civil and Mechanical Engineering, being advanced to the grade of professor the year following. This course originally extended over three years. Mathematics, Physical Sciences, French, Rhetoric, Intellectual and Moral Philosophy, Political Economy, and Logic were among the requirements of the course, and lectures on Mercantile Usages and Christian Evidences were introduced in the third year. It was not long, however, before this course was placed on a strictly technical basis. In 1874 it included Surveying, Drafting, Construction, Mechanics, Field Engineering, and Chemistry.</p>
+      		<p>In 1869 another department, the Divinity School, was added.</p>
+      		<p>The number of students increased with the facilities, and in 1874 there were eighty-three in attendance, forty-seven being in the regular course of Liberal Arts.</p>
+      		<p>Athletics were fast becoming a prominent feature of college life.  Baseball was introduced in 1863 and football followed ten years later. A fencing club was organized, of which Professors Tousey and Bray were honorary members. In the spring of 1865, a four-oared lapstreak boat was purchased by members of Theta Delta Chi and placed in a boat house on the Mystic. There was no regular crew, but C. V. Curtis, '66, was coxwain. Shortly after this some members of Zeta Psi purchased a boat, and friendly contests took place. The Tufts Athletic Association was formed in November, 1874, and on the fourth of that month the first athletic contest was held. The events comprised a mile walk, mile run, one hundred yard dash, wheelbarrow race, high and broad jump, sack race, and three-legged race.</p>
+      		<p>On December 3, 1874, at the end of the first half of the college year, Dr. Miner resigned
+	<pb n="p.28" id="p.28"/>
+
+
+
+	<figure n="tufts:central:dca:UA021:UA021.001.011.00006.00006" id="Fig.14">
+	<head>LOOKING NORTH FROM BALLOU HALL</head></figure>
+		the presidency. He felt that he should either have to give up the College or his parish, and believing that the work for which he had assumed the presidency had been accomplished, he resigned. During his administration the College increased wonderfully in endowment, equipment, and in general facilities; and it is due largely to his great executive ability that this was accomplished. He put the College firmly on its feet and prepared it well for the further work that it was destined to accomplish in the line of education.</p>
+	      	<p>At the resignation of Dr. Miner, the Trustees cast about for another suitable man, and for a while the name of the Hon. Israel Washburn, Jr., ex-Governor of Maine, was considered, but it was finally decided to put a graduate at the head, and on March 2, 1875 the Rev. Elmer Hewitt Capen was nominated, and soon after elected. His inauguration took place on June 2 of the same year.</p>
+      		<p>Owing to the briefness of this history, Dr. Capen's administration will be considered only as regards its effects. Under Dr. Ballou a place was prepared for the College, under Dr. Miner this place was made secure, and under Dr. Capen " Progress " was the watchword. He, as no other, enlarged its scope and placed it in the front rank of New England colleges.</p>
+      		<p>It was noticeable soon after his administration began that the courses gained in liberality and opportunity for election. It was soon after this that the scheme in vogue up till 1907, the requirement of 128 term hours for a degree, the greater part of which were elective, was instituted.</p>
+      		<p>The College grew rapidly. By 1886 the library had reached such proportions that a stack was built on the rear of Middle Hall, which ever since has been the Library. Many buildings were erected during President Capen's term; Goddard Chapel, one of the finest gems of architecture in the country, the Gymnasium, both the gift of Mrs. Mary T. Goddard
+ 	<pb n="p.30" id="p.30"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00015" id="Fig.15">
+	<head>LOOKING SOUTH FROM BALLOU HALL</head></figure>
+		in memory of her husband; Barnum Museum was erected in 1882, and here the remains of immortal Jumbo rest. Dean Hall was built in 1886, and in 1894 the Bromfield-Pearson School was established from funds left by Henry B. Pearson.</p>
+      		<p>In 1892 the college was opened to women and in 1894 Metcalf Hall was erected as their dormitory. In this year were also built the Chemical Laboratory and Commons Hall. The number of students increased rapidly and money also flowed into the college from various sources. In 1892, by the gift of ex-President Miner, the hall was built which bears his name, and made a very necessary addition to the Divinity School. Paige Hall was erected soon after as a dormitory for divinity students.</p>
+      		<p>In 1893 the Boston College of Physicians and Surgeons was in rather a precarious condition, and several of the professors resigned, formed a school, and applied to the trustees of the College for incorporation. On August 29, 1893, they held their first faculty meeting. Drs. Dudley Nott, Thayer, Hall, Chipman, Johnson, and Wheatly thus became the founders of Tufts Medical School. On September 1, 1893, a building at 188 Boylston Street was taken and lectures began. The school increased so rapidly that an additional hall was leased on the corner of Boylston and Tremont Streets. In 1900 it was voted by the Trustees to provide a building for the combined schools of medicine and dentistry and a building was erected at the corner of Huntington and Rogers Avenues. The school is the largest in New England and holds a very high rank among medical schools in the country. Great credit is due Dean Williams for his painstaking labor in behalf of the school.</p>
+      		<p>Thus, during the administration of Dr. Capen the college expanded to university proportions, and it is to his splendid achievements and winning personality that Tufts owes so much. On March 22, 1905, he was stricken down, in the height of his powers. His name
+      	<pb n="p.32" id="p.32"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00016" id="Fig.16">
+	<head>[EXTERIOR VIEWS OF PEOPLE WALKING ON STREETS AND IMAGES OF DESERTED STREETS]</head></figure>
+		will always be held in reverence by all who knew him, and he will always be regarded as having done his best for Tufts and having placed her on a commanding eminence among educational institutions.</p>
+      		<p>Soon after President Capen's death, Rev. F. W. Hamilton, D.D., LL.D., was appointed acting-president, and on June 19, 1906, was inaugurated president. Dr. Hamilton brings to his office those qualifications which modern college presidents should have. He has, by his tact, insight, and unremitting energy, won the confidence and support of the members and constituency of the College.</p>
+      		<p>In 1906 the name of the Divinity School was changed to that of the Crane Theological School, through a gift of $100,000 from the estate of Thomas Crane of New York, whose son, Albert Crane, '63, thus carried out the wishes of his father. In 1905 a gift of $100,000 from Mr. Andrew Carnegie made possible the erection of a fine, new library on ground opposite Miner Hall. Thus progress is ever being made, and the future promises an achievement for the College which shall be worthy of its past. All departments of the College have grown rapidly and in 1900 the Engineering Department was further increased by the erection of Robinson Hall. In 1899 the Medical School, by the absorption of the Boston Dental College, was enabled to offer courses in these branches.</p>
+      		<p>Thus we bring this short history to a close. It is in many respects faulty, as must necessarily be from its length, but if it has given some idea of the growth of the College, its purpose has been fulfilled. We are indebted to the editors of the history published by the class of 1897, which has been followed in making this history.</p>
+	<pb n="p.34" id="p.34"/>
+	</div2>
+	
+	
+	
+	<div2 type="subchapter" n="Ballou Hall" id="cls2">
+		<head>Ballou Hall</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.003.00002.00001" id="Fig.17">
+	<head>BALLOU HALL</head></figure>
+      		<p>Ballou Hall, the nucleus from which our present score of buildings grew, was built in 1853. On the twenty-third of July of that year the corner-stone was laid by the president-elect, Hosea Ballou 2d, with appropriate ceremonies. The old Hill presented a festive scene and the ceremonies were marked throughout by a spirit of confidence, of fidelity and of success.</p>
+      		<p>It was then almost as it is to-day, rectangular, one hundred feet long, by sixty broad, built in Italian style of red-faced brick, with sandstone trimmings. On the first floor the corridor ran the entire length of the building, with two rooms to right and left at the farther end, corresponding to those at the entrance now. There was no " office " in those days, but all business and Faculty meetings were held in the room now assigned to the Dean. Only this little room and the one adjacent, the mathamatics room, remain undisturbed. The two rooms opposite formed one known as the "small Chapel." The "large Chapel," was a single hall occupying the westerly half of this floor, now divided into four or five rooms, There was no " Bookstore" then. The upper floor has undergone the least change; the three middle windows on the front looked out from one large room, the College Library open on certain hours, for which the student paid a fee of one dollar a year.</p>
+	<pb n="p.36" id="p.36"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="East Hall" id="cls3">
+		<head>East Hall</head>
+	<figure n="tufts:central:dca:MS054:MS054.003.DO.02259" id="Fig.18">
+ 	<head>EAST HALL</head></figure>
+      		<p>In the palmy days, East Hall was a gaunt structure of a sombre brown color, the well-littered entrance leading across the hall to the stairway. For then one mounted not at the ends of the hall, but by a sumptuous escalier in the middle part. The stairs were hollow from many footsteps, and four-fifths of the balustrade had long since disappeared, a prey to the coal hods full of ashes dropped from the third story -in the "palmy days " you had to "lug" coal up from the cellar and ashes were most expeditiously emptied by dropping the coal hod full down the cell of the stairway. Filling and cleaning the kerosene-oil lamps also was a task for the roomers; for rest assured that the "care-taker " did not do it.</p>
+      		<p>In the basement was a long hall on the north side-the" Dive " - chiefly of value as a solace for hungry stomachs in the late hours. The rest of the basement and some rooms on the first floor were occupied by " kitchen mechanics."</p>
+      		<p>There were no proctors in those days. Generally speaking, Freshmen predominated in East Hall; still, there were upperclassmen, and even graduate students -a source of awe. The occupants of the small rooms at the ends of the halls, men of brawn, by courtesy called "students," sleeping here during the football and baseball seasons, should not be omitted. Their names were never called in the classroom roll; thank heaven, that feature has long since been a thing of the past.</p>
+      		<p>Yet life was not all beer and skittles in East Hall; men of intelligence, vigor, and high ideals were formed in those dingy walls. Many a time the talk has drifted on to the small hours of the night, and high conceptions of manhood and honor were enunciated by youthful lips, and the middle age of many a one of them has not belied their East Hall dreams.</p>
+                <p>C. St. C. W.</p>
+	<pb n="p.38" id="p.38"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="West Hall" id="cls4">
+ 		<head>West Hall</head>
+	<figure n="tufts:central:dca:UA021:UA021.001.011.00006.00007" id="Fig.19">
+ 	<head>WEST HALL</head></figure>
+		<p>West Hall, the fourth building to be erected by the College, was opened to students in 1872. It is a four-storied brick structure, divided in the middle into what are practically two halls. At first the Divinity School occupied the western end, but since the opening of Miner and Paige Halls in 1892, the entire building containing thirty-three suites, has been used as a dormitory.</p>
+      		<p>West is perhaps the favorite dormitory of the Hill. On the front is the greensward of the Campus; toward the west, a clear sweep over the " Rez " to the valley beyond and the ragged range of hills that fringe the sky; to the rear, Middlesex Fells and sleepy old Medford drowsing in the sun of a warm spring day; and to the east, Malden and Everett, with the brown monotony of the clay pits on this side and the blue of the sea beyond. It is an ideal location.</p>
+      		<p>Many and varied are the associations connected with old West. It was here in the later '70's that Professor Dolbear set up the transmitter of one of his first telephones, the receiver of which was placed in Room I, Ballou, and the listeners were regaled with a cornet solo played nearly three hundred feet away. Here generations of Tufts men have lived their brief four years, perhaps in the very rooms their fathers occupied before them. Here still linger the traditions of historic " rough houses " and " hoodangs " of by-gone days. Today the life in the old dormitory is much the same, and the pleasantest memories of many a young man are linked with the high, ungainly rooms and the bleak, wind-swept hallways of West.</p>
+                <p>H. J. S.</p>
+	<pb n="p.40" id="p.40"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Barnum Museum" id="cls5">
+		<head>Barnum Museum</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.003.00005.00002" id="Fig.20">
+	<head>BARNUM MUSEUM</head></figure>
+      		<p>The Barnum Museum of Natural History was built in 1883-84 by the late Phineas T. Barnum, who gave the College a fund for its maintenance, and for the addition of two wings to the central building. One of these wings has been erected. In addition to laboratory rooms, it affords space for the display of the mineralogical and geological collections.</p>
+      		<p>The College is also indebted to Mr. Barnum for the larger portion of its zoological collection. This serves to illustrate all groups of the animal kingdom, and is especially rich in skeletons and mounted skins of mammals, the whole being well adapted for the purposes of instruction. The botanical collection consists of a herbarium containing a representation of the flora of New England, besides many specimens from Europe and the southern and western states. The geological collection contains representives of the various types of rocks, as well as of fossils from all formations. The mineralogical collection embraces fine examples of most of the specimens. The department library of Natural History, numbers over twenty-five hundred volumes and more than six thousand pamphlets.</p>
+    		<p>The laboratories and lecture-rooms of the department of Geology are in the main Museum building. The geological laboratory is provided with petrological microscopes, instruments for making rock sections, and other instruments. The mineralogical laboratory possesses the apparatus necessary for the determination of minerals, the analysis of ores, and assay work. The biological laboratories are in the wing. The laboratory for elementary work is furnished with all necessary facilities, while the laboratories (two in number) for advanced and research work have all the appliances needed for investigation on the lines of anatomy, histology, and embryology.</p>
+	<pb n="p.42" id="p.42"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Jumbo" id="cls6">
+		<head>Jumbo</head>
+	<figure n="tufts:central:dca:UA021:UA021.001.003.00005.00003" id="Fig.21">
+	<head>JUMBO</head></figure>
+		<p>Jumbo, "King of the Elephants," after having passed his infancy in Africa, his native land, his youth in London, and his maturity in traveling on two continents with P. T. Barnum, now reigns peacefully over a court of lesser beasts and receives his admirers in the main exhibition room of Barnum Museum. His skeleton, the largest of a modern terrestrial mammal, is in the possession of the Smithsonian Institute.</p>
+      		<p>When Jumbo was received at the London Zoo in 1865, he was only five feet high. In seventeen years he had grown to eleven feet; at this time Mr. Barnum bought him for $10,000. Jumbo subsequently grew to a height of twelve feet and a weight of seven tons.</p>
+      		<p>In 1885 Jumbo was killed in an heroic and successful attempt to save the lives of his keeper and of his comrade, a dwarf clown elephant known as "Tom Thumb." A freight train struck Jumbo and pushed his tusks into his brain causing instant death. Jumbo had such a strong hold upon the public that his death was regarded as a general calamity.</p>
+      		<p>To Prof. Henry A. Ward is due the credit of preparing Jumbo for exhibition. The skin when first removed from the body weighed 1538 pounds; it varied in thickness from half an inch to an inch and a half. After it was tanned, it was scraped to a uniform thickness and nailed to a huge wooden framework with 74,480 nails.</p>
+      		<p>Since becoming an inmate of the Museum, Jumbo has made a trip to Europe as a part of "The Greatest Show on Earth." His return to the public was heralded far and wide. Pictures of Jumbo's death, Jumbo restored, and of his skeleton were also exhibited. He was received with great enthusiasm. Such large sums were offered for these two specimens that Mr. Barnum was strongly tempted not to bring them back to America.</p>
+	<pb n="p.44" id="p.44"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Biological Laboratories" id="cls7">
+		<head>The Biological Laboratories</head>
+	<figure n="tufts:central:dca:UA021:UA021.001.003.00005.00004" id="Fig.22">
+	<head>A LABORATORY, BARNUM MUSEUM</head></figure>
+		<p>The illustration shows the laboratory for all undergraduate students in the department of Biology, save those taking elementary courses. With large windows on three sides, it is one of the best lighted biological laboratories in the country. There are three other large laboratories in the wing, besides two small rooms, one occupied by graduate and advanced students and the other used as a private laboratory. The department is well equipped with every requisite for good work, including microscopes, microtomes, reagents, abundant material for illustration and dissection, and not the least important, a choice and rapidly growing special library.</p>
+      		<p>In the early Museum days, when students were less numerous than now, the basement room in the main building, at present occupied by the Geological Department, afforded ample laboratory accommodations. Then as now, lectures were given in the lecture room on the ground floor. Later, some of the laboratory work was done in the lecture room, but this was unsatisfactory on account of bad lighting and inadequate space. At this time also, the small collection of books comprising the department library was kept in this room.</p>
+      		<p>With the growth of the College and of the Department, came the building of the wing. At first the basement and first floor laboratories were sufficiently commodious, but in 1904 there was demand for a larger laboratory, and the large upper room was opened for elementary students. At present the basement room is used for a private laboratory. Instruction in biology is given both by lecture and by laboratory work, the object being to impart the scientific method of work and thought rather than to cram the student with a large number of unimportant facts.</p>                                                      <p>M. I. L.</p>
+ 	<pb n="p.46" id="p.46"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Goddard Gymnasium" id="cls8">
+		<head>Goddard Gymnasium</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00023" id="Fig.23">
+	<head>GODDARD GYMNASIUM</head></figure>
+		<p>In 1884, by the gift of Mrs. Mary T. Goddard, the erection of a gymnasium was made possible. In its first form it was not the Gym as we know it. The part now containingthe baseball cage and trophy room was not erected until 1898. This addition made the building ample for its purposes. In the trophy room are the memorials of many hard-fought battles, perhaps the best known being the bronze tablet representing the victory of the football team over Harvard. Mr. C. B. Lewis is the present physical director and work is required of all students for the first two years. On the third floor are the music rooms and the library of music and rolls connected with the Music Department. In this room are a Pianola, an AEolian, and an Ivers &#x0026; Pond player-piano, and several hundred rolls for these instruments. The building is constructed of brick with ornamented facings and is three stories in height. It is near the old campus and tennis courts.</p>
+	<pb n="p.48" id="p.48"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Gymnasium" id="cls9">
+		<head>Gymnasium</head>
+	<figure n="tufts:central:dca:MS054:MS054.003.DO.02491" id="Fig.24">
+	<head>INTERIOR OF GODDARD GYMNASIUM</head></figure>
+		<p>Goddard Gymnasium contains all the apparatus and facilities of the most modern gymnasiums. There are facilities for light and heavy gymnastics, fencing, wrestling, basketball, baseball, and track. The cage is in the basement and is exceptionally well lighted. The team is called out in February and has indoor practice till opportunity comes for outdoor practice. There is a padded running track in the galley, twenty-four laps to a mile. On the second floor are the offices of the director, containing a full set of anthropometric instruments. Physical examinations of all students are required. The dressing-rooms, lockers, and baths are in the basement. The building is heated by steam and lighted by electricity throughout. The basketball games during the winter are held here and the arrangement of the floor makes it well suited to the game. Class gymnastic exhibitions have been held in the past, but were discontinued in 1906-07. The trophy room offers a fine floor for dancing, and evening parties are held here.</p>
+	<pb n="p.50" id="p.50"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Dean Hall" id="cls10">
+		<head>Dean Hall</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00025" id="Fig.25">
+	<head>DEAN HALL</head></figure>
+	      	<p>In 1886, the rapidly growing student body made imperative the erection of a new dormitory, and Dean Hall was built. Funds for this purpose had been bequeathed by the late Oliver Dean, one of the largest donors to the College, and the founder of Dean Academy. The building is three stories in height, of brick trimmed with sandstone, and its rooms are among the finest on the Hill. It is heated throughout by steam and lighted by gas; the rooms are arranged in suites consisting of study and two bedrooms. It is situated behind the Gymnasium and faces on the old campus. Although not the most beautiful dormitory in the world, yet its rooms are in great demand on account of their comfort and arrangement. The student body has grown so rapidly in the last few years that part of Paige, the Theological School dormitory, has been required for the Engineering students.</p>
+	<pb n="p.52" id="p.52"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Metcalf Hall and Start House" id="cls11">
+		<head>Metcalf Hall and Start House</head>
+      	<figure n="tufts:central:dca:MS054:MS054.003.DO.01955" id="Fig.26">
+	<head>METCALF AND START</head></figure>
+      		<p>Metcalf Hall, the principal women's dormitory on the Hill was erected in 1894 on the corner of Professors Row and Latin Way and was the gift of Albert Metcalf of Newton, a man who has been lavish in his gifts to Tufts College. The hall is a three-story building of yellow brick with gray stone trimmings, and consists of a main part and an ell; it is said that it was the original idea to have two main wings connected by an ell, but the plan was not carried out, and only one of the intended wings was ever built. In the main corridor of the hall, just opposite the entrance, there is a tablet on which is inscribed: " In honor of women and as a help to her higher education this building is erected by Albert Metcalf in 1894." The hall contains a matron's suite, a reception room, a reading room, kitchen, dining room and laundry conveniences, and servants' quarters, as well as dormitory accommodations for thirty-two women. The dining room is light and cheery, and has three tables large enough to seat all the girls of Metcalf Hall and Start House, the other dormitory, as well as many of the day students who come in occasionally for a luncheon or a dinner. The reading room is a favorite gathering place for the girls, and offers pleasant recreation through its piano and its magazines; this room is also used for the bi-weekly meetings of the All Around Club, the social club to which all the Tufts girls belong. Life at Metcalf Hall is the usual life of a girl's college dormitory; there are no end of chafing dish spreads and teas and fudge parties, and there is always an abundance of fun and jollity on foot.</p>
+	<pb n="p.54" id="p.54"/>
+	</div2>
+
+
+
+  	<div2 type="subchapter" n="The Crane Theological School" id="cls12">
+		<head>The Crane Theological School</head>
+  	<figure n="tufts:central:dca:UA136:UA136.002.DO.00604" id="Fig.27">
+	<head>MINER AND PAIGE</head></figure>
+  		<p>The Crane Theological School has its home in Miner and Paige Halls, on the southern slope of the Hill.</p>
+      		<p>As one enters Miner, on the right are two class rooms, on the left is the theological library where pious " Theologues" spend many hours pondering over the eschatology of Theodore of Mopsuestia, as the probable origin of the "P. J. and E." narratives in the Hexateuch. Next to the library is the Maria Miner Reception Room. Here may be seen one of the valuable relics of the church-the table on which John Murray, the apostle of Universalism in America, wrote his sermons one hundred years ago.</p>
+      		<p>On the second floor of Miner, on the left, is the Dean's room. This is a shrine to which all underclassmen aspire and to which graduates turn back in loving memory. On the other side of the corridor is another class room. The remaining room is used as a chapel.</p>
+      		<p>Paige Hall is the theological dormitory with its narrow cells; the coming priests attired in their Roman cowls (or, to use the modern term, bath robes), spend their days of preparation in cloistered seclusion and separation from the world. It may be well to add that this simple life is not always followed. Sometimes there is a " concert " on the second floor- music, singing, dancing; then a game of hockey; and, of course, a midnight spread. Occasionally a dignified fifth year man is disturbed by such worldliness and calls us " East Hall comedians "; but this only adds zest to our pleasure. In truth the life in Paige Hall is full of good cheer and fraternal interest, for the true Tufts spirit prevails.</p>
+                <p>H. C. G.</p>
+ 	<pb n="p.56" id="p.56"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Goddard Chapel" id="cls13">
+		<head>Goddard Chapel</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.007.00003.00001" id="Fig.28">
+	<head>GODDARD CHAPEL</head></figure>
+      		<p>Goddard Chapel, erected in 1883, is the gift of Mrs. Mary T. Goddard, as a memorial of her husband, Thomas A. Goddard. It is built of stone, cruciform in design with but one transept carried to completion. On the south side a triple-arched cloister connects the transept with the western entrance; the massive tower on the north side may be seen for miles around. The interior is simple yet churchly; the walls of the nave are tiled with brick to a height of seven feet, forming above a Roman arch. At the east is the chancel with a simple communion table in the centre, and at the right and left, lectern and pulpit. Around the sides are " faculty seats." The magnificent chancel window represents St. Paul with sword and Holy Bible in hand. Beneath the window is a bronze bust of President Capen. In the transept is a memorial tablet in honor of the Tufts men who served during the Civil War.</p>
+     		<p>The Chapel is the centre of religious life at Tufts. Daily morning prayers are held, and on Sundays, evening prayer and sermon. During Lent vespers are held mid-week.</p>
+     		<p>Aside from the religious life, much supremely collegiate centers here. During the academic year, Tower Cross conducts lectures and musicals here, the Glee Club gives mid-year concerts, and debates are conducted here. On Class Day the Seniors hold their last morning exercises in the chapel.</p>
+        	<p>Perhaps the greatest event of all is Commencement. Then the long procession of Seniors and Faculty attired in academic gowns, proceeds to the Chapel, where the degrees and final honors are conferred.</p>
+        	<p>From the first day as a freshman until the graduate departs, the Chapel has been a part of the college life, and it has left an unforgettable impression.</p>
+        	<p>H. C. G.</p>
+	<pb n="p.58" id="p.58"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Eaton Memorial Library" id="cls14">
+		<head>Eaton Memorial Library</head>
+    	<figure n="tufts:central:dca:UA021:UA021.001.006.00001.00001" id="Fig.29">
+	<head>EATON MEMORIAL LIBRARY</head></figure>
+    		<p>In 1905 a gift of $100,000 from Mr. Andrew Carnegie made possible the erection of the new Library. Ground was broken in the spring of 1906. The building is of brick faced with marble. The approach is imposing, the steps rising in tiers to an impressive portico. The library contains reading rooms and rooms for the libraries of the various departments. The stack extends from basement to roof and is amply sufficient for the needs of the College. Steam heat and electric lighting are installed throughout. The new library fills a real need, for the old library was much too small for the rapid increase of books. In 1907 the name was changed at the request of Mrs. Carnegie to that of the Eaton Memorial Library, in remembrance of Dr. Chas. H. Eaton, a graduate of the Tufts Divinity School, '74, and the College of Letters, '77. He received an honorary D.D. in 1887. Dr. Eaton was a polished and scholarly preacher, and the dedication of this magnificent library is a well-deserved tribute to this able and learned son of Tufts.</p>
+	<pb n="p.60" id="p.60"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Curtis Hall" id="cls15">
+		<head>Curtis Hall</head>
+	<figure n="tufts:central:dca:UA021:UA021.001.005.00007.00001" id="Fig.30">
+	<head>CURTIS HALL AND POST OFFICE</head></figure>
+		<p>Curtis Hall was completed in 1894. It is situated at the foot of the hill on College Avenue, and in addition to rooms for students it contains the college post office and Commons dining hall. Recently the wing facing the chemical laboratory has been renovated, and is used by the department of engineering as a lecture hall. The "Dive" which originally occupied this wing has been moved to the other side of the building. Curtis Hall originally contained a general book and supply store, but with the advent of the Bookstore this was removed to the second floor of Ballou Hall. Curtis Hall is occupied almost entirely by engineering students on account of its nearness to Robinson Hall and the Bromfield-Pearson School. It is steam heated and lighted by gas. On the second floor are the offices of the Tufts College. Publishing Association. In the basement is situated the Tufts College Press, managed by H. W. Whittemore, '86. All the college printing is done there besides the publishing of the TUFTS COLLEGE GRADUATE.</p>
+	<pb n="p.62" id="p.62"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Dive" id="cls16">
+		<head>The Dive</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00031" id="Fig.31">
+	<head>THE DIVE</head></figure>
+		<p>What memories cluster around the old Dive  Even now we can hear the tinkle of glass and the rhythmic beat of a multitude of feet, as the itinerant orchestra grinds out the prison song from Il Trovatore! The Dive is a fond recollection of every college man. It is now situated in the side of Curtis nearest the bridge. After passing through various forms of management, it is run this year under private supervision. Those not eating at fraternity houses find here a happy mingling of fellows on a common footing. Many stories of the Dive have been published in former "Brown and Blues," and it always holds a place in one's memory. The Dive has done much to promote a feeling of common interest among the men of the College and as such performs a function which could not well be filled by any other institution.</p>
+	<pb n="p.64" id="p.64"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Robinson Hall" id="cls17">
+		<head>Robinson Hall</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.010.00006.00001" id="Fig.32">
+	<head>ROBINSON</head></figure>
+      		<p>Robinson Hall, erected in 1900 through the generosity of the heirs of the late Charles Robinson, a former president of the Board of Trustees, is occupied by the Department of Engineering. The building is of red brick and terra cotta with granite underpinning and portico, and is one hundred and twenty feet long by fifty feet wide.</p> 
+      		<p>Nine years ago when the plans for the building were being prepared and its exact location was being determined, it was urged by Dean Anthony and his advisers that room should be left for another closely adjacent engineering building of even greater dimensions. This proposition was hardly taken seriously by those representing the Trustees, who affirmed that the time when Tufts College would require an additional engineering building was so remote that it need give the present generation no concern. But to-day engineering classes are meeting in the dining room of Curtis Hall, and any considerable increase in the number of students would require another building. And this increase is likely to occur, for more and more the world is entrusting the stupendous interests of its commerce and its industries to the technical graduate. Each year sees a greater demand for the engineering graduates of Tufts College. Last year we had calls for between two or three times as many men as received diplomas.</p>
+                <p>W. L. H.</p>
+	<pb n="p.66" id="p.66"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Mechanical Laboratory" id="cls18">
+		<head>Mechanical Laboratory</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.010.00006.00002" id="Fig.33">  
+	<head>MECHANICAL LABORATORY</head></figure>
+	      	<p>Receiving steam for heat and power through a subterranean conduit from the Power House in the rear, the entire basement of Robinson Hall is available for laboratories, shops, etc. In the south end is the mechanical and hydraulic laboratory. This room is used by all engineering students during the first half of their Junior year. Tests are made with a 60,000-pound Olsen testing machine of wood, iron, steel, and concrete, embodying tension, compression, shear, and transverse bending. Besides, practical problems are analyzed concerning bolt friction as applied to the strength of bolts or studs in cylinder heads, machines and so on, and belt friction as regards to power transmission by belt and rope driving, both by experiments and illustrative problems.</p>
+      		<p>The classes are divided into squads of ten to twelve students so that each student has opportunity to take observations himself and to ascertain something of his " personal equation " in attempting such work.</p>
+      		<p>In the second half of their Junior year the Civil Engineers use this room for their course in Hydraulic Measurements which includes tests with a 6oo-gallon Worthington duplex pump, standard nozzles, water-meters, weirs, channels, Pitot tubes, and a 12-inch Pelton water-wheel. The same class also carries on field experiments whereby it measures the flow of water in a river or canal and determines the water-power thus afforded.</p>
+                <p>F. B. S.</p>
+	<pb n="p.68" id="p.68"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Steam Laboratory" id="cls19">
+		<head>Steam Laboratory</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00034" id="Fig.34">
+	<head>STEAM LABORATORY</head></figure>
+		<p>The steam engineering laboratory contains a small Harris-Corliss engine with piping arranged to exhaust either into the atmosphere or into an admiralty type independent condenser; also several smaller engines, a belt-driven air compressor, and a machine for testing lubricating oils and bearing metals. The laboratory is well equipped with indicators, calorimeters, weighing tanks, and the smaller apparatus required.</p>
+      		<p>Additional apparatus for instruction in steam engineering is found in the Power House. Here there are two steam engines directly connected to electric generators, an engine belted to an Alden brake, and a gas engine belted to an electric generator and also provided with Prony and rope brakes.  These engines and the 125 H. P. boiler are all available for the purposes of testing.</p>
+      		<p>The regular list of experimental work includes tests on steam gages and indicators; determination of engine clearance; valve setting on plain slide valve, automatic high speed, and Corliss type engines, the flow of steam and air through orifices; tests on injectors and condensers; the use of steam calorimeters; tests on steam and gas engines under various conditions; and boiler tests.</p>
+		<p>Tests in neighboring power plants are frequently made by courtesy of the owners.</p>
+                <p>C. H. C.</p>
+	<pb n="p.70" id="p.70"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Dynamo Laboratory" id="cls20">
+		<head>Dynamo Laboratory</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00035" id="Fig.35">
+	<head>DYNAMO ROOM</head></figure> 
+		<p>The dynamo laboratory at the north end of the basement contains about twenty machines, all the generators being motor driven either directly or through shafting. Of considerable historical interest are the two Sprague railway motors, shown in the cut on the right under the heating chambers. They are the first pair of motors operated under a car by the West End Street Railway Company of Boston. Another interesting machine is a twenty-four pole Mordey alternator mounted on the same bedplate with and directly connected to a 125 volt direct current motor. This alternator yields currents of any frequency up to about twelve hundred periods per second and its forty-eight armature coils are arranged in twelve independent circuits, thus admitting of a great range of voltage and current in the output of the machine at normal field excitation. This and many other machines in this room have been designed and constructed in the college workshops and represent the theses of graduating students. Superintendent Raymond of the General Electric Co., has said that most of them are "commercial machines" that is, good enough to put on the market. In the view of the dynamo room the immediate foreground shows a pair of machines that can be used as direct current generators or motors, as alternating generators or synchronous motors of one, two, three, four or six phases, and as synchronous convertors. These also are the product of our workshops, and with them a great variety of important tests can be made.</p>
+                <p>W. L. H.</p>            
+	<pb n="p.72" id="p.72"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Electrical Laboratories" id="cls21">
+		<head>Electrical Laboratories</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.010.00006.00003" id="Fig.36">
+	<head> ELECTRICAL LABORATORY</head></figure>
+      		<p>On the first floor are recitation rooms, offices for instructors, the room for surveying instruments, the photometer room and the electrical laboratories. The elementary electrical laboratory, shown in the cut, is fitted for Wheatstone bridge work and the simpler kinds of electrical testing. The advanced laboratory is devoted largely to alternating current work and contains lamp banks, a general collection of testing instruments, eight modern oil insulated transformers, and two testing transformers, one wound for ten thousand volts, the other for fifty thousand volts. The two testing transformers are the products of Senior theses and have proved to be of great value in the testing of insulation. For several thousand dollars' worth of our electrical apparatus and machinery we are indebted to our distinguished graduate and Trustee, Dr. F. S. Pearson, of the Class of 1883.</p>
+                <p>W. L. H.</p>
+	<pb n="p.74" id="p.74"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Physical Laboratory" id="cls22">
+		<head>Physical Laboratory</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00037" id="Fig.37">
+	<head>PHYSICAL LABORATORY</head></figure>
+	      	<p>The second floor contains the library, the physics lecture room and apparatus room, and several recitation rooms and offices. The library is a branch of the main library of the College and is open to all students, who are at liberty to consult and take out such books as may be needed in their work. No librarian is in attendance, but each student records the taking out and return of a book from the room.</p>
+      		<p>The physics lecture room is the largest class room on the Hill, but it is filled whenever the three divisions of Physics I meet together for a lecture. Here also are held the meetings of the Engineering Society. The physical apparatus room is something of a curiosity shop. In addition to the apparatus now used for lecture room experiments, it contains many articles of historic interest, especially in the line of early forms of electric lighting and telephone apparatus.</p>
+                <p>W. L. H.</p>
+	<pb n="p.76" id="p.76"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Civil Engineering Room" id="cls23">
+		<head>Civil Engineering Room</head>
+       	<figure n="tufts:central:dca:UA021:UA021.001.010.00006.00004" id="Fig.38">
+	<head>CIVIL ENGINEERING ROOM</head></figure>
+       		<p>Half of the third floor is occupied by the elementary physical laboratory, a room admirably adapted for experiments not requiring extremely stable foundations. The remainder of the floor is devoted to the photographic room, the wet laboratory, and the civil engineering-drawing room. The latter is a lofty and finely-lighted room and is equipped with about forty drawing tables, a large blue-printing frame, and an electric light-tracing table. Here are carried on the courses in Roofs and Bridges, and allied structural subjects, as well as work in plotting and topographical drawing when inclement weather keeps the surveying classes indoors. Way up under the ridgepole of the building is a narrow room one hundred feet long, known as the " grave yard," a room not open to students or the public. Here awaiting a possible day of resurrection, reposes a great variety of old apparatus and material such as patterns and parts of machines, arc lamps, broken files of scientific publications, all the blue prints of the old Hinckley Locomotive Works, and much of the apparatus developed in Professor Dolbear's researches in telephony.</p>
+                <p>J. I.T.</p>
+	<pb n="p.78" id="p.78"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Surveying Courses" id="cls24">
+		<head>The Surveying Courses</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00039" id="Fig.39">
+	<head>THE SURVEYING COURSES</head></figure>
+      		<p>Among the special advantages that Tufts offers for teaching the subject of surveying, should be noted first the extent and topography of its grounds. There are in all about one hundred and fifteen acres owned by the College, and one-third of this area is still open,- not built upon by the irresistible " suburbanite " who is fast encroaching upon all sides,- and affords the advantages of an almost rural location, though situated in fact, within the Metropolitan district.</p>
+      		<p>Surveying classes reach the field in five minutes after leaving the Engineering buildings.</p>
+      		<p>The view opposite shows some of our surveying equipment and a part of the Sophomore class gathered on the Boulevard Field. This area is open as to its surface, in part hilly, with some stone walls and high fences, thus affording favorable conditions for various forms of surveying, including practice with the Plane Table, Stadia, and other topographical surveying. There is good opportunity as well for triangulation, and the determination of true meridan and time by solar and stellar observations, which practice is, carried on by the Juniors in Precise Surveying.</p>
+      		<p>Preliminary practice in Railroad Surveying now taken by the Seniors, is likewise carried on here on the College grounds; but practice under more extended surveys under the real conditions of hill and vale, thicket and clearing, swamp and field, is found two or three miles distant in the large undeveloped tracts in Stoneham; Woburn, Lexington and the Middlesex Fells Reservation, which should afford surveying opportunities for another half-century.</p>
+ <pb n="p.80" id="p.80"/>
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00040" id="Fig.40">
+	<head>FIELD SURVEYING WITH PLANE TABLE AND TRANSIT WORK</head></figure>
+      		<p>The scheme of instruction pursued in the Surveying classes has been largely that of the field method, which raises to the first importance a drill in the accomplishment of such tasks as a young engineer would be called upon to undertake. At times, it is a drill in holding one end of a tape, or driving a stake securely, but oftener it is a drill in technical principles as required for the proper execution of a problem in the field or in the office.</p>
+      		<p>Furthermore, the aim is not only to acquire reasonable facility in the use of instruments, but further to give that which is also of great importance, namely, experience in skillfully and tactfully dealing with one's fellow workmen.</p>
+      		<p>During the past year, on account of the increased numbers of Engineering students, all of whom take surveying the first half of Sophomore year, it has been necessary to revise the former methods of teaching this subject. The change that has been adopted aims to continue the system of small squads as a teaching unit -a plan of manifest advantages-- and to accomplish this, each student now acts in turn as the overseer of a squad. The instructor deals with the student, as representing the squad, lays out the work for him and holds him responsible for methods, results, care of instruments and so on - all of which he reports upon in writing at the end of the period. Thus an attempt is being made (and we think generally appreciated by the students) to create a business-like and comprehensive course in surveying that shall be both profitable and interesting.</p>
+                <p>F. B. S.</p>
+	<pb n="p.82" id="p.82"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Bromfield-Pearson Building" id="cls25">
+		<head>Bromfield-Pearson Building</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.003.00011.00001" id="Fig.41">
+	<head>BROMFIELD-PEARSON</head></figure>
+      		<p>The Bromfield-Pearson Building was built in 1893 from the funds of the late Henry B. Pearson, and is specially equipped for the laboratory in Pattern Making and Machine Work, together with drafting and recitation rooms. It is a substantial, three-story brick building measuring one hundred by fifty feet. Although it was originally designed to be furnished with heat, light, and power from its own plant, these are now supplied from the adjoining power station. The shops are driven by independent motors and the building is thoroughly lighted by electricity. The third floor is largely occupied by a hall which is used for lectures, large classes, and the meetings of the Tufts Engineering Society.</p>
+      		<p>In this building the work of the Bromfield-Pearson School is also conducted. This school is intended to meet the wants of a limited number of mature young men whose preparation for an Engineering course may be somewhat deficient, but whose experience in the applied field of Engineering may qualify them to pursue work of a College grade while making up these deficiencies. By this means an Engineering education is made possible to those who may have been deprived of opportunities for obtaining the necessary preparation, or who may have allowed considerable time between the high school and the college course. A mature mind, industrious habits, and a keen appreciation of the value of the higher education in Engineering are the essential qualifications for engaging in this work.</p>
+                <p>G. C. A.</p>
+	<pb n="p.84" id="p.84"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Pattern Shop" id="cls26">
+		<head>The Pattern Shop</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.003.00011.00002" id="Fig.42">
+	<head>PATTERN SHOP</head></figure>
+	     	<p>The Pattern Shop is equipped with benches, tools, and lathes for divisions of thirty students. The work here is designed to give a practical knowledge of the mechanical processes and the materials of construction by means of a graded series of exercises having in view the formation of habits of precision and the development of judgment essential to the engineer. The work in this department maintains a close relation with the courses in drawing and design.</p>
+      		<p>The first half of the Freshman year is spent on Joinery, Wood Turning, and Foundry, Joinery gives the elementary use of ordinary bench tools. Wood Turning is carried through straight turning, face plate, and chuck work. Foundry work, which is designed to give the necessary preparation for pattern making, takes up green-sand moulding in two-part and three-part flasks, with solid or split patterns, green-sand and dry-sand cores; also core making, and casting in soft metals. The course in Pattern Making includes work on simple and split patterns, built-up work, and core boxes. Considerable time is spent in the study of special problems.</p>
+                <p>G.C.A.</p>
+	<pb n="p.86" id="p.86"/>
+	</div2>
+	
+
+
+	<div2 type="subchapter" n="The Machine Shop" id="cls27">
+		<head>The Machine Shop</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00043" id="Fig.43">
+	<head>MACHINE SHOP</head></figure>
+      		<p>The Machine Shop and its equipment is designed to provide the means for laboratory training in the study and the use of machine tools. The equipment includes engine and speed lathes, drill presses, shapers, planer and milling machine, a thirty-inch Bullard boring mill, and Brown and Sharp universal grinding machine. The Shop is driven by a twelve horse-power motor which was designed and built by the students of the Electrical Department.</p>
+      		<p>Provision is made for a class of eighteen in the introductory course of Chipping and Filing, but it is intended to limit the number in the Machine Tool divisions to twelve students.</p>
+      		<p>The advanced course in project and constructive work is conducted here and many of the problems in machine design are brought to the test of actual construction.</p>
+      		<p>The first course in Chipping and Filing and Machine Tools includes instruction in work at the vise followed by lathe work which involves straight and taper turning and fitting, chucking, boring, reaming, and thread cutting; also drilling and planing, shaper and milling-machine work.</p>
+      		<p>The advanced course includes further instruction in lathe work upon steel and brass, the use of the boring mill, hardening and grinding, and the elements of tool making.</p>
+                <p>C. E. S.</p>
+	<pb n="p.88" id="p.88"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Drawing Room" id="cls28">
+		<head>Drawing Room</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00044" id="Fig.44">
+	<head>DRAWING ROOM</head></figure>
+      		<p>The accompanying cut illustrates one of the drafting rooms in the Bromfield-Pearson Building. It is equipped for a class of sixty-three students and is provided with ample light, having windows on three sides. The desks are arranged so as to enable each student to receive light from the left and front side. The scheme for artificial lighting is very efficient, each desk being provided with a lamp, while a general diffusion of light is obtained by seventeen fifty-candle power General Electric Meridian lights on the ceiling, making a total of one thousand eight hundred fifty-eight-candle power for the illumination of the room.</p>
+      		<p>Here are conducted the courses of elementary instruction in the modern language of Graphics, and the Engineering students are taught to express themselves in the only language which may be termed universal.</p>
+      		<p>From the first Tufts has taken this position with respect to the subject of drawing, requiring it to be taught as a language rather than as a course in penmanship, or picture making. The work of this department has been so correlated with that of the other Engineering courses that the student is made to realize the efficiency of this language as a medium for the expression of technical ideas.</p>
+                <p>G. C. A.</p>
+	<pb n="p.90" id="p.90"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Power Station" id="cls29">
+		<head>The Power Station</head>
+      	<figure n="tufts:central:dca:UA021:UA021.001.009.00004.00001" id="Fig.45">
+	<head>ENGINE ROOM AND POWER STATION</head></figure>
+      		<p>The Power Station is equipped with a one hundred and twenty-five horse-power boiler which supplies heat and power to the engineering buildings. The boiler is piped and equipped for experimental work in steam engineering and may be run by forced or natural draft.</p>
+      		<p>The engine room contains a forty horse-power Harrisburg Standard engine directly coupled to a twenty-five Killowatt, one hundred and twenty-five volt direct current General Electric generator which is used to furnish light and power to the engineering buildings. A ten horse-power Columbia gas engine belted to a direct current generator serves for auxiliary power and testing purposes.</p>
+      		<p>There is a twelve pole Mordey alternator having a two ton rotating field which is connected with a Sturtevant engine and used for experimental purposes; the Mordey alternator having been designed and constructed in the workshops of the College. A twenty-five horse-power Buckeye engine with an Alden absorption dynamometer is also used for the experimental course in steam engineering. A storage battery of sixty elements furnishes current for lighting, power, and laboratory purposes.</p>
+      		<p>An extension of the Power Station building provides accommodation for the Forge Shop and Foundry, the former being equipped with twenty-one forges together with the necessary tools for conducting the courses of this department.</p>
+                <p>G. C. A.</p>
+	<pb n="p.92" id="p.92"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Chemistry Department" id="cls30">
+		<head>Chemistry Department</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00046" id="Fig.46">
+	<head>THE CHEMICAL LABORATORY</head></figure>
+      		<p>For some years, prior to 1894, the Chemical Department had occupied the lower floor of Ballou Hall, except that part now used for offices by the College, the President, and Professor Whittemore. As the College grew, this space became too small for the Chemical laboratory. The laboratory odors were objectionable to some instructors in the building and the need of more recitation rooms as well as laboratory space became urgent.</p>
+      		<p>To meet this emergency, the Trustees, early in the summer of 1894, decided to remove the Chemical Department bodily from Ballou Hall and to construct, near the site of the old College barn, a wooden building for a chemical laboratory. The superintendent of grounds and buildings, the College carpenter, and workmen began work late in the summer and the structure was completed and occupied in October, 1894. This temporary building, designed to last eight years, is still the home of the Chemical Department.</p>
+      		<p>The dimensions are as follows: Length, one hundred feet; width, fifty feet. It has one story and a high, fairly well-lighted basement. Consequently the floor space is ten thousand square feet. The general chemistry and qualitative analysis laboratory is on the first floor, a store room for chemicals and one for apparatus, two rooms for quantitative analysis, one for organic and theoretical chemistry, a professor's private laboratory, and the department library and balance room. The lecture room is situated on the lower floor, a professor's private library, the assaying laboratory, boiler room, and large room for laboratory supplies.</p>
+	<pb n="p.94" id="p.94"/>
+
+
+	<figure n="tufts:central:dca:UA021:UA021.001.005.00006.00001" id="Fig.47">
+	<head>GENERAL CHEMICAL LABORATORY</head></figure>
+	      <p>The fixed furniture in these rooms was partly borrowed and partly made for the occasion. First for the sake of economy and that the transition from the old to the new laboratory might not shock the nerves of the students and instructors, the old desks with their gas and water fixtures were moved down from Ballou Hall and installed, and to keep them from being carried off inadvertently as souvenirs, the rooms were fitted with second-hand doors and locks from East Hall. The college carpenter constructed other desks, which looked new, and put up shelves and hoods. The East Hall doors and Ballou Hall desks and fixtures in the same rooms with new desks, produced the effect of shreds and patches, or, perhaps, of Joseph's coat, but in spite of their unprepossessing appearance, they were well adapted and arranged for actual chemical work. The plumbing, gas, and steam fitting was ample and convenient. In spite of these facts, however, its most ardent admirer never claimed that the chemical laboratory, interior or exterior, was a work of art.</p>
+	      <p>In equipping the Laboratory with chemicals and apparatus, a somewhat different policy has prevailed. Economy has been to the fore as in the construction of the building, but the economy that procures at the least price the thing that will do the work demanded of it in the best possible way. The department has always improved the opportunity to import duty free. The result is that the laboratory equipment is well up to date and sufficient for practically all kinds of chemical work. It will not suffer by comparison with the chemical equipment of many institutions far more pretentious than Tufts College.</p>
+	<pb n="p.96" id="p.96"/>
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00048" id="Fig.48">
+	<head>MEDICAL CHEMISTRY</head></figure>
+	     <p>The work performed in this temporary building, during the past thirteen years would seem to justify its existence. Within it many investigations in pure science have been made and many technical problems solved. Growth in numbers of students has been great. In 1893, the year before the Laboratory was built, the beginning class contained twenty-eight, but would have contained twelve more if a change in the programme had not cut out the engineers. There were ninety-seven beginning chemisty last year and this year one hundred and sixteen. The growth in students from the College of Letters has been more than one hundred per cent and a little greater from the Engineering side of the College. One hundred and sixty students work in a single room, fifty by fifty-nine feet. Every desk in the quantitative and organic laboratories is occupied. There are more students than the building can properly accommodate and everything points to larger classes next year. To add to the difficulties, occasioned by insufficient space and ventilation, the steam, water, and gas fixtures have quite outlived their usefulness. The rainbow curves in the lecture room show how much the building itself has settled. Unless the Chemical Department can have a new building immediately, its teaching efficiency cannot be maintained.</p>
+	     <p>F. W. D.</p>
+	<pb n="p.98" id="p.98"/>
+	</div2>
+	
+
+
+	<div2 type="subchapter" n="Tufts College Station" id="cls31">
+		<head>Tufts College Station</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00049" id="Fig.49">
+	<head> TUFTS COLLEGE STATION</head></figure>
+		<p>One would scarcely think that a railroad station could have anything to do with the College, yet a former graduate studying in a foreign university, in answering questions pertaining to Tufts made the statement that Tufts had a station of its own. The pompous German was amazed at the enormous size of an institution that could have a railway station for its own special use.</p>
+      		<p>The station is a handsome structure of granite, and with its concrete walks and carefully kept lawns and flower beds, forms a pleasing introduction to College for the timid Freshmen. Its blue and white sign with the awe-inspiring "Tufts College " has probably caused the heart of more than one prospective Freshman to beat in anticipation of his reception to college life.</p>
+	<pb n="p.100" id="p.100"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="ZETA PSI FRATERNITY" id="cls32">
+		<head>ZETA PSI FRATERNITY</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00050" id="Fig.50">
+	<head>ZETA PSI HOUSE</head></figure>
+			<list type="simple">
+    				<head>ROLL OF CHAPTERS</head>
+				<item>PHI, NEW YORK</item>
+				<item>ZETA. WILLIAMS</item>
+				<item>DELTA, RUTGERS</item>
+				<item>SIGMA, PENNSYLVANIA</item>
+				<item>CHI, COLBY</item>
+				<item>KAPPA, TUFTS</item>
+				<item>TAU, LAFAYETTE</item>
+				<item>UPSILON, NORTH CAROLINA</item>
+				<item>XI, MICHIGAN</item>
+				<item>LAMBDA, BOWDOIN</item>
+				<item>BETA, VIRGINIA</item>
+				<item>PSI, CORNELL</item>
+				<item>IOTA, CALIFORNIA</item>
+				<item>GAMMA, SYRACUSE</item>
+				<item>THETA XI, TORONTO</item>
+				<item>ALPHA, COLUMBIA</item>
+				<item>ALPHA PSI, McGILL</item>
+				<item>NU, CASE SCHOOL OF APP. SCIENCE</item>
+				<item>ETA, YALE</item>
+				<item>MU, STANFORD</item>
+				<item>ALPHA BETA, MINNESOTA</item>
+			</list>
+	<pb n="p.102" id="p.102"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="THETA DELTA CHI FRATERNITY" id="cls33">
+		<head>THETA DELTA CHI FRATERNITY</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00051" id="Fig.51">
+	<head>THETA DELTA CHI HOUSE</head></figure>		
+			<list type="simple">
+				<head> ROLL OF CHARGES</head>
+				<item>CORNELL</item>
+				<item>MICHIGAN</item>
+				<item>CALIFORNIA</item>
+				<item>WILLIAM AND MARY</item>
+				<item>BROWN</item>
+				<item>McGILL</item>
+				<item>BOWDOIN</item>
+				<item>STANFORD</item>
+				<item>TECHNOLOGY</item>
+				<item>HARVARD</item>
+				<item>WILLIAMS</item>
+				<item>TUFTS</item>
+				<item>BOSTON</item>
+				<item>AMHERST</item>
+				<item>LEHIGH</item>
+				<item>HOBART</item>
+				<item>DARTMOUTH</item>
+				<item>NEW YORK</item>
+				<item>COLUMBIA</item>
+				<item>WISCONSIN</item>
+				<item>MINNESOTA</item>
+				<item>LAFAYETTE</item>
+				<item>ROCHESTER</item>
+				<item>GEORGE WASHINGTON</item>
+				<item>HAMILTON</item>
+			</list>
+	<pb n="p.104" id="p.104"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="DELTA UPSILON FRATERNITY" id="cls34">
+		<head>DELTA UPSILON FRATERNITY</head>
+       	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00052" id="Fig.52">
+	<head>DELTA UPSILON HOUSE</head></figure>
+       			<list type="simple">
+       				<head>ROLL OF CHAPTERS</head>
+       				<item>WILLIAMS</item>
+       				<item>UNION</item>
+       				<item>HAMILTON</item>
+       				<item>AMHERST</item>
+				<item>WESTERN RESERVE</item>
+				<item>COLBY</item>
+				<item>ROCHESTER</item>
+				<item>MIDDLEBURY</item>
+				<item>BOWDOIN</item>
+				<item>RUTGERS</item>
+				<item>BROWN</item>
+				<item>COLGATE</item>
+				<item>NEW YORK</item>
+				<item>CORNELL</item>
+				<item>MARIETTA</item>
+				<item>SYRACUSE</item>
+				<item>MICHIGAN</item>
+				<item>NORTHWESTERN</item>
+				<item>HARVARD</item>
+				<item>WISCONSIN</item>
+				<item>LAFAYETTE</item>
+				<item>COLUMBIA</item>
+				<item>LEHIGH</item>
+				<item>TUFTS</item>
+				<item>DE PAUW</item>
+				<item>PENNSYLVANIA</item>
+				<item>MINNESOTA</item> 
+				<item>TECHNOLOGY</item>
+				<item>SWARTHMORE</item>
+				<item>STANFORD</item>
+				<item>CALIFORNIA</item>
+				<item>McGILL</item>
+				<item>NEBRASKA</item>
+				<item>TORONTO</item>
+				<item>CHICAGO</item>
+				<item>OHIO STATE</item>
+				<item>ILLINOIS</item>
+			</list>		
+	<pb n="p.106" id="p.106"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="DELTA TAU DELTA FRATERNITY" id="cls35">
+		<head>DELTA TAU DELTA FRATERNITY</head>
+        <figure n="tufts:central:dca:UA021:UA021.001.006.00003.00001" id="Fig.53">
+	<head>DELTA TAU DELTA HOUSE</head></figure>
+        		<list type="simple">
+          			<head>CHAPTER ROLL</head>
+				<item>ALLEGHENY</item>
+				<item>WASHINGTON &#x0026; JEFFERSON</item>
+				<item>LAFAYETTE</item>
+				<item>STEVENS</item>
+				<item>RENSSELAER</item>
+				<item>PENNSYLVANIA</item>
+				<item>LEHIGH</item>
+				<item>TUFTS</item>
+				<item>TECHNOLOGY</item>
+				<item>CORNELL</item>
+				<item>BROWN</item>
+				<item>DARTMOUTH</item>
+				<item>COLUMBIA</item>
+				<item>WESLEYAN</item>
+				<item>OHIO</item>
+				<item>MICHIGAN</item>
+				<item>ALBION</item>
+				<item>ADELBERT</item>
+				<item>HILLSDALE</item>
+				<item>OHIO WESLEYAN</item>
+				<item>KENYON</item>
+				<item>INDIANA</item>
+				<item>DE PAUW</item>
+				<item>INDIANAPOLIS</item>
+				<item>OHIO STATE</item>
+				<item>WABASH</item>
+				<item>WEST VIRGINIA</item>
+				<item>PURDUE</item>
+				<item>VANDERBILT</item>
+				<item>MISSISSIPPI</item>
+				<item>WASHINGTON AND LEE</item>
+				<item>EMORY</item>
+				<item>VIRGINIA</item>
+				<item>UNIV. OF THE SOUTH</item>
+				<item>TULANE</item>
+				<item>GEORGE WASHINGTON</item>
+				<item>TEXAS</item>
+				<item>IOWA</item>
+				<item>WISCONSIN</item>
+				<item>MINNESOTA</item>
+				<item>COLORADO</item>
+				<item>NORTHWESTERN</item>
+				<item>STANFORD</item>
+				<item>NEBRASKA</item>
+				<item>ILLINOIS</item>
+				<item>CALIFORNIA</item>
+				<item>CHICAGO</item> 
+				<item>MISSOURI</item>
+				<item>BAKER</item>
+				<item>ARMOUR</item>
+			</list>
+	<pb n="p.108" id="p.108"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="ALPHA TAU OMEGA FRATERNITY" id="cls36">
+		<head>ALPHA TAU OMEGA FRATERNITY</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00054" id="Fig.54">
+	<head>ALPHA TAU OMEGA HOUSE</head></figure>
+			<list type="simple">
+			        <head>ROLL OF CHAPTERS</head>
+			        <item>ALABAMA POLYTECH</item>
+			        <item>SOUTHERN UNIVERSITY</item>
+			        <item>ALABAMA</item>
+			        <item>FLORIDA</item>
+			        <item>GEORGIA</item>
+			        <item>EMORY</item>
+			        <item>MERCER</item> 
+			        <item>GEORGIA SCHOOL OF TECH.</item>
+				<item>TULANE</item>
+				<item>TEXAS</item>
+				<item>ILLINOIS</item>
+				<item>CHICAGO</item>
+				<item>ROSE POLYTECH</item>
+				<item>PURDUE</item>
+				<item>ADRIAN</item>
+				<item>WASHINGTON AND LEE</item>
+				<item>WITTENBERG</item>
+				<item>OHIO STATE</item>
+				<item>SO. WEST. PRESBYTERIAN</item>
+				<item>HILLSDALE</item>
+				<item>MICHIGAN</item>
+				<item>ALBION</item>
+				<item>WISCONSIN</item>
+				<item>CALIFORNIA</item>
+				<item>COLORADO</item>
+				<item>SIMPSON</item>
+				<item>KANSAS</item>
+				<item>MINNESOTA</item>
+				<item>MISSOURI</item>
+				<item>NEBRASKA</item>
+				<item>WASHINGTON</item>
+				<item>MAINE</item>
+				<item>COLBY</item>
+				<item>TECHNOLOGY</item>
+				<item>VIRGINIA</item>
+				<item>OHIO WESLEYAN</item>
+				<item>WESTERN RESERVE</item>
+				<item>SOUTHWESTERN BAPTIST</item>
+				<item>UNIVERSITY OF THE SOUTH</item>
+				<item>TUFTS</item>
+				<item>WORCESTER POLYTECH</item>
+				<item>BROWN</item>
+				<item>VERMONT</item>
+				<item>COLUMBIA</item>
+				<item>ST. LAWRENCE</item>
+				<item>CORNELL</item>
+				<item>MUHLENBERG</item>
+				<item>WASHINGTON &#x0026; JEFFERSON</item>
+				<item>LEHIGH</item>
+				<item>PENNSYLVANIA STATE</item>
+				<item>PENNSYLVANIA</item>
+				<item>NORTH CAROLINA</item>
+				<item>TRINITY</item>
+				<item>CHARLESTON</item>
+				<item>UNION</item>
+				<item>WOORSTER</item>
+				<item>VANDERBILT</item>
+				<item>TENNESSEE</item>
+			</list>
+	<pb n="p.110" id="p.110"/>
+	</div2>
+	
+
+
+	<div2 type="subchapter" n="SIGMA TAU ALPHA" id="cls37">
+		<head>SIGMA TAU ALPHA</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00055" id="Fig.55">
+	<head>SIGMA TAU ALPHA HOUSE</head></figure>
+		<p>LOCAL FRATERNITY</p>
+		<p>FOUNDED AT TUFTS, 1905</p>
+	<pb n="p.112" id="p.112"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Medical and Dental Schools" id="cls38">
+		<head>The Medical and Dental Schools</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00056" id="Fig.56">
+	<head>MEDICAL AND DENTAL</head></figure>
+      		<p>A medical school, in order that its undergraduates may have the best facilities for their great amount of hospital work, must necessarily be situated in some large city not far from the best hospitals.</p>
+      		<p>Our medical school consists of one large red-brick building located near the outskirts of Boston in the beautiful section known as the Fens. Looking from the front windows of the school, one may see at one side a well-kept baseball diamond, and in front a broad, green park with a beautiful boulevard winding in and out, the whole forming a pleasing foreground to the quiet Charles River just beyond. This park is rapidly becoming a very picturesque educational centre of Boston. The new Art Museum when completed, will be the nearest building to our school of those in the park; the Girls' Latin School, Simmons College, and the Harvard Medical buildings are just a little farther up in this park. Electric cars run by the school every little while, so that any part of Boston may be easily and quickly reached.</p>
+      		<p>The medical building is one of the best equipped of its kind and has the largest enrollment of any medical school in New England. At present, there are about four hundred students in the medical department and over two hundred and fifty in the dental school. A college degree is not required to enter the school; but the course is fully as difficult as that of those schools which require a degree in order to enter. Statistics show that Tufts graduates compare very favorably with graduates of other medical schools. In the last classification of the American Medical Association our school was placed in Class I, this
+	<pb n="p.114" id="p.114"/>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00057" id="Fig.57">
+	<head>THE DEAN'S OFFICE</head></figure>
+		classification being the result of an analysis of the standing before State Boards throughout the country of the graduates of various schools.</p>
+      		<p>The medical course is a four year one, and the dental requires three years. The first two years are spent mostly in the school, and in the last two a great deal of hospital work is done. There are no dormitories connected with the school and the course is so exacting that there is hardly any " college life" such as is found on the Hill. The classes have their annual banquets and the fraternities have dances now and then. Four professional fraternities have chapters at Tufts, two medical and two dental.</p>
+      		<p>The undergraduates in the professional schools are eligible to all of the various teams which represent Tufts. In 1906 a medical student was captain of the 'Varsity football team; and in 1907 a dental student is leader of the Glee Club.</p>
+      		<p>The medical building itself is a large, well proportioned, four storied, red brick building, with ample accommodation for its many students. It is heated from the basement by both the direct and indirect systems. In the basement there is the bookstore, which carries, besides the medical and dental supplies, a complete outlay of Tufts banners, jewelry, and souvenirs. A smoking and lounging room is next to the bookstore, and the lunchroom is just beyond that. A dental infirmary and locker room take up the rest of space in the basement.</p>
+      		<p>The first floor has the Dean's, Secretary's, and Bursar's offices, and in one section a library. Beyond the library is a large, well-lighted histological laboratory in which the classes in Physiology and Histology perform their experiments. Another dental infirmary is on the other side of the building and in this the upper classmen of the Dental school
+	<pb n="p.116" id="p.116"/>
+
+
+	
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00058" id="Fig.58">
+	<head>THE AMPHITHEATRE-MEDICAL SCHOOL</head></figure>
+		receive their practice. The students do dentists' work with practically no expense to the patient and consequently they have all the practice to which they can attend.</p>
+      		<p>The amphitheatre, seating three hundred and fifty can be entered from both the first and the second floors. Demonstrations to all classes are here given so that some recitation or lecture is almost always in progress there.</p>
+      		<p>The second floor contains the Prosthetic laboratory for dental students and the Pathological laboratory for medical students. The Pathological laboratory is directly over the Histological laboratory, and the library is well equipped with all of the modern improvements.</p>
+      		<p>On the top floor are two chemical laboratories, the dissecting room, and two recitation rooms. Both chemical laboratories have individual lockers, gas, and cold water, and are provided with the best facilities for carrying on experiments. The dissecting room is one of the largest and cleanest in the State.</p>
+      		<p>From the top of the building it is possible to view the business section of Boston in one direction, and in the opposite direction the Blue Hills and the large surrounding reservation may be seen.</p>
+      		<p>The Medical school was established in Boston in I893, the first regular session taking place on Wednesday, October 8, 1893, at three o'clock. The exercises were informal and consisted of a few opening remarks by Albert Nott, Dean of the School and Professor of Physiology, followed by an address of greater length by President Copley.</p>
+      		<p>The address was very impressive, and the closing words of President Copley: " Tufts College never puts her hand to the plough, and then looks back," put to rest any uncertainty
+	<pb n="p.118" id="p.118"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00059" id="Fig.59">
+	<head>THE LIBRARY-MEDICAL SCHOOL</head></figure>
+		which some of the new students entertained as to the future of the school. The enrollment of students for the College year 1893-4 was eighty and twenty-two were graduated with the degree of Doctor of Medicine at Commencement, June, 1894, eight of this number being women. The enrollment of 1906-7 was 376, and 72 were graduated.</p>
+      		<p>The rapid, phenomenal growth of the Medical School may be traced to several causes. It is the only allopathic school in this part of the country which admits women; the entrance requirements do not demand a college degree; it is less expensive than most of the other schools; and it has the clinical advantages of a large city.</p>
+      		<p>The school was first located at 188 Boylston Street, Boston, directly opposite the Public Gardens, and within a few steps of Park Square. The growth of the school made larger accommodations imperative, and the Chauncey Hall School building was rented temporarily until the next headquarters, a handsome stone structure, situated upon the corners of Rutland Street, Shawmut Avenue, and Newland Street, costing about $75,000 could be erected. This building was formerly the property of the First Free Baptist Church. The site was selected because of its proximity to the Boston City Hospital, the Boston Dispensary, and other charitable institutions, its easy accessibility, the quiet of the neighborhood, and the opportunity for inexpensive boarding and lodging of students in the vicinity. This building remained the home of the school until 1900. By vote of the trustees steps were taken to procure the present building.</p>
+      		<p>The Tufts College Dental School, formerly the Boston Dental College, and incorporated under that name in i868, became an incorporate part of Tufts College in 1899 through a special act of legislature. This was in consequence of the new anatomical laws of the
+	<pb n="p.120" id="p.120"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00060" id="Fig.60">
+	<head>PHYSIOLOGICAL LABORATORY</head></figure>
+		State and because its former Board of Trustees felt that the advance in dental education rendered it desirable that the more purely scientific portion of its curriculum should be carried on in connection with a medical school.</p>
+      		<p>In the Medical School are found chapters of two of the men's professional fraternities: Gamma Chapter of Alpha Kappa Kappa, and Phi Theta Chi Fraternity. Alpha Kappa Kappa was founded at the Medical Department of Dartmouth College, September 28, 1888 and in 1889 was incorporated under the laws of the State of New Hampshire, Gamma Chapter was formed in 1893. Honorary members are provided for but it is necessary that they be graduates in medicine.</p>
+      		<p>April 21, 1894 a women's society was formed here under the name of Alpha Delta.</p>
+      		<p>In the Dental School, Psi Omega Fraternity is represented by the Delta Chapter which was formed in 1895. This fraternity was organized at the Baltimore College of Dental Surgery, in 1892. Also here is found the Mu Chapter of Delta Sigma Delta, a fraternity founded in the Dental Department of the University of Michigan on March 5, 1883, designed to be confined to schools of dentistry. To elevate the morals and tone of the practice of dentistry among its members is one of the chief objects of the society. The Mu Chapter was organized in 1897 when the Tufts Dental School was still the Boston Dental College.</p>
+      		<p>Phi Theta Chi is a local medical fraternity and was founded five years ago by three medical students. This society takes in members in the same manner as the other fraternities, and provision is also made for honorary members.</p>
+      		<p>The fraternity has rooms on Albemarle Street, a short distance from the school. At frequent intervals talks are given under the auspices of Phi Theta Chi by men well-versed in medical science. These talks are open to any one interested in the subject.</p>
+	<pb n="p.122" id="p.122"/>
+
+
+
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00061" id="Fig.61">
+      	<head>DENTAL INFIRMARY</head></figure>
+      		<p>The fraternities at the Medical and Dental Schools are of course much different from the national societies represented on the Hill, although the same purposes and same feeling may be found in them.</p>
+      		<p>One reason for the greater influence of the fraternities on the Hill is that the students of the Medical Schools do not have the time to devote to fraternal activities, as do the men in the academic departments. Consequently the fraternities in the Medical School have developed more after the manner of clubs, but undoubtedly they fill a place in the life of the Medical School that could not be filled in any other way.</p>
+      		<p>In a social way the fraternities are permanent; they give dances and banquets at frequent intervals throughout the year, and these are as a rule well attended by the undergraduate body.</p>
+        	<p>R. W. B.</p>
+	<pb n="p.124" id="p.124"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Baseball and football in the Seventies" id="cls39">
+		<head>Baseball and football in the Seventies</head>
+	<figure n="tufts:central:dca:MS036:MS036.008.023.00004.01407" id="Fig.62">
+	<head>BASEBALL TEAM 1870</head></figure>
+		<p>When it is remembered that American baseball is not older than the sixties, it will be seen that the writer's title brings him very close to the beginning of things. The game could not have been played more than four or five years when he entered College in 1866. But it had then taken a strong hold, and during the years he knew it in College, developed very rapidly. Those were the days when the pitcher must stand with his feet placed on the ground, and deliver the ball with a stiff arm; all his speed must come from what twist and snap he could get from his wrist, and the only way he could "fool" a striker, was by varying the pace of the ball. The catcher of those games stood up without a mask, pad, or gloves, and often carried a black eye or a broken nose as a souvenir " off the bat." Scores were something tremendous especially in class games, in which the lame, the halt, the near-sighted and the left handed were pressed into service to fill the nine. In the memorable game between '69 and '70, in the fall of '66 the score mounted to 64 for the Freshmen and 56 for the Sophomores at the end of the eighth inning when the game was called on account of darkness. One hundred and twenty runs in the whole game!</p>
+      		<p>Some of the players of those days will never be forgotton by their contemporaries. For a plucky catcher, at once nervous and nervy, we are always ready to refer our juniors to " Stetson," who back-stopped many a fine game for Tufts. Henry Harris at left field was a sure captor of anything that came his way, and his long throws from out field to home base trapped many an unwary runner, who had not seen "Our Henry" get them back. Everett White or " Alba Longa " was literally a tower of strength at first base.  He was nearly as tall as the Tower of Babel, and had a hand like a steam-shovel. If ever he missed an over-
+ 	<pb n="p.126" id="p.126"/>
+
+
+
+	<figure n="tufts:central:dca:MS036:MS036.008.023.00004.01406" id="Fig.63">
+	<head>FOOTBALL TEAM 1876</head></figure>
+		throw, it was because the ball landed among the constellations or inside the Rez. Perhaps the coolest and the boldest of players in those days was Cornell of '69, shortstop for several years and surnamed " Hoosier." He was deliberate and slow almost to the point of laziness. But somehow he was always "there " and had the ball. When a hot grounder would come sizzling towards him at short field he would begin a conversation with the batsman, pick up the ball as quietly as if he were digging potatoes, straighten up, and address a few remarks to first baseman as to what was coming, and then send the sphere down to first so far ahead of the runner that the baseman would run up the line to meet him on the way and tell him the news; and then Hoosier would chuckle and make pleasant remarks as to the futility of bucking against Tufts.</p>
+      		<p>Yes; we had good men in those days, and they could play ball. Baseball in the seventies was a purely amateur game, and we played it for the honor of Alma Mater, and for the love of a noble sport.</p>
+      		<p>So strong did the football team become, that in 1875 a crushing defeat was administered to Harvard, on their own field. The make-up of this famous team has become a matter of historical interest about the college and the names of the players are here given. L. W. Aldrich, '76, Captain; P. B. Harrington, '77: A. B. Fletcher, '76; P. N. Branch, '77; H. D. Nash, '77; C. L. Cushman, '78; A. P. French, '76; C. A. Sprague, '76; H. L. Whithed, '77; W. M. Perry, '78; L. M. Ballou, '78. The strength of these teams lay to a great extent in the way in which the entire college took part in athletic sports, making easier the selection on account of the number of men participating.</p>
+      		<p>J. C. A.</p>
+   	<pb n="p.128" id="p.128"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Class of 1870" id="cls40">
+		<head>The Class of 1870</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00063" id="Fig.64">
+	<head>GRADUATING CLASS 1870</head></figure>
+		<p>The class of 1870 only graduated nine men in its classical course -just enough for a baseball team - and was headed, alphabetically, by Adams and footed by Warren. It is a striking fact that these two men, sitting at opposite ends of the same class, should be its only scholars, and that the last should be first, and the first second in scholarship. Their early promise has been made good. Adams has long been a leading minister in the Universalist denomination and has gracefully and honorably borne the title of D.D. Warren took excellent rank in every college study, but most loved Greek and Latin. After teaching a few years with marked success, he took a post graduate course at Yale, and then spent four years at English and German Universities in the study of Greek, Latin, and comparative philology. Upon his return from Europe, he went as instructor in Latin to John Hopkins; later, became full professor, and there remained until called to Harvard as Pope professor of Latin. Just as these lines are being written, comes word of his sudden death. He has fought the good fight; he has done much to make the world in which he lived, wiser and better, and died universally respected by all men who knew him. Every man of 1870 Tufts mourns for him, but every man gives thanks that Warren did so much to honor himself, his class, and his college.</p>
+		<p>W. B. F.</p>
+	<pb n="p.130" id="p.130"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Musical Clubs" id="cls41">
+		<head>Musical Clubs</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00064" id="Fig.65">
+	<head>GLEE CLUB</head></figure>
+		<p>The early records of Glee Club work at Tufts College are very fragmentary. Several short-lived quartets and clubs were formed, and the "College Glee Club" of 1876-77 laid the foundation of that reputation which the Glee Club has long held, through a short Maine trip; but it was not until the year 1884-85 that the record of the beginnings of the present Glee Club was formed.</p>
+      		<p>During the year 1884-85, Prof. Leo R. Lewis, '87, then a student, called several meetings of the students in an endeavor to arouse enthusiasm for the formation of a Glee Club. Little genuine interest was evidenced so that the effort was abandoned until the following year, when better success ensued. A club was formed which began work as a choir, singing for the first time in chapel, Sunday, December 27, 1885. The following March the Club made its first appearance in the field of regular Glee Club work, at an entertainment in the Universalist Church of East Cambridge. During this season D. L. Maulsby, '87; L. R. Lewis, '87; C. H. Patterson, '87; and J. H. Holden, '88, acted as readers. Professor Lewis directed this first successful season.</p>
+		<p>From October 1, 1889 to April 1, 1890 the Club was leased to G. A. Jones of Boston, the contract terms giving him exclusive control of all engagements during that time, not more than two a week or on two consecutive nights, save those of the Christmas trip and the concerts on the Hill.</p>
+      		<p>Since '92 the Club has been under the guidance of Professor Lewis and has maintained an enviable reputation.</p>
+	<pb n="p.132" id="p.132"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Musical Clubs' Trips" id="cls42">
+		<head>Musical Clubs' Trips</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00065" id="Fig.66">
+	<head>NEW YORK CITY    NEW ROCHELLE, N.Y.   NORWAY, ME.</head></figure>
+      		<p>The Mid-Year concerts held in the Chapel on two consecutive nights are gala affairs; but the annual trips surpass any single event. Usually the clubs have visited Maine at Christmas and New York State in the Spring. In 1907 a short trip was taken to Vermont during the Mid-Year recess.</p>
+      		<p>The annual Maine trip is probably the most enjoyed. For one thing, it is the first journey, so that a new member. looks forward to it with great anticipation, while the old member hails the renewal of warm friendships made in hospitable Maine.</p>
+      		<p>The endless experiences and gaities that ensue are the tale of a long evening. In the daytime they travel through the snow-covered country, go snow-shoeing and sleigh riding. In the evening dances follow in rapid succession. The men are constantly meeting new faces and making new friends. There is always a main street in the city or town where one hails one's brother Tufts men with, " Where are you staying? " and " Where's the post office ? "  What wonderful sense of location these men acquire ! If you should bury them to the neck in the sands of darkest Africa, there is no doubt but that they would be at the station next morning just in time to take the Grand Trunk Line.</p>
+      		<p>At last the trip is over and they return to the Hill, thoroughly satisfied with their good times, yet glad to see old Tufts once more. Now they have a subject for many an English theme.</p>
+      		<p>These trips are not only a great education for the men, in that other colleges and cities are visited, and the social life has a good refining influence, but they also serve to spread the name of Tufts.</p>
+	<pb n="p.134" id="p.134"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Football" id="cls43">
+		<head>Football</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00066" id="Fig.67">
+	<head>FOOTBALL SQUAD</head></figure>
+		<p>In 1875, when Tufts' first organized football team sent a challenge to Harvard, and was in turn challenged, football had by no means assumed its present-day proportions, either in its science or in the general interest evoked. In fact, for some years, football was not an annual event.</p>
+      		<p>But all that period of changeable enthusiasms is over; for football has come to stay, bringing with it honor for Tufts. One thing effecting this change for the better is the introduction of " coaching," an institution which shows its value in general team improvement. The coaching of Dr. Charles Whalen, M. '06, has given Tufts some fine teams, and the men who have helped make up those teams have done as much for their Alma Mater by their clean playing, their desire to win fairly, as they have by their victories. As long as this spirit is inherent in the football men, one has no need to fear for the future of football at Tufts.</p>
+	<pb n="p.136" id="p.136"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Baseball" id="cls44">
+		<head>Baseball</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00067" id="Fig.68">
+	<head>BASEBALL TEAM</head></figure>
+		<p>One of the most successful of Tufts teams is represented in baseball. This branch of college activity has always been very strong, ever since its introduction into the College. In recent years, under the able coaching of Fred Tenney,captain of the Boston Nationals, several remarkably fine teams have represented Tufts on the diamond. Victories over Yale, Dartmouth, Alabama, and many other strong college teams have gone down in Tufts baseball history. A look at the trophy case in Goddard Gymnasium will convince anyone that Tufts is unusually strong in this department of college activity.</p>
+      		<p>The squad is called out in February for cage work, and as soon as weather conditions permit, outdoor practice is begun, and the squad gradually reduced. Although somewhat handicapped last year the results show a very successful season, and a promise for an equally successful one this coming spring.</p>
+	<pb n="p.138" id="p.138"/>
+	</div2>
+	
+
+
+      <div2 type="subchapter" n="Basketball" id="cls45">
+      		<head>Basketball</head>
+      <figure n="tufts:central:dca:UP022:UP022.001.001.00001.00068" id="Fig.69">
+      <head>BASKET BALL SQUAD</head></figure>
+            <p>Although a comparatively new sport at Tufts, basketball has taken a place of prominence as a branch of intercollegiate athletics. Last year Tufts was represented by an exceedingly fast team, and if expectations are realized, the team this year may be expected to do even better. The games are played in the Gym, and probably the most spectacular game last year was that with Dartmouth.</p>
+      		<p>Not until 1907 were T's awarded for this branch of sport. The team consists of the following men:</p>
+     		<p>FORWARDS: H. D.Wilson,'07; C. Seede, '08; and R. S. Kimball, '10.  CENTRES: Getchell,'08 and Knight, '10. GUARDS: Dwelley, '07 and Wallace, '10.</p>
+                <p><table rows="15" cols="4">
+                <row role="data">
+               	<cell></cell>		<cell></cell>				<cell>Tufts</cell>	<cell>Opp.</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell> 	<cell>Brown at Providence</cell> 	<cell>18</cell>         <cell>15</cell></row>
+  		<row role="data">
+  		<cell>Tufts vs.</cell>	<cell>Harvard at Cambridge</cell>       <cell>4</cell>         	<cell>15</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>Yale at Tufts</cell>              <cell>12</cell>	        <cell>21</cell></row>
+		<row role="data">
+		<cell> Tufts vs.</cell>	<cell>Dartmouth at Hanover</cell>       <cell>5</cell>         	<cell>50</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>Norwich at Northfield</cell>      <cell>14</cell>         <cell>23</cell></row>
+		<row role="data"> 
+		<cell>Tufts vs.</cell>	<cell>Wesleyan at Tufts</cell>         	<cell>21</cell>         <cell>29</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>Lowell Textile at Lowell</cell>	<cell>30</cell>         <cell>13</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>M. I. T. at Boston</cell>		<cell>28</cell>         <cell>11</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>Boston College at Tufts</cell>	<cell>74</cell>         <cell>4</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>M. I. T. at Tufts</cell>		<cell>15</cell>         <cell>14</cell></row>
+		<row role="data"> 
+		<cell>Tufts vs.</cell>	<cell>Maine at Tufts</cell>		<cell>27</cell>         <cell>10</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>New Hampshire at Durham</cell>	<cell>26</cell>         <cell>17</cell></row>
+		<row role="data">
+		<cell>Tufts vs.</cell>	<cell>Dartmouth at Tufts</cell>		<cell>23</cell>         <cell>17</cell></row>
+                <row role="data">
+                <cell></cell>		<cell></cell>				<cell>317</cell>        <cell>239</cell></row>
+		</table>
+		</p>
+	<pb n="p.140" id="p.140"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Track" id="cls46">
+		<head>Track</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00069" id="Fig.70">
+	<head>TRACK TEAM</head></figure>	
+		<p>Track first appeared at Tufts in 1874, the first Field Day being held on November 4 of that year; a Field Day which is said to resemble a modern Sunday-school picnic contest. As all other athletic pursuits, track led at first a half alive existence, with no definite annual organization; now it holds its place in the athletic interest.</p>
+      		<p>The first track event of the year is the interclass contest between the two lower classes. Cross country runs are held until Thanksgiving. After Christmas candidates are called out for the 'Varsity. Outdoor training begins in April and lasts until after the N. E. I. A. A. meet. In the winter an indoor class meet is held in the Gymnasium, and in the spring an outdoor class meet is held on the Oval.</p>
+      		<p>The more than usually successful season of 1906 may be attributed to the interest felt. More men came out than formerly, with the result, that our old rival Bowdoin was beaten in the annual relay race at the B. A. A. meet, that Tufts won a four-cornered meet at Hartford against Trinity, Holy Cross, and Wesleyan, and that Vermont was beaten at Burlington in the only outdoor intercollegiate meet of the year.</p>
+	<pb n="p.142" id="p.142"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Fencing" id="cls47">
+		<head>Fencing</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00070" id="Fig.71">
+	<head>FENCING TEAM</head></figure>
+		<p>Although indulged in for several years as an exercise, fencing did not receive any considerable attention till very lately, when the revival of this difficult art by some of the colleges, created an interest at Tufts. Instruction had been given by Mr. Ranlett, an exponent of the West Point system, and several fellows who were interested took lessons. Last year a team was organized and several matches were held. Perhaps the most interesting was the one with Yale. The spectators were treated to an excellent exhibition of fencing, and although Yale excelled our team in the use of the foils, several of the bouts were close and interesting. Last year the team was coached by M. Pianelli, an exponent of the French system of fencing.</p>
+      		<p>The team was made up of Capt. H. D. A. Ganteaume, '07; and A. O. Todd, '07; and F. B. de Alvarenga, '07.</p>
+	<pb n="p.144" id="p.144"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Debating" id="cls48">
+		<head>Debating</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00071" id="Fig.72">
+	<head> CLARK TEAM    New York Team</head></figure>	
+      		<p>It was not until the spring of 19O1 that debating at Tufts was put on a firm basis. Previous to this date it had been rather spasmodic and no organizations existed for the fostering of this activity. In that year a temporary club was formed of all those interested in debating, and before the end of the season, this divided into two rival societies, the Capen Club, named for Elmer Hewitt Capen, '60, and the Knowlton Club, named for Hosea Morrill Knowlton, '67. Thus a healthy spirit of rivalry was fostered which has continued to the present. Inter-club debates have been held regularly every winter.</p>
+      		<p>In 1903 a debating union was entered into with New York University, and in 1905 a similar agreement was made with Clark College. The Intercollegiate teams last year were:</p>
+      		<p>For the New York University debate: A. W. Benoit, '07; H. C. Mason, '08; S. E. Darling, '09; alternate, V. E. Blagbrough, '10.</p>
+     		<p>For the Clark debate: W. E. Blake, '07; P. R. Moore, '07; C. J. Masseck, '08; alternate, P. W. Towsley, '10.</p>
+	<pb n="p.146" id="p.146"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Tower Cross" id="cls49">
+		<head>The Tower Cross</head>
+      	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00072" id="Fig.73">
+      	<head>TOWER CROSS</head></figure>
+      		<p>Tower Cross was founded in May, 1897. It is an honorary Senior society with a membership limit of twenty. Its sole object is to " advance the best interests of Tufts College by maintaining a high standard of loyalty among the undergraduates." The badge is a plain gold Roman cross, symbolizing the ideal which is represented by the cross at the top of the Chapel tower. Its motto is, " For the Highest."</p>
+      		<p>In December, 1896, several members of the Senior class began an agitation for the founding of an honorary Senior society, which should serve to unite the undergraduates in a closer loyalty, and which at the same time should offer an incentive to greater activity and an honor to the chosen members. The interest and approval of the Faculty was enlisted, and at last a Faculty committee of five was appointed to choose the charter members of the organization. On May 3, 1897, the names of thirteen members of '97 were approved, and on May' 11, 1897, the first meeting was held. The Faculty has reserved the right to discontinue the society at any time after June, 1899, if in its opinion the effect should become in any way harmful, but this prerogative has never been exercised.</p>
+      		<p>Membership in Tower Cross is considered one of the highest, if not the highest of all honors in the power of the undergraduates to bestow. It is self-perpetuating. Its functions are usually interpreted as purely executive, and it affords an excellent means of communication between Faculty and undergraduates. Founded by the students, through sufferance of the Faculty, it occupies a unique position of honor and trust at the Hill.</p>
+      		<p>H. J. S.</p>
+      	<pb n="p.148" id="p.148"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Ivy" id="cls50">
+		<head>The Ivy</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00073" id="Fig.74">
+	<head>IVY</head></figure>
+      		<p>The Ivy is the honorary Junior society which was organized at Tufts College in the spring of 1901 by members of the class of 1902. Its membership includes representatives of all the fraternities and of the non-fraternity body. The efforts of the society are directed towards College and class interests, and special attention is toward breaking down the factional lines in college. The badge is in the form of a gold ivy leaf with a T raised in green upon it.</p>
+      		<p>Since 1902 the society has published what is known as the "Freshman Bible," a Tufts hand-book which contains important information about the College and is a useful guide to the new-comers as well as to the rest of the student body. Copies are distributed to the undergraduates at the opening of each college year. By this publication alone, the society may well justify its existence.</p>
+      		<p>Various other lines of work are undertaken from year to year, and particular mention should be made of the Tufts Song-book, published by the 1907 Ivy. One of the latest enterprises is the inauguration of the College " Sings " in the spring of 1907.</p>
+	<pb n="p.150" id="p.150"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="College Band" id="cls51">
+		<head>College Band</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00074" id="Fig.75">
+	<head>TUFTS COLLEGE BAND</head></figure>
+      		<p>The first brass band of Tufts College was organized in 1884 under the leadership of C. F. Borden, '85, who played the E-flat cornet. Beside the leader there we're three cornets, two altos, two tenors, an E-flat bass, piccolo, tenor drum, bass drum, and cymbals.</p>
+      		<p>However, this organization did not last long, and a college band was not formed again until the spring of 1903 when the question of having such an organization was agitated. Ivy Society took the matter up, and sufficient interest was evinced to warrant a definite organization. Professor Lewis was willing to undertake the direction of the rehearsals, giving the effort his hearty co-operation and support. Through an appropriation of the College Bookstore a number of instruments were purchased on the advice of Professor Lewis and Jean Missud of the Salem Cadet Band. The work was not very promising since many of the men were inexperienced and the majority were undergraduates; still this effort was not entirely successful, although it served to pave the way.</p>
+      		<p>In the fall of 1905 Professor Lewis again took up the work of organizing a band, and Dow, '09, of the Medical School was elected leader.</p>
+      		<p>From then until the fall of 1907 the band existed but not very definitely. In the fall of 1907 the work was again taken up with much success, and it seems as though at last the wish for a college band has been realized. Excellent work was done on the Bowdoin Trip and much pride is taken in the organization. C. E. Soper, '10 has been elected leader. The Musical Clubs have voted $100 toward the purchase of musical instruments, while the women of the College have loyally aided, by the working of coverings for the band instruments.</p>
+ 	<pb n="p.152" id="p.152"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Class Day" id="cls52">
+		<head>Class Day</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00075" id="Fig.76">
+	<head>CLASS OF 1907</head></figure>
+      		<p>It is a bright June morning, the sun is high above the horizon, the breezes on the hill are pure and fragrant, the trees are beautiful in their summer foliage, the campus is as soft and green as an English garden, the walks are trimmed and in perfect order, the old halls are silent and stately. There is no rush of students, no professors hurrying for classes, no chapel bell. Ballou is decorated as if to greet a nation's guest, and the Brown and Blue is flying in the air. Here and there are a few Seniors in cap and gown - it is Class Day at Tufts. At nine o'clock the Seniors form south of Ballou Hall and slowly proceed to the chapel- "last chapel" for them. There is no hurry to anticipate the closing door, no crowd of underclassmen; for today the Seniors are alone with the President. And for the last time in their lives, they meet as a class, to join in the simple liturgy of morning prayer. It is the service so common to them; the same service in which they have united morning after morning during their four years of life on the Hill, but today it is more impressive than ever before.</p>
+      		<p>After chapel the festivities of the day begin. Guests begin to arrive, and soon the Hill is a scene of gaiety and life. By eleven o'clock the chapel is crowded with friends of the graduating class who are eagerly waiting for the entrance of Seniors. The music grows softer, the audience rises, as the class appears at the entrance of the chapel. Down the main aisle they proceed and here divide as the Orator, Poet and two presidents pass through to the platform. There is a brief address of welcome by the Senior president, prayer by the President of the College, and then the hour is occupied by the Orator and Poet as they pour forth their eloquence on the heads of the assembled multitude. The program is brought to
+	<pb n="p.154" id="p.154"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00076" id="Fig.77">
+	<head> VIEW FROM BALLOU</head></figure>
+		a close by the singing of the Class Ode by the Seniors. As the class disperses one can but feel that it has been a solemn service. It is the parting of friends. It is the severing of friendships too strong to be easily broken. Only as the ceremony draws to a close does its full sadness dawn upon us.</p>
+       		<p>But this is a day of pleasure and gladness, so let us make merry. Dinner is quickly over and the crowd gathers for the exercises of the afternoon. This is the great event. Under the historic old tree between the chapel and Ballou is erected the rostrum. Here where for years Tufts men have gathered on Class Day; here near the site where "Old Fortunatus " was played; here on the campus of Tufts are held the Tree Exercises. Long before the hour there is a crowd waiting. Hundreds of happy visitors throng the campus which becomes a vast garden of human faces, while the scene is made beautiful by the many-colored dresses of the fair sex. Still they come. Every path leads to the " Tree." Back in the quadrangle another scene is taking place. Classes are forming; class marshals are calling, " Freshmen this way." A group of " Sophs " are waving their canes and shouting. All are rushing to get in line for the long procession of classes, in which the Seniors have the place of honor. Finally all is ready and the march begins. It seems like an endless line which finally gathers around the tree. First the " Brown and Blue " is sung, then the Orator steps into the rostrum and delivers the traditional Tree Oration, concluding with a parting word of counsel to his class. Another Tufts song and the Historian has the floor. If one ever doubted the virtue and excellence of a college class let him listen to a Senior historian and at once his doubts would be dispelled for ever.</p>
+      		<p>Next comes the Marshal with his gifts to underclasses, who humbly bow before the grand old Senior to receive instruction. The Junior gets a toy pistol or soldier cap to remind
+	<pb n="p.156" id="p.156"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00077" id="Fig.78">
+	<head>LOOKING FROM THE ROSTRUM</head></figure>
+		him of his bravery (?). Of course the Sophomores get the old shoes with assurance that they will lead to the paths of wisdom so familiar to the Senior. The Freshmen receive some child's story book or other help to future knowledge.</p>
+      		<p>Not the least important feature of the Tree Exercises is the cheering by classes. Surrounding the rostrum on three sides the students sit in a sort of amphitheatre, rising in tiers. First come the Juniors, then the Sophomores and Freshmen. Six cheers are usually given-these being for Barnum, the Trustees, the President, Faculty, Athletics, and last of all the regular college cheer. Each class in order of seniority gives a cheer on each of these subjects and great is the rivalry among the three classes to see which shall carry off the honors in this department. Two cheers of last Class Day were especially good:</p>
+                          <lg type="free">
+                          	<l>Trustees:</l>
+                                   <l>Here's your term bill</l>
+                                   <l>Dig deep and squeeze,</l>
+                                   <l>What! No money !</l>
+                                    <l>Beat it !</l>
+                                              <l>Trustees.</l></lg>
+               <lg type="free">                               
+          	<l>P. T. Barnum:</l>
+                     <l>Harvard has its orange man, the bull dog stands for Yale,</l>
+                     <l>Princeton has its tiger with its black and orange tail,</l>
+                     <l>But Tufts has Barnum's Jumbo -a mighty beast is he,</l>
+                     <l>Possessing more backbone than all the other three.</l></lg>
+      		<p>Although Class Day is a fairly recent innovation - it was not put on a firm basis until the early '90's - it has endeared itself to the hearts of all true sons of Tufts, and bids fair to be an institution which shall last as long as the college. It is so different from most college
+ 	<pb n="p.158" id="p.158"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00078" id="Fig.79">
+	<head>THE SENIORS AT THE TREE EXERCISES</head></figure>
+		gala days that it is a relief, and the beautiful scenery of the Hill makes it a day long to be remembered.</p>
+      		<p>Class Day is the Seniors own day. They have full charge of all arrangements-- and it must be said that the task is no slight one. The thousands of people are always orderly and well-behaved and no trouble has ever been experienced in handling the great crowds of people. A recent custom is the Class Day of the Medical School which is held on the Hill on the afternoon and evening of Commencement Day. The exercises of the class are held in the chapel at 4.00 o'clock, after which the class and their friends adjourn to the Gym where a banquet is served. In the evening a band concert is given on the campus, and a dance in Goddard Gymnasium.</p>
+      		<p>After singing the " Campus Song " the traditional cheering of buildings is repeated. Stately Seniors and gay Sophomores join arms, and headed by the band, march down the quadrangle, where every building is given its shower of yells. " Short yell for the gym," calls the Marshal; " Locomotive cheer for the Chapel; " " Long cheer for Ballou; " " Spell it out - with Barnum on the end;" and so on, every building is honored.</p>
+      		<p>Here where they have yelled at rushes, here where they have cheered after victories, here again they give a long farewell cheer for Tufts, Tufts, Tufts !</p>
+      		<p>The next few hours are spent in enjoying private and " Frat " spreads and then the promenade. Every building is open. Students are busy pointing out places of interest and telling stories of college life.</p>
+      		<p>As evening draws near Japanese lanterns begin to appear, and soon the Hill is a fairyland of sparkling colored lights. The crowd increases until there are thousands on the Campus and around the " Rez," while the Glee Club sings the songs that have made Tufts
+ 	<pb n="p.160" id="p.160"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00079" id="Fig.80">
+	<head>A SECTION OF THE AUDIENCE</head></figure>
+		famous, and are dear to every Tufts man. Now and then the band will strike up Pax et Lux, or Hurrah for Tufts, and the crowd joins in the refrain.</p>
+      		<p>Over in the "Gym" another crowd is dancing until it is too tired to move.</p>
+      		<p>As the visitors dwindle away and Tufts men are left alone on the Hill, little groups are gathered "here and there," in a student's room to talk over the day, and bid good-bye, and perhaps a Senior sits alone long after midnight, and as a sigh escapes, he wonders if other Class Days can ever be as happy as his.</p>
+      		<p>In truth, Class Day is one of the most important if not the most important day of all the college year. It is not only a happy day for the undergraduate, but for the alumni as well. Watch carefully, all of you, at any Class Day, and you will see countless meetings, hearty handshakes, as old classmates and friends meet again. And then they repair to some quiet corner of the shaded lawns to renew old ties and call up memories of those happy college days when they were boys.</p>
+      		<p>And the underclassmen, how interesting it is to watch some of them. Here a Freshman is vainly trying to make his room correspond to some ideal of what a college room should be. He frantically arranges pillows, chairs, etc., for isn't She coming out, and isn't this a great day for him ?</p>
+      		<p>Perhaps one of the most enjoyable incidents of Class Day on the Hill are the fraternity spreads, from 5.00 to 7.00. The dinner at noon in the Gym is all right, but these partake more of the nature of family parties. From among the palms and ferns within the houses, the orchestras weave their dreamy spell; on the lawn, countless tables hold the throng of hattering guests. Charmingly gowned women, and waiters moving noiselessly about, make a charming picture - one not soon forgotten.</p>
+	<pb n="p.162" id="p.162"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Semi Centennial Celebration" id="cls53">
+		<head>The Semi-Centennial Celebration</head>
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.01197" id="Fig.81">
+	<head>DIGNITARIES AT COMMENCEMENT</head></figure>
+      		<p>President Capen had planned the features that marked the celebration of the semi-centennial of the founding of Tufts College, when his death, March 22, 1905, threw the burden upon his associates. Dr. Hamilton presided at all the public exercises.</p>
+      		<p>These exercises included the Commemoration sermon, by Rev. Dr. W. H. Rider, '69; the unveiling of Cyrus Cobb's bust of the second president of the College, Dr. Miner, with an historical address by Mr. Hosea Starr Ballou; the Phi Beta Kappa oration by Rev. Dr. Henry Blanchard, '59, and the poem by Rev. Dr. Dwight M. Hodge, H '05; the Fourth Reunion Concert of the musical clubs, in charge of Prof. Leo R. Lewis, '87, with an augmented chorus of men's and women's voices; the Forty-ninth Annual Commencement, and Commemoration Day.</p>
+      		<p>Tuesday, June 20, was celebrated as Commencement Day, on which occasion two honorary degrees were conferred; and one hundred and eighty-three degrees in course. At the Commencement dinner among the speakers were the four deans of the college -Dr. Leonard, Dr. Shipman, Dr. Williams, and Dr. Anthony.</p>
+      		<p>The gathering of eminent men on Commencement Day was unequalled in the history of the College. The guests included Governor Douglas, General Chaffee, and Kogoro Takahira, envoy from Japan, together with visiting college officials and others who had done noble service in science, letters, and religion. Fifty-two honorary degrees were conferred.</p>
+      		<p>The significant feature of the celebration was the great gathering of friends of the College. Our illustration shows some of the most distinguished of these as they occupied the chancel of Goddard Chapel on Commemoration Day.</p>                  <p>D. L. M.</p>
+ 	<pb n="p.164" id="p.164"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Old Fortunatus" id="cls54">
+		<head>Old Fortunatus</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00081" id="Fig.82">
+	<head> KING ATHELSTANE AND HIS COURT  From Thomas Dekker's "Old Fortunatus"</head></figure>
+      		<p>The spring of 1906 was made memorable by the revival of an Elizabethan play, "The Pleasant Comedy of Old Fortunatus," by Thomas Dekker. The presentation was under the direction of Prof. Thomas Whittemore of the English Department, and the artistic success of the venture was notable. Several years before a production of " Comus " had been given, but it was by no means as elaborate as the production of "Old Fortunatus."</p>
+      		<p>The parts, with two exceptions, were taken by students of the College, and several of the actors approached the rank of professionals, by their remarkably sympathetic portrayals. The undertaking was rendered the more difficult by the lack of precedent for performance, the play not having been given since its first production before Queen Elizabeth; but careful investigation of the period surmounted all difficulties.</p>
+      		<p>A satisfactory edition of the play was lacking, and to supply the want, a text based upon that of the Mermaid Series, edited by Ernest Rhys was prepared, and printed at the Tufts College Press.</p>
+      		<p>A feature of the performance was the music, which was arranged by Prof. Leo R. Lewis from tunes of the period. No mention of the original music was found in any edition of the play, and extended search in American and European libraries failed to throw any light on the subject. Careful selection was therefore made from works of the period. Several numbers were adapted from Stafford Smith's " Musica Antiqua " and Edward Naylor's "Shakespeare and Music." The harmonizations were made with the utmost care, and no musical forms were used which were unknown to the composers of the time. A further
+	<pb n="p.166" id="p.166"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00082" id="Fig.83">
+	<head>FORTUNE, VIRTUE, AND THEIR ATTENDANTS  From Thomas Dekker's "Old Fortunatus"</head></figure>
+		effort was made to reproduce the musical effects of the early seventeenth century in the choice of instruments for the orchestra.</p>
+      		<p>For the designs of the costumes, recourse was had to the works of such painters as Corvus, Holbein, Geldrop, Zuccaro, Von Somer, Gheerhaldts, and Van Mirrevelt. The stuffs used were rich and brilliant, yet harmonious, and the court scenes especially, provided an opportunity for striking color pictures.</p>
+      		<p>The production was in the open air on one of the terraces of the south Campus, and a special auditorium in the form of an amphitheatre was erected. The deep stage, which was greensward, included a large portion of the shaded Campus, and made possible some very effective groupings, particularly in the woodland scenes.</p>
+      		<p>The production attracted wide attention, and the audiences at the performances were large, although threatening weather kept away many who had signified their intention of attending. Representatives of many colleges and schools were present, and several English classes made arrangements to see the play.</p>                           
+      		<p>P. M. H.</p>
+	<pb n="p.168" id="p.168"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Tufts Night" id="cls55">
+		<head>Tufts Night</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00083" id="Fig.84">
+	<head>TUFTS NIGHT</head></figure>
+      		<p>Tufts Night was conceived by President Capen. Acting upon his suggestion a large mass meeting of the students was held in the Gymnasium on the evening of Monday, Sept. 26, 1898, the purpose in mind being to supplant the usual visitation of that night by a more legitimate and profitable means of giving vent to the enthusiasm and zeal of the undergraduates. It was the direct result of a conference of the captains and managers of the teams held at the house of President Capen the previous Thursday evening.</p>
+      		<p>On this first "Tufts Night" President Capen presided. Among the speakers were Dr.C. M. Ludden, '86, and Prof. Arthur W. Peirce, '82, of Dean Academy. During the evening there was frequent cheering, and excellent music rendered by the Glee Club. The evening closed with the singing of the " Brown and Blue." Altogether it was an occasion always to be remembered, in which the college spirit was evoked as never before, and an admirable precedent for the future was established. As an immediate result of the spirit of this first gathering, appeared our beautiful " Alma Mater," composed by Prof. Leo R. Lewis, '87, with words by Prof. David L. Maulsby, '87.</p>
+      		<p>Since then " Tufts Night " has been a yearly event, and is one of the greatest factors in uniting Tufts men in closer bonds. Here a Freshman obtains his first conceptions of that Tufts spirit which follows him through life. He meets his fellow students, and hears inspiring speeches of " old grads " who spread the honor and fame of Tufts. Here, too, the bond of brotherliness between the Alumni and undergraduates is strengthened. To every Tufts man present, his Alma Mater becomes more real and more to be revered.</p>
+	<pb n="p.170" id="p.170"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Tufts Banquets" id="cls56">
+		<head>Tufts Banquets</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00084" id="Fig.85">
+	<head>THE FOOTBALL BANQUET</head></figure>
+		<p>One of the results of "Tufts Night " was the establishment of the yearly football and baseball banquets held in the Gymnasium. Tufts Night roused the feeling that perhaps it might be well after some athletic victory, for the students and Faculty to gather together in honor of the event. Tower Cross took the matter in hand and on Tuesday, Dec. 13, 1899, a banquet was tendered the football team. It marked an epoch in the athletic history of Tufts.</p>
+      		<p>This was the beginning, but the next two years failed of producing any results. However in the year 1902-1903 another banquet was held in the Gymnasium in March, 1903. It was a very great success, bringing forth as it did a genuine Tufts spirit. Since then these banquets have been yearly affairs. In 1904 the need of a second yearly celebration was felt, and the result was the holding of a second banquet that college year on May 13, 1904.</p>
+      		<p>Now it has become customary to have a Tower Cross banquet at the close of the football season in honor of the football team, and a second in the spring, tendered to the baseball team. At these meetings men from preparatory schools who have been invited by their friends, have been given an insight into what Tufts means, as they mingle with the enthusiastic men or hear loyal speeches from Faculty or Alumni. They learn to know what Tufts could mean to them if they were to become her sons.</p>
+	<pb n="p.172" id="p.172"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Bubble" id="cls57">
+		<head>The Bubble</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00085" id="Fig.86">
+	<head>THE BUBBLE</head></figure>
+      		<p>One of the first phrases that greets a Freshmen's ear is, " Let's have a bubble." He wonders what the serious upper-classman can mean, until he is initiated and takes his first drink at this fountain of clear water. It is by no means his last, for he ever remembers it, so that whenever he passes the old Middle Hall, he feels it his sacred duty to stop a moment, whether he goes belated to a class or must run for his car. When cold winter comes, causing the college friend to retire like the bear, to sleep until spring fills the world, great is the mourning. Then at last March and April appear, and as the snows melt away and the frost leaves the ground, while everything thrills with expectancy of the new budding life, all passersby eagerly watch for the first drops of water which betoken the awakening of their unforgotten friend.</p>
+      		<p>Once the college pump stood here, as revered by the men of the " palmy days " as its successor is by those of the present. When the authorities passed sentence of death, and the pump had to go, it was not without protest from warm partisans. In the October number of the Tuftonian 1901, we find this " Prayer of the Undergraduate: "</p>
+                  <lg type="free">
+                  <l>" In sorrow bowed,</l>               
+                  <l> With hearts bereft,</l>              
+                  <l>We thank thee, Lord,</l>             
+                  <l>For all that's left.</l></lg>
+                  <lg type="free">
+                  <l>" They took the pump,</l>            
+                  <l>We meekly sue</l>                    
+                  <l>They'll take the swing</l>           
+                  <l>They left in view.</l></lg>               
+		  <lg type="free">
+ 		  <l>" Our hearts are rent;</l>
+  		  <l>In fear we cower</l>
+ 		  <l>Lest they should take</l>
+ 		  <l>The Chapel Tower.</l></lg>
+ 		  <lg type="free">
+ 		  <l>" We humbly ask</l>
+ 		  <l>On bended knees</l>
+ 		  <l>They'll kindly leave</l>
+ 		  <l>A few old trees."</l></lg>
+ 	<pb n="p.174" id="p.174"/>
+ 	</div2>
+
+
+
+	<div2 type="subchapter" n="The Portland Trip" id="cls58">
+		<head>The Portland Trip</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00086" id="Fig.87">
+	<head>THE TUFTS DELEGATION ON THE BAY STATE</head></figure>
+      		<p>The date of November 2, 1907, will be long remembered by all those who went to Portland with the team. It was without doubt the largest crowd that has ever attended a game away from the Hill. About three hundred fellows went down on the Friday night boat. It was a beautiful evening, with the sea as calm as the proverbial mill-pond, and the fellows made the best of it. The Band and the Glee Club gave numerous selections in the main saloon, and cheering was constant.</p>
+      		<p>On Saturday night a heavy swell and a strong south-east wind were the attractions. Scenes of excitement were on every side. The boat rolled and tossed, and before long every one was seeking some point of equilibrium, but it was a variable quantity. One bold seaman lashed a life-preserver about himself and calmly lay down to sleep in a life boat. The crash of crockery in the galley was constant. The rail was lined with those admiring (?) the waves, and many a chalky face betrayed the toll that Father Neptune was exacting.</p>
+      		<p>"Say, Bill, do you think this old tub will ever weather the storm ? " was heard on every side.</p>
+      		<p>Although the trip was tremendously exciting, not a man would have missed the touch of sea life, whether sailor or no. Contrary to the expectation of many the gallant vessel finally docked, with three feet of water in her, and a tired but happy crowd left her for terra firma and the Hill.</p>
+	<pb n="p.176" id="p.176"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Bowdoin Trip" id="cls59">
+		<head>Bowdoin Trip</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00087" id="Fig.88">
+	<head>CLASS OF 1909    THE COLLEGE BAND AND ROOTERS IN LINE AT PORTLAND</head></figure>
+      		<p>The greatest interest of Saturday morning centered at the Union Station upon the arrival of the Tufts team from Boston and the Bowdoin team from Brunswick. By 12 o'clock the crowds of Tufts students began to gather at the station. The Boston train was late and did not arrive until 12.45 so the fellows had plenty of time to give vent to their feelings in the station.</p>
+      		<p>One of the first songs, in which the 250 odd students joined with a vim, was the "Brown and Blue," which rang out in great style. Following this the " Campus Song," and a number of others followed until the fellows were well-nigh voiceless. As the train appeared a line was formed with the men four abreast, and the band ahead. After the train came to a stop each man of the team was cheered individually.</p>
+      		<p>After the players passed in review the line of march continued through Railroad Square and up Congress Street. At Vaughn Street the band struck up, and the long line of college men with banners waving and colors flying, took up the strain. People flocked to windows and sidewalks and a royal reception was accorded the fellows all the way to Monument Square. Upon reaching the Square the men circled the monument and went to the Preble House for dinner.</p>
+      		<p>At the grounds in the afternoon the immense crowd was handled in fine style, and the two contingents with their bands were as interesting to the Portland folk as the game itself.</p>
+	<pb n="p.178" id="p.178"/>
+	</div2>
+	
+
+
+      <div2 type="subchapter" n="The Bowdoin Game" id="cls60">
+      		<head>The Bowdoin Game</head>
+      <figure n="tufts:central:dca:UP022:UP022.001.001.00001.00088" id="Fig.89">
+      <head>TUFTS DELEGATION ON THE BLEACHERS Pine-Tree, Portland, ME.</head></figure>
+      		<p>The game at Portland on November 2, 1907, well repaid the supporters who accompanied the team. Although a whole section of the bleachers had been reserved for the Tufts contingent they overflowed into the neighboring stands, and many were unable to obtain seats. Under the leadership of the Band the songs were effectively rendered, and the cheering was especially strong.</p>
+      		<p>With such backing the team could not but play great football. Every man was in the game from start to finish, and the final score of 19-2 shows how well each acquitted himself. Although Sheehy and Marr were disabled to some extent from former injuries they came through the game in great shape. The delayed pass and forward pass were worked consistently for long gains, and Captain Green's drop kicking was a feature.</p>
+      		<p>Between the halves the Tufts and Bowdoin men marched around the field. It is worthy of note that although the game was in Bowdoin's territory Tufts brought fully as many rooters as Bowdoin. Before the second half ended darkness fell, and the finish could hardly be seen. The Tufts rooters formed in procession after the game and marched to the boat.</p>
+      		<p>Ahead were two men bearing a large Tufts banner, and then came the fellows four abreast. Hundred of people gathered on the sidewalks to watch the procession; many of the men carried red fire, and the greatest enthusiasm prevailed. At Monument Square the men were cheered individually and collectively. Then reforming, the line marched down Congress Street and thence to the boat.</p>
+	<pb n="p.180" id="p.180"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="The Dartmouth Bonfire" id="cls61">
+		<head>The Dartmouth Bonfire</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00089" id="Fig.90">
+	<head> THE DARTMOUTH BONFIRE</head></figure>
+      		<p>News of the splendid victory of the 1906 baseball team over Dartmouth reached the Hill soon after the game was over, and the lusty ringing of the College bell warned all the good people of Somerville to keep a close watch of their fences. Soon groups of hurrying Freshmen could be seen in the darkness, and now and then the crash of splintering wood gave token that some fence or board walk had been torn from its accustomed place. Railroad ties in abundance were found below the Hillside station and carted up to the Hill manned by enthusiastic Freshmen. By these tactics a huge pile was collected, and at eleven o'clock the torch was applied. As the flames leaped crackling upward, the student body cheered the team, and sang and danced about the fire until the flames died down. The Rez, too, was illuminated.</p>
+      		<p>After the fire had died out, all hastened to their rooms and donned night-shirts for the traditional night-shirt parade. Headed by the band the students marched through Medford cheering and singing.</p>
+	<pb n="p.182" id="p.182"/>
+	</div2>
+
+
+
+	<div2 type="subchapter" n="Nicholas Dwyer" id="cls62">
+		<head>Nicholas Dwyer</head>
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00090" id="Fig.91">
+	<head>NICHOLAS DWYER   PATRICK BYRNE</head></figure>
+    		<p>If you ask Nicholas Dwyer a casual question, he will entertain you as long as you have time to listen, just as he has entertained a dozen generations of Tufts men.</p>
+    		<p>" Yis, sor, I've been here since 1863. It was in Dr. Ballou's time whin I begun. Mr. James O. Curtis. of Medford, one of the Trustees, got me the place. I used to do work for Mrs. Ballon, who wasn't very smart. Mary, me first wife, was here whin I came. I married her in January, 1864, and we wint to live in the basement of Middle Hall, that's now the Library.</p>
+      		<p>" Ah, what foine boys I've held in me arrums! There was 'Romy Klinghammerhe's dead, poor fellow! An' there was Clinton Dolbear, an' Sam Capen, an' Coleman Tousey - all foine men. Many's the time I've lifted Sam Capen on top of Jumbo, in the Museum, Hah ! he could lift me up on it, now. But the old boys have all gone away.</p>
+      		<p>"Do ye remember Lester Fisher? He was a short, thick-set fellow, an' he lost his red cat. 'Nicholas,' says he, 'I'll give ye five dollars if ye'll find me red cat for me.' He'd married a wife from Longwood, an' she was that fond of it! 'I'll ask the neighbors,' says I, 'but I don't want your five dollars. An' I'll give you five dollars,' says I, ' if the cat ain't in the place where I'll tell ye.' ' Where's that ? ' says he. ' On the porch of the very house the cat lived in,' says I.</p>
+      		<p>"I remembered the time I tuk two black cats from one house to another, thinkin' to get rid of 'em. 'Twas two black cats (an' two thiefs) that I put into a flour bag to carry away, an' 'twas two white cats that I dumped out agin .....</p>
+	<pb n="p.184" id="p.184"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00091" id="Fig.92">
+	<head>[Goddard Chapel Tower , Class of 1908, Patrick Byrne on the Academic Quad, and Ellis Oval]</head></figure>
+       		<p>" Well, I found Mr. Fisher's cat for him, an' he held out to me five dollars betune his fingers. Yis, he give me the five dollars, indeed he did. Ah, he was a foine man ! "</p>
+       		<p>Tufts would be a different place to the old graduate, in the absence of Nicholas Dwyer. He has seen, and remembers, many vicissitudes of the College and its inhabitants. He himself has been janitor of various buildings-at one time of three together. Now he is officially connected with the chemical laboratory, where he is as much a characteristic sight of the Hill as the reservoir or the chaper tower.</p>
+       	</div2>
+	<div2 type="subchapter" n="Patrick Byrne" id="cls63">
+		<head>Patrick Byrne</head>
+       		<p>Patrick Byrne has spent forty-six of his eighty years in working faithfully for the College. His first years of service were in the days of Thomas A. Goddard and Richard Frothingham, when it was not uncommon for him to cash a check from the treasurer to pay off the men at work on the grounds, or take an order by word of mouth to a Boston store and bring back provisions for the boarding house, then in the present Library building. In the basement of this building Mary Byrne was born, oldest child of the six granted to Patrick, and the first child, he thinks, born upon College Hill. Another child, a son, graduated from Tufts in 1894, and during 1905 and 1906 was city engineer of Medford.</p>
+       		<p>Patrick is a familiar figure upon College Hill. He it is who keeps the edges of the lawn trimmed in summer and the footpaths shovelled in winter. Rising at five, he is at College work at seven, and steadily pursues his task for eight hours or more, in warm weather and cold, with two weeks holidays in the year. In the early days the lawns had to be graded. Professor Bray superintended this work, and Patrick lowered the trees from the old
+ 	<pb n="p.186" id="p.186"/>
+
+
+
+	<figure n="tufts:central:dca:UP022:UP022.001.001.00001.00092" id="Fig.93">
+	<head>TUFTS COLLEGE R.R. STA.   BROMFIELD-PEARSON   ROBINSON   POWER HOUSE   CHEM. LAB.   MINER   PAIGE   CHAPEL   CURTIS   BALLOU   EAST    LIBARY    WEST</head></figure>   
+		to the new level. He lowered all the larger trees between the Chapel and East Hall on the one side, and between the Chapel and Miner Hall on the other, without losing a single tree.</p>
+      		<p>"Have you any message for the boys ? " he was asked.</p>
+      		<p>After a pause he replied with a smile: " The boys used to be pretty mischievous. Before they had electric cars they used to steal the horses and wagon out of the barn and take a ride sometimes as far as Newton. I was tempted to take the nuts off the wagon, but I never did it for fear of breaking somebody's arm, though I have taken off the wheels. One night the boys tied my calf to the bell-frame, on top of Ballou. But I said nothing to anybody--just led the creature down again. I've never had any trouble with the boys, and they have always treated me with respect. We have a good class of students now."</p>
+      		<p>"Have you anything to say to the students that a man eighty years old might say to young men ?"</p>
+      		<p>" Tell them to be trustworthy, and they will come out all right."</p>
+      		<p>In this advice Patrick gives the guiding principle of his own life. His trustworthiness has been recognized by all who have had relations with him. A good many years ago, when he was recovering from two months of illness,- almost the only illness he has ever suffered - Professor Shipman came down to his house with a hundred dollars in gold, contributed by Patrick's friends, for fear he might be in need of something.</p>
+      		<p>He lives, as he has lived for many years, in his house on Stearns Avenue, contented with his lot, and enjoying life, a useful and respected member of the human family.</p>
+      	<pb n="p.188" id="p.188"/>
+	</div2>
+	</div1>
+	</body>
+
+
+
+	<back>
+	<div1 type="notes" n="Notes" id="back001">
+		<head>Acknowledgements</head>
+		<p>The Editors take pleasure in acknowledging their indebtedness to the following persons:</p>
+		<p>FOR LITERARY CONTRIBUTIONS</p>
+      		<p>Dean Gardner C. Anthony, Professor William L. Hooper, Professor Frank W. Durkee, Professor Frank B. Sanborn, Professor Charles H. Chase, Professor David L. Maulsby, Professor Charles St. C. Wade, James I. Tucker, Charles E. Stewart, Philip M. Hayden, Howard J. Savage.</p>
+		<p>Mrs. Mary I. Lambert, '00, John Coleman Adams, '70, William B. French, '70, Howard Charles Gale, '07.</p>
+		<p>FOR ARTISTIC WORK</p>
+      		<p>Miss Irene Wier.</p>
+		<p>PHOTOGRAPHIC WORK</p>
+      		<p>E. R. Moore, '09, E. C. Hartshorn, Falk and Arakelyan, N. L. Stebbins, Odin Fritz.</p>
+      		<p>A word of thanks is due the Old Colony Press, C. J. Peters &#x0026; Sons Co., and MacDonald &#x0026; Son Co., and their employees, for their uniform kindness and helpful suggestions.</p>
+	<pb n="p.189" id="p.189"/>
+	</div1>
+
+
+	<div1 type="colophon" n="Colophon 1" id="back002">
+		<head>TUFTS COLLEGE</head>
+	<figure n="tufts:central:dca:UA136:UA136.002.DO.03985" id="Fig.94">
+	<head>DELTA UPSILON   THETA DELTA CHI   ZETA PSI   START   DELTA TAU DELTA   METCALF   GYMNASIUM   MUSUEM   TUFTS OVAL   BALLOU   CHAPEL   LIBRARY    EAST   PRESIDENT'S HOUSE   MINER   PAIGE   ROBINSON   CURTIS   POWER HOUSE   BROMFIELD-PEARSON</head></figure>
+		<p>(Accepted by the Carnegie Foundation.)</p>
+                <p>FREDERICK W. HAMILTON, D.D., LL.D., President.</p>
+		<p>The College is on a hill top, four miles from Boston, combining the advantages of country and city. It offers to the students in all its departments the best methods of instruction, and the various facilities requisite for a thorough education, at a moderate cost. A new departure is the award of the bachelor's degree on the basis of attainment instead of the number of years spent in college. Great freedom of election is permitted in the new courses, which provide both for general culture and for specialization in a chosen subject and its related studies.</p>
+		<p>DEPARTMENTS</p>
+      		<p>THE COLLEGE OF LETTERS.- Degree, A.B., and for courses in Chemistry and General Science, and in Civil, Electrical, Mechanical and Chemical Engineering, S.B.</p>
+      		<p>THE CRANE THEOLOGICAL SCHOOL.- Degree, D.D.</p>
+      		<p>THE MEDICAL SCHOOL.-Located in Boston. Degree, M.D.</p>
+      		<p>THE DENTAL SCHOOL.- Located in Boston. Degree, D.M.D.</p>
+      		<p>THE GRADUATE DEPARTMENT.- Degrees, Ph.D., A.M., and M.S.</p>
+      		<p>THE BROMFIELD-PEARSON SCHOOL.-A technical school, for the Engineering Courses.</p>
+      		<p>SUMMER SCHOOLS.- In Medical Chemistry and Biology.</p>
+		<p>REQUIREMENTS FOR ADMISSION</p>
+      		<p>Candidates for admission to the course leading to the degree of Bachelor of Arts are examined in elementary English, one elementary Foreign Language, ancient or modern, elementary History and elementary Mathematics; and in a number of subjects chosen by the candidate from an optional list. Full particulars of these requirements are stated in the Catalogue for the current year.</p>
+      		<p>For Catalogue, Book of Views, or any information concerning the College, address</p>
+                <p>HARRY G. CHASE, Secretary,</p>
+                <p>Tufts College P. O., Mass.</p>
+    <pb n="p.190" id="p.190"/>
+	</div1>
+	</back>	
+	</text>
+	</TEI.2>

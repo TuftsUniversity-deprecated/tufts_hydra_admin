@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4"
+	        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:xlink="http://www.w3.org/1999/xlink"
+		xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+	<control>
+		<recordId>RCR00728</recordId>
+		<maintenanceStatus></maintenanceStatus>
+		<maintenanceAgency>
+			<agencyCode>MMeT-C</agencyCode>
+			<agencyName>Tufts University Digital Collections and Archives</agencyName>
+		</maintenanceAgency>
+		<languageDeclaration>
+		 	<language languageCode="eng">English</language>
+			<script scriptCode="Latn">Latin</script>
+		</languageDeclaration>
+		<conventionDeclaration>
+			<abbreviation>DACS</abbreviation>
+			<citation>Describing Archives: a Content Standard, Society of American Archivists. 2004</citation>
+			<descriptiveNote><p>Locally using rules from chapter 10 and 11.</p></descriptiveNote>
+		</conventionDeclaration>
+		<conventionDeclaration>
+			<abbreviation>AACR2R</abbreviation>
+			<citation>Anglo-American Cataloging Rules, Revised.</citation>
+			<descriptiveNote><p>Locally used for their definition of a corporate body.</p></descriptiveNote>
+		</conventionDeclaration>
+		<maintenanceHistory>
+			<maintenanceEvent>
+				<eventType>created</eventType>
+				<eventDateTime standardDateTime="2011-03-31">2011-03-31</eventDateTime>
+				<agentType>human</agentType>
+				<agent>VAM</agent>
+			</maintenanceEvent>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2011-09-09">2011-09-09</eventDateTime>
+				<agentType>human</agentType>
+				<agent>VAM</agent>
+			</maintenanceEvent>
+		</maintenanceHistory>
+		<sources>
+			<source>
+				<sourceEntry>Boston School of Occupational Therapy Bulletin, 1951-94. UA032/008. Tufts University. Digital Collections and Archives. Medford, MA.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Boston School of Occupational Therapy Student Government Association. Otiology [yearbook]. Tufts University. Digital Collections and Archives. Medford, MA.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Richard Dyer, "A Wonderful Morning Program." Boston Globe, November 19, 1987, http://0-www.proquest.com [accessed March 31, 2011]. </sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Richard Dyer, "Striking Sinfonova Program Could Be a Farewell," Boston Globe, March 24, 1990, http://0-www.proquest.com [accessed April 5, 2011].</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Marge Fish, "Tribute to a Pioneer" 1980. UA032/008. Tufts University. Digital Collections and Archives. Medford, MA.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>McLaren Harris, "Morning Musicales, 1928-1968," unidentified newspaper, March 3, 1968.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Miller, Russell E. Light on the Hill: A History of Tufts College, 1852-1952. Vol. 1. Boston: Beacon Press, 1966.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Miller, Russell E. Light on the Hill: A History of Tufts University Since 1952. Vol. 2. Boston: Beacon Press, 1986.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>The Occupational Therapy Department, Tufts University. http://ase.tufts.edu/bsot/ [accessed April 6, 2011].</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Ellen Pfeifer, "Morning Musicales Merits Praise as it Celebrates its 50th Season," Boston Herald American, December 1, 1977.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>William Phelps, "The Mission of the Musicales," Boston Post, May 2, 1954.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Sauer, Anne, ed. Concise Encyclopedia of Tufts History. 2000. Tufts University. Digital Collections and Archives. Medford, MA. http://hdl.handle.net/10427/14829. </sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Marjorie W. Sherman, "Another Morning Musicale Boosts Occupational Therapy," Boston Globe, March 1, 1961.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Trustees of Tufts College. Bulletin of Tufts College, 1945-1946. Medford, MA: Tufts College, 1946.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Trustees of Tufts College. Bulletin of Tufts University, 1959-1960. Medford, MA: Tufts College, 1960.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Trustees of Tufts College. "BSOT Educates Three Generations," Tufts Criterion, Vol. XXII, no. 1, Fall 1988.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Rose Walsh, "Musicales Season Set," Boston Herald American, October 4, 1973.</sourceEntry>
+			</source>
+		</sources>
+	</control>
+	<cpfDescription>
+		<identity>
+			<entityType>corporateBody</entityType>
+			<nameEntry>
+			  <part>Boston School of Occupational Therapy</part>
+			  <authorizedForm>local</authorizedForm>
+			</nameEntry>
+			<nameEntry><part>BSOT</part></nameEntry>
+		</identity>
+		<description>
+			<existDates>
+				<dateRange>
+					<fromDate>1918</fromDate>
+					<toDate>1960</toDate>
+				</dateRange>
+			</existDates>
+			<biogHist><abstract>The Boston School of Occupational Therapy was founded in 1918 to assist in the rehabilitation of servicemen during World War I. Upon its affiliation with Tufts College's Division of University Extension in 1945, it offered young women a five-year course that combined academics, professional training and clinical experience. There was a two-year course for those who already held a college degree. Students lived in dorms on the Medford campus and took courses there and in classrooms in Boston. The school received funding from an annual series of classical music concerts. It merged with Tufts University in 1960.</abstract><p>The Boston School of Occupational Therapy (BSOT) was founded in 1918 at the request of the Surgeon General of the United States to assist in the rehabilitation of hospitalized service personnel during World War I. The school closed down after the war, and a fundraising campaign was undertaken so that it could be reopened. A 1918 brochure from that campaign called occupational therapy "a unique and absorbing profession for young women." The effort was a success, and the school, one of the first of its kind, incorporated in 1921. It offered a three year course of study leading to a diploma in occupational therapy.</p><p>In 1945, the BSOT became affiliated with Tufts University through the Division of University Extension (later called the Division of Special Studies, and then the College of Special Studies). Under this arrangement, students undertook a course of study that was partly academic and partly professional, with the academic portion of the program situated on the Medford campus and taught, for the most part, by members of Tufts College Extension. The professional courses took place at BSOT's facility at 7 Harcourt St., Boston, which contained classrooms and workshop laboratories.</p><p>BSOT students followed either the Degree Course or the Advanced Course. The five-year Degree Course led to a diploma in occupational therapy and a Bachelor of Science degree in Education. A year of clinical experience, called Affiliations Year, was sandwiched between the Junior and Senior years of the academic program. Transfer students were initially only accepted into the sophomore class of the Degree Course, but eventually they were accepted into the junior class as well.</p><p>The Advanced Course was followed by students who already held a college degree or had accredited professional training. It offered two semesters of professional technical training and approximately two semesters of clinical training. The name of this track was changed in 1954 to Post Degree.</p><p>The BSOT's academic program included courses in psychology, sociology, biology and education. Required technical subjects included anatomy, kinesiology, neurology, psychiatry, orthopedics, pathology, general medicine and surgery, and theoretical principles of occupational therapy. For training in the wide range of manual and creative arts through which treatment in occupational therapy is given, students took classes in "treatment media," which included woodwork, bookbinding, weaving, metal work, pottery and design, music, gardening, dramatics and recreational activities.</p><p>Prospective students had to submit a medical certificate with an assessment of their health. It was stated in the BSOT bulletin that "physical frailty or emotional instability should be frankly stated" in the certificate, since would indicate unsuitability for the profession. The BSOT was accredited by the American Medical Association. Upon receipt of a diploma, a student was eligible to write the examination for admission to the National Register of the American Occupational Therapy Association.</p><p>At the head of the BSOT from its early days until her retirement in 1960 was Marjorie Belle Greene (Mrs. John A. Greene), known to colleagues and students as "MBG." She had been one of a group of young women who, in 1917, trained with Dr. Joel Goldthwaite of Boston to practice bedside craft work in the war effort. Too young to obtain an overseas assignment, she became secretary to Sarah Lake, dean of the newly opened BSOT. From 1919-1924, she and Ruth Whitney were co-principals, and in 1924 she became the school's sole head, serving under different titles. According to a tribute written to mark Greene's death in 1980, the educator was a pioneer in promoting "a profession that was almost unknown outside the Army."</p><p>The academic year of 1946-1947 was the first during which BSOT students lived in a dormitory in Medford. The BSOT, like other affiliate schools in the Division of Extension, retained its independence, and its students formed organizations apart from those at Tufts. The BSOT yearbooks, published by its student government, provide a glimpse into student life. The commute between Medford and the BSOT facility in Boston is frequently mentioned in the yearbooks, as are the blue uniforms worn by students (who worked towards the white uniforms they would wear at graduation). Classmates in their Affiliations Year sent greetings from locations as far away as England and Hawaii. Among the diverse Post Degree students were Medical Missionaries of Mary, who expected to go on to Africa. Mention was made of students who had left the program and "entered domestic careers." The photos for a few classes show a lone male student among the BSOT women.</p><p>An important adjunct to the BSOT is the Morning Musicale series of concerts, the proceeds of which benefitted the school. The subscribers to these concerts were among Boston's social elite who, according to press clippings, came to show off the latest fashions as well as to hear luminaries of classical music perform. There was a waiting list for subscriptions, which were often handed down from mother to daughter. The series was founded in 1928 through the efforts of Mrs. John Myers of Brookline, who had no direct connection to the BSOT but who thought it a worthy cause. Its revenue became, according to a 1954 feature in the Boston Post, the school's sole endowment.</p><p>Initially, there were six concerts a year at the Statler Hotel ballroom. The concerts started at 11 a.m., preceded by a coffee hour. Many attendees stayed for luncheon afterwards. After repeated scheduling difficulties with the Statler, it was announced in 1968 that the series was ending. This caused alarm within and without the Tufts community. However, the series continued, with a move to the Copley-Plaza and a shortened season of four concerts. The institution came to a close with its 319th show on March 8, 1990.</p><p>In 1958, negotiations were undertaken to integrate the BSOT fully into Tufts University. The merger became final in 1960, and the BSOT became the Department of Occupational Therapy in the College of Special Studies. Under the name Tufts University-Boston School of Occupational Therapy, it was given its own section in the Tufts Bulletin of 1961-1962. It was offered through the College of Special Studies through 1977.  Despite the name change, the department is often still referred to as simply the Boston School of Occupational Therapy.</p></biogHist>
+			<structureOrGenealogy><p>Notable members:</p><list><item>Marjorie Belle Greene (1896-1980)</item></list></structureOrGenealogy>
+		</description>
+		<relations>
+			<cpfRelation cpfRelationType="hierarchical" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isPartOf" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00002">Tufts College</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1945">1945</fromDate>
+					<toDate standardDate="1960">1960</toDate>
+				</dateRange>
+			</cpfRelation>
+			<cpfRelation cpfRelationType="temporal" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isFollowedBy" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00141">Department of Occupational Therapy</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1960">1960</fromDate>
+					<toDate standardDate="1960">1960</toDate>
+				</dateRange>
+			</cpfRelation>
+			<cpfRelation cpfRelationType="hierarchical" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isPartOf" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00569">College of Special Studies</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1945">1945</fromDate>
+					<toDate standardDate="1977">1977</toDate>
+				</dateRange>
+			</cpfRelation>
+			<resourceRelation resourceRelationType="creatorOf" xml:id="UA032">
+			  <relationEntry>Boston School of Occupational Therapy, records</relationEntry>
+			  <objectXMLWrap>
+			    <ead xmlns="urn:isbn:1-93166-22-9">
+			      <archdesc level="collection">
+				<did>
+				  <unittitle>Boston School of Occupational Therapy, records</unittitle>
+				  <unitid>UA032</unitid>
+				</did>
+			      </archdesc>
+			    </ead>
+			  </objectXMLWrap>
+			</resourceRelation>
+			<resourceRelation resourceRelationType="creatorOf" xml:id="UP242">
+			<relationEntry>Tufts BSOT Notes</relationEntry>
+			<objectXMLWrap>
+			  <ead xmlns="urn:isbn:1-93166-22-9">
+			    <archdesc level="collection">
+			      <did>
+				<unittitle>Tufts BSOT Notes</unittitle>
+				<unitid>UP242</unitid>
+			      </did>
+			    </archdesc>
+			  </ead>
+			</objectXMLWrap>
+			</resourceRelation>
+		</relations>
+	</cpfDescription>
+</eac-cpf>

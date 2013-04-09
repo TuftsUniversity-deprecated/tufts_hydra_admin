@@ -1,0 +1,1151 @@
+<?xml version="1.0"?>
+<ead xmlns="http://dca.tufts.edu/schema/ead"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dca.lib.tufts.edu/schema/ead http://dca.lib.tufts.edu/schema/ead/ead.xsd"> 	
+<eadheader langencoding="en">
+	 <eadid>UA069.001.DO.UA001</eadid>
+	 <filedesc>
+		<titlestmt>
+
+		  <titleproper>A Guide to the Office of the President, records, 1828-2006</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Digital Collections and Archives, Tufts
+			 University</publisher> 
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address> 
+		  <date>2008</date> 
+		</publicationstmt> 
+	 </filedesc> 
+  </eadheader> 
+  <frontmatter>
+      <titlepage>
+          <titleproper>A Guide to the Office of the President, records, 1828-2006</titleproper>
+	  <publisher>Digital Collections and Archives, Tufts University</publisher>
+	<address> 
+	<addressline>Medford, MA 02155</addressline> 
+	</address> 
+	<date>2008</date>       
+  </titlepage>
+  </frontmatter>
+  <archdesc level="collection"> 
+	 <did> 
+		<repository> 
+		  <corpname>Digital Collections and Archives, Tufts University</corpname>		  
+		  <address> 
+		    <addressline>Medford, MA 02155</addressline> 
+		  </address>
+		</repository>
+		<unitid>UA001</unitid>
+		<origination> 
+		  <corpname id="RCR00032">Office of the President</corpname>
+		</origination> 
+		<unittitle>Office of the President records</unittitle> 
+		<unitdate type="inclusive">1828-2011</unitdate> 
+		<physdesc>27.45 cubic ft. ; 55 digital objects</physdesc> 
+		<abstract>The Office of the President is responsible for the general administration of the University. Formery filled by Tufts faculty members, the Office of the President more abstracty stuff</abstract>
+
+	 </did> 
+	 <bioghist> 
+	   <p>The Office of the President is responsible for regulating and overseeing the general administration of the University. Along with various administrative duties, each year the president prepares an annual report which is delivered to the Board of Trustees. This "state of the university" report generally includes information about past and present college affairs and policies, as well as future plans and suggestions.</p>
+	   <p>The Office of the President was the first, and for a time only, administrative office. Originally, the president performed virtually all administrative duties. Presidents usually were members of the faculty as well. In the late ninteenth and early twentieth centuries, as administrative functions became more complex, the duties of the president were spread among other administrators.  With the professionalization of college and university administration in the mid-twentieth century, specialized administrative offices were created, and faculty no longer performed dual roles of educators and administrators.</p> 
+	 </bioghist> 
+	 <scopecontent> 
+	   <p>This record group contains the administrative records of the presidents of Tufts.  Information about all aspects of the college and university are found in the records of the office of the president.  Often this material is in summary form.  Records prior to 1976 were inconsistently kept and are even less complete for nineteenth-century presidents.</p>
+	   <p>Most of the collections of the early presidents contain personal correspondence, teaching material, and writings. Also, some material in the early presidents' records were assembled from other sources when the material was brought into the library in the late 1960s. All material accessioned prior to 1997 was originally arranged by subject, no attempt was made to recreate original order, although material relating to administering the collection was removed to the documentation files of the collection in the archives.</p>
+	   <p>The material listed in this guide is processed and available for use, but there is additional material in the collection that is minimally processed and may not be available for research. Please contact the DCA for more information.</p> 
+	 </scopecontent> 
+	 <descgrp type="access_control">
+	 	<accessrestrict> 
+		  <p>Some records may be restricted. See the DCA's General Policy on Access for more information about access to records, especially official University records.</p> 
+	 	</accessrestrict> 
+	 	<userestrict> 
+		  <p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections. Please see the DCA's policy on Copyright and Fair Use for more information. </p> 
+		</userestrict> 
+		<prefercite> 
+		  <p>Office of the President, records, 1828-2006, Digital Collections and Archives, Tufts University</p> 
+		</prefercite>
+	</descgrp>	
+	 <controlaccess> 
+		  <persname>Carmichael, Leonard</persname>
+		  <persname id="RCR00640">Ballou, Hosea, 2d</persname>
+		  <persname id="RCR00639">Miner, Alonzo Ames</persname>
+		  <persname>Capen, Elmer Hewitt</persname>
+		  <persname>Hamilton, Frederick William</persname>
+		  <persname>Hooper, William Leslie</persname>
+		  <persname>Bumpus, Hermon Carey</persname>
+		  <persname>Cousens, John Albert</persname>
+		  <persname>Miller, George Stewart</persname>
+		  <persname>Wessell, Nils Yngve</persname>
+		  <persname>Mead, Leonard Chapin</persname>
+		  <persname>Hallowell, Burton Crosby</persname>
+		  <persname>Mayer, Jean</persname>
+		  <persname>DiBiaggio, John A.</persname>
+		  <corpname>Office of the President</corpname> 
+	 </controlaccess> 		 
+	 <dsc type="combined"> 
+		<c01 level="series" id="UA001.001"> 
+		  <did> 
+		    <unittitle>Hosea Ballou 2d, records, 1824-1952</unittitle>  
+		    <unitdate type="inclusive">1824-1952</unitdate>
+		  </did>
+		  <arrangement>
+		    <p>Arranged alphabetically by subject.</p>
+		  </arrangement>
+		  <scopecontent> 
+		    <p>The collection contains the earliest records of teaching at Tufts, photographs, personal correspondence between Ballou and, especially, T.J. Sawyer, as well as some teaching material and some of Ballou's own school books.  Dates range from the early 1820s through Ballou's death in 1861.  Photographs date from 1858 through 1952. The student records include a recitation (grade) book from about 1854, and records of absences from 1856-61. Teaching material includes notes from lectures on, for example "The Fall of Rome," "History of the English Language," and "Questions from Bowens Politial Economy."  There is one folder of photographs that were added to the collection at some later point.  These include original and copy photographic prints (dates are assigned based on the original image) of Ballou, his homestead in Vermont, and various memorials to him at Tufts.</p>
+		    <p>Biographical Note:</p>
+		    <p>Hosea Ballou (1796-1861) was born in Guilford, Vermont in 1796.  He was a Universalist clergyman, theologian, and historian.  He presided over the parishes of Roxbury and Medford Massachusetts from 1821-1852, published the "Ancient History of Universalism" in 1829, and received an honorary Doctorate of Divinity from, and became an Overseer of, Harvard University in 1845.  Having been one of the biggest influences in the establishment of the College, Hosea Ballou 2d became the first President of Tufts College in 1853.  He was its first professor of History and Intellectual Philosophy.  It would be thirty years after his death before another professor at Tufts was able to match his scholarly and teaching ability in that field.  Hosea Ballou 2d established the college's first curriculum which led to the Bachelor of Arts degree.  He died in office in 1861.  His personal library remains as a legacy to the university to this day.</p> 
+		  </scopecontent>
+		  
+		  <c02 level="file" id="UA001.001.001.00001"> 
+		    <did> 
+		      <container type="item">UA001.001.001.00001</container>
+		      <unittitle>Ballou family material</unittitle>
+		      <unitdate type="inclusive">1855-1973</unitdate>
+		      <origination> 
+			<persname></persname>
+		      </origination> 
+		      <physloc type="location">39090010621684</physloc>
+		
+		    </did> 
+		    </c02> 
+	
+		    <c02 level="file" id="UA001.001.001.00002"> 
+		      <did> 
+			<container type="item">UA001.001.001.00002</container>
+			<unittitle>Newspaper clippings<unitdate></unitdate></unittitle>
+			<origination> 
+			  <persname></persname>
+			</origination> 
+			<physloc type="location">39090010621684</physloc>
+		
+		      </did> 
+		    </c02> 
+		    <c02 level="item" id="UA001.001.DO.00067">
+		      <did>
+			<unittitle>Hosea Ballou 2nd portrait</unittitle>
+			<unitdate>1879</unitdate>
+			<physloc type="location">39090010625289</physloc>
+		      </did>
+		      <daogrp>
+			<daodesc><p>Hosea Ballou chilling by the pool in his Palm Beach estate</p></daodesc>
+			<!-- Just guessing about the format of the relative urls. Let me know what makes the most sense -->
+			<daoloc href="catalog/tufts:UA001.001.DO.00067" linktype="locator" label="page" />>
+			<daoloc href="catalog/tufts:UA001.001.DO.00067.thumb.jpg" linktype="locator" label="thumbnail" />>
+		      </daogrp>
+		    </c02>
+		</c01> 
+		<c01 level="series" id="UA001.012"> 
+		  <did> 
+		    <unittitle>Burton Crosby Hallowell, administrative records and related papers</unittitle> 
+		    <unitdate type="inclusive">1957-1988</unitdate>
+		  </did>
+		  <arrangement>
+		  <head>Arrangement</head>
+		  <p></p>
+		  </arrangement>
+		  
+		  <scopecontent> 
+		    <p>Includes Series Description and Biographical Note</p>
+		    <p>SERIES DESCRIPTION
+		    There are seven subseries in the Burton hallowell series, they are:  correspondence, articles and speeches, clippings, subject files, photographs, professional papers, and professional correspondence.  </p>
+		    <p>BIOGRAPHICAL NOTE
+Burton Crosby Hallowell (1915-2006) was born in Orleans, Massachusetts, on May 2, 1915. He received both a B.A. (1936) and M.A. (1938) from Wesleyan University and his P.H.D. (1949) from Princeton University as well as honorary L.H.D. degrees from Wesleyan University and Boston University (1969), honorary LL. D. degrees from Northeastern University (1973) and American International College (1975), and an honorary Doctorate of Humane Letters from Tufts University (1976). He worked as an assistant professor of economics at Wesleyan from 1941-1942, before working for the United States' Office of Strategic Services in 1942 and the U.S. Army from 1942-1946. From 1946-1950, Hallowell was assistant professor of economics, from 1950-1956 associate professor, and from 1956-1967 Andrews Professor of Economics at Wesleyan. Hallowell served as Wesleyan's Vice President for Planning and Development from 1962-1965, as well as Executive Vice President from 1965-1967.  </p>
+<p>He was elected 9th president of Tufts in 1967. In the first year of Hallowell's presidency, Tufts ran a large deficit, and projected further deficits over the next few years.  President Hallowell used his economic background to control expenses and pursue more donations. By the end of his term, the budget was balanced, and Tufts had received an unprecedented amount of donations. 
+Hallowell's presidency coincided with a period of social unrest and student activism. Hallowell worked to keep trustees and students thoroughly informed. He gave free rein to student and campus publications. He allowed military recruiting on campus but protested when Selective Service threatened to revoke deferments of students who worked to end the draft. Hallowell established the President's Council for Women and Minorities. In 1973, he appointed a woman as Tufts provost and senior vice president.</p>
+<p>Hallowell also pushed to unite Tufts' disparate schools, colleges, and faculties. He urged that graduate education and research activities should be more integrated with undergraduate programs. Moreover, he strongly believed that education ought to develop all aspects of an individual.  
+He was a consultant and trustee of various institutions including e.g., Connecticut General Life Insurance Co., the board of governors of the Tufts New England Medical Center, and the Commission of Economic Development, New York City. In addition, he was the first chairman of the Massachusetts Housing Finance Agency. Throughout his career Hallowell consulted, wrote articles, and gave speeches on economic topics. </p>
+<p>Hallowell resigned his presidency in 1976. Afterward he served as chairman of Keystone Custodian Funds and a director of 7 corporations. He helped found Friends of the Cape Cod National Seashore and was a trustee of Cape Cod Museum of Natural History. He died Nov. 21, 2006.  </p>
+<p>References: 
+Partial Resume and Biographical Record, both in Vertical Files, B. H. Hallowell; 
+"Tufts' 9th President Guided Institution through Tumultuous Times", Tufts Journal, http://tuftsjournal.tufts.edu/archive/2007/january/features/hallowell_tribute.shtml (no byline)
+Russell E. Miller, Light on the Hill vol.II, p. 258-390.
+Keystone Funds information is from http://www.princeton.edu/~paw/archive_new/PAW06-07/12-0411/memorials.html </p>
+		  </scopecontent>
+		  <controlaccess> 
+		  		<head>Index Terms:</head> 
+		  		<controlaccess> 
+		  		  <head>Names:</head> 
+		  		  <persname>Hallowell, Burton Crosby</persname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Organizations:</head> 
+		  		  <corpname>Office of the President</corpname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Subjects:</head> 
+		  		  <subject></subject> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Places:</head> 
+		  		  <geogname></geogname>
+		  		</controlaccess> 
+	 	</controlaccess>
+	 <c02 level="subseries" id="UA001.012.001">
+	   <did> 
+	     <unittitle>Correspondence</unittitle> 
+	     <unitdate type="inclusive">1967-1988</unitdate>
+	   </did>
+	   <arrangement>
+	     <p>Arranged chronologically.</p>
+	   </arrangement>
+	   <scopecontent>
+	     <p>Correspondence documenting Burton C. Hallowell's presidency, from 1967-76.  The large majority of the correspondence is authored by Hallowell and provides a detailed, daily account of his duties.  Letters received were presumably placed throughout the Subject Files.  A few letters exist illustrating Hallowell's relationship with the University following his retirement, dating as late as 1988</p>
+	   </scopecontent>
+	   <c03 level="file" id="UA001.012.001.001.00001"> 
+	     <did> 
+	       <container type="box">UA001/012.001-001</container>
+		<container type="item">00001</container>
+		<unittitle>Correspondence, 1968-88<unitdate>1968-88</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623474</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.001.001.00002"> 
+	 <did> 
+		<container type="box">UA001/012.001-001</container>
+		<container type="item">00002</container>
+		<unittitle>Correspondence, June-September 1967<unitdate>1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623474</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.001.001.00003"> 
+	 <did> 
+		<container type="box">UA001/012.001-001</container>
+		<container type="item">00003</container>
+		<unittitle>Correspondence, October 1967<unitdate>1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p>Box 1 of 2</p></note>
+		<physloc label="Location:" type="location">39090010623474</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname>Office of Alumni Relations</corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.001.001.00004"> 
+	 <did> 
+		<container type="box">UA001/012.001-001</container>
+		<container type="item">00004</container>
+		<unittitle>Correspondence, October 1967<unitdate>1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p>Box 2 of 2</p></note>
+		<physloc label="Location:" type="location">39090010623474</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname>Office of Alumni Relations</corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+      </c02>
+      <c02 level="subseries" id="UA001.012.002">
+	<did> 
+	  <unittitle>Articles and speeches</unittitle> 
+	  <unitdate type="inclusive">1965-1976</unitdate>
+	</did>
+	   <scopecontent>
+	     <p>Articles and speeches authored by Burton C. Hallowell during his presidency (1967-76).  These include addresses given at functions such as Hallowell's inauguration, commencements, conferences, and meetings of associations.  The speeches appear in the form of drafts, transcripts, and reprints and greatly outnumber Hallowell's published works.  Articles include works written for the Boston Globe and Tufts publications on liberal arts education.</p>
+	   </scopecontent> 
+	   
+	 <c03 level="file" id="UA001.012.002.006.00001"> 
+	 <did> 
+		<container type="box">UA001/012.002-006</container>
+		<container type="item">00001</container>
+		<unittitle>Articles and speeches</unittitle>
+		<unitdate>1967-1975</unitdate>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623524</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.002.006.00002"> 
+	 <did> 
+		<container type="box">UA001/012.002-006</container>
+		<container type="item">00002</container>
+		<unittitle>Articles and speeches delivered at honors programs and convocations, 1967-74<unitdate>1967-74</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623524</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.002.006.00003"> 
+	 <did> 
+		<container type="box">UA001/012.002-006</container>
+		<container type="item">00003</container>
+		<unittitle>Articles and speeches, 1967-76<unitdate>1967-76</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623524</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+	
+	 <c03 level="file" id="UA001.012.002.006.00004"> 
+	 <did> 
+		<container type="box">UA001/012.002-006</container>
+		<container type="item">00004</container>
+		<unittitle>Articles and matriculation speeches, 1967-75<unitdate>1967-75</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090010623524</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c03> 
+      </c02>	
+ 
+    </c01>
+    <c01 level="series" id="UA001.013"> 
+      <did> 
+	<unittitle>Jean Mayer, administrative records and related papers</unittitle> 
+	<unitdate type="inclusive">1948-1992</unitdate>
+      </did>
+      <arrangement>
+	<head>Arrangement</head>
+	<p>[Organization][Organization]Organized into 2 series: Subject files, and Articles and addresses. [Arrangement]</p>
+      </arrangement>
+		  
+		  <scopecontent> 
+
+			 <p>This collection contains materials which document Dr. Jean Mayer's presidency of Tufts University (1976-1992), his involvement in local, national, and international issues and organizations subsequent to his arrival at Tufts, and his career as a nutritionist and educator.</p>
+<p>The materials are arranged into two series: Subject files and Articles and addresses series. The Subject files series contains correspondence, memoranda, reports, clippings, proposals, and background materials concerning the diverse subjects of Mayer's career. The Articles and addresses series contains articles, addresses, lectures, columns, public letters and related correspondence authored by Mayer in his capacities as nutritionist and university president.</p>
+<p>The bulk of the Subject files series concerns Mayer's presidency of Tufts University, during which Tufts was transformed from a small liberal arts college into a research university with an international reputation. The subjects of these files range from the routine administrative duties of a university president to projects masterminded by Mayer, including the development of the Graduate School of Nutrion, the first in the United States, the School of Veterinary Medicine, first of its kind in New England, the Tufts United States Department of Agriculture Nutrition Research Center on Aging in Boston, and the Center for Environmental Management.</p>
+<p>The Subject files series also includes files concerning local, national, and international organizations and issues of interest to Mayer subsequent to his arrival at Tufts. Local organizations and issues in this series include in part the Children's Hospital of Boston, Boston school desegregation, and the New England Board of Higher Education. </p>
+<p>The bulk of the files concerning issues and organizations on the national level pertain to the U.S. Government. These files concern in part Mayer's role in the Presidential Commission on World Hunger (1978-1980), his testimony before congressional committees as an expert on hunger and nutrition, his involvement in the 20th-anniversary commemoration of the 1969 White House Conference on Food, Nutrition and Health, and his dealings with various facets of the U.S. Government on legislative matters concerning nutrition and funding for education. </p>
+<p>Many files in the Subject files series concern Mayer's involvement and interest in international organizations and issues. As chairman of the New England Board of Higher Education, Mayer established a scholarship fund for South African blacks (1985). As President of Tufts, Mayer developed the Niger Range and Livestock Project and initiated a global classroom project involving Tufts and Moscow State universities (1985). Mayer also created an international association of university presidents, the Talloires University Presidents Group, which addressed issues of arms control, negotiation and conflict management, higher education in apartheid South Africa, and the environment in annual conferences from 1988-1990. As an expert on hunger and nutrition, Mayer studied famine in Sudan, advised the Food and Agriculture Organization and World Health Organization of the United Nations, and chaired a task force on children's priorities for the United Nations Children's Fund (UNICEF). </p>
+<p>Over the course of his career, Mayer wrote prolifically and lectured widely on topics ranging from physiological chemistry and human nutrition to U.S. domestic and foreign policy. Collected in the Articles and addresses series are many of the articles Mayer published between 1972-1992 as well as drafts of these articles and correspondence relating to their publication. Also included in this series are lectures, speeches, and addresses delivered by Mayer on various occassions subsequent to his arrival at Tufts. This series also includes Mayer's nationally syndicated column "Food for Thought" and public letters written by Mayer in his capacity as President of Tufts.</p>
+		  </scopecontent>
+
+	 <c02 level="file" id="UA001.013.001.00001"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00001</container>
+		<unittitle>A-21 Task Force<unitdate>1979-80</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00002"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00002</container>
+		<unittitle>American Association of University Professors (AAUP), 1973<unitdate>1973</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00003"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00003</container>
+		<unittitle>American Association of University Professors (AAUP), 1974<unitdate>1974</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00004"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00004</container>
+		<unittitle>American Association of University Professors (AAUP), 1976-78<unitdate>1976-78</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00005"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00005</container>
+		<unittitle>American Association of University Professors (AAUP), 1978-82<unitdate>1978-82</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00006"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00006</container>
+		<unittitle>American Council on Education (ACE):  intern, 1967<unitdate>1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00007"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00007</container>
+		<unittitle>American Council of Learned Societies (ACLS), 1982-89<unitdate>1982-89</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00008"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00008</container>
+		<unittitle>Association of Colleges in New England (ACNE), 1984<unitdate>1984</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00009"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00009</container>
+		<unittitle>Association of Colleges in New England (ACNE), 1985<unitdate>1985</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00010"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00010</container>
+		<unittitle>Association of Independent Colleges and Universities in Massachusetts (AICUM), 1977<unitdate>1977</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00011"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00011</container>
+		<unittitle>Association of Independent Colleges and Universities in Massachusetts (AICUM), 1978-83
+<unitdate>1978-83</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00012"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00012</container>
+		<unittitle>Association of Independent Colleges and Universities in Massachusetts (AICUM), 1983-89<unitdate>1983-89</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00013"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00013</container>
+		<unittitle>AIDS issues, 1987-89<unitdate>1987-89</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00014"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00014</container>
+		<unittitle>Academic Council, 1977<unitdate>1977</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00015"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00015</container>
+		<unittitle>Academic Council, 1981<unitdate>1981</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00016"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00016</container>
+		<unittitle>Accreditation, 1960<unitdate>1960</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00017"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00017</container>
+		<unittitle>Accreditation, 1981-82<unitdate>1981-82</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00018"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00018</container>
+		<unittitle>Accreditation, 1982<unitdate>1982</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="UA001.013.001.00019"> 
+	 <did> 
+		<container type="box">UA001/013-001</container>
+		<container type="item">00019</container>
+		<unittitle>Admin - Dunn, 1980-85<unitdate>1980-85</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">file</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 623185</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

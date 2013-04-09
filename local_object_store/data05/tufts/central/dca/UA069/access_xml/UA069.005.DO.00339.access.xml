@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<TEI.2>
+
+
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Acceptance Speech for the Citation of Merit Award</title>
+				<author>Walter B. Wriston</author>
+				<respStmt>
+					<resp>edited by:</resp>
+					<name>Digital Collections and Archives, Tufts University</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2007-12-07</date>
+				</edition>
+			</editionStmt>
+		<extent>8364 bytes</extent>
+			<publicationStmt>
+				<distributor>Tufts University Digital Collections and Archives</distributor>
+				<address>
+					<addrLine>Tufts University</addrLine>
+					<addrLine>35 Professors Row</addrLine>
+					<addrLine>Tisch Library Medford, MA 02155</addrLine>
+				</address>
+				<idno>tufts:central:dca:UA069:UA069.005.DO.00339</idno>
+				<availability status="free">
+					<p>This publication is freely available for scholarly or educational use.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note>This document was created from a speech prepared by Walter B. Wriston for the Salvation Army Association of Greater New York on 3 December 1980.</note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<author>Walter B. Wriston</author>
+						<title>Acceptance Speech for the Citation of Merit Award</title>
+						<imprint>
+							<pubPlace>New York, New York</pubPlace>
+							<publisher>Walter B. Wriston</publisher>
+							<date>December 3, 1980</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<stdVals>
+					<p>Standard date values are given in ISO form: yyyy-mm-dd.</p>
+				</stdVals>
+				<interpretation>
+					<p>Page breaks are not marked.</p>
+					<p>Line breaks were removed.</p>
+				</interpretation>
+				<hyphenation eol="none">
+					<p>End of line hyphens have been removed.</p>
+				</hyphenation>
+			</editorialDecl>
+			<classDecl>
+				<taxonomy id="LCSH">
+					<bibl>
+						<title>Library of Congress Subject Headings</title>
+					</bibl>
+				</taxonomy>
+				<taxonomy id="LC">
+					<bibl>
+						<title>Library of Congress</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<encodingDesc>
+			<refsDecl n="TOC">
+				<state unit="chapter"/>
+			</refsDecl>
+			<refsDecl n="TOC">
+				<state unit="subchapter"/>
+			</refsDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date>2007-12-07</date>
+			</creation>
+			<langUsage>
+				<language id="EN" usage="100">English.</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="LCSH">
+					<list>
+						<item>Awards</item>
+						<item>Citicorp</item>
+					</list>
+				</keywords>
+				<classCode scheme="LC">AS8</classCode>
+				<classCode scheme="LC">HG2491</classCode>
+			</textClass>
+		</profileDesc>
+</teiHeader>
+
+
+<text>
+
+<front>
+<titlePage>
+      <docTitle>
+      	<titlePart type="main">Acceptance Speech for the Citation of Merit Award</titlePart>
+      	<titlePart type="sub">Given at the Salvation Army Association of Greater New York on 3 December 1980 in New York, New York</titlePart>
+      </docTitle>
+	<docAuthor>Walter B. Wriston, Chairman of Citibank/Citicorp</docAuthor>
+</titlePage>
+</front>
+	<body>
+		<div1 type="chapter" n="Acceptance Speech for the Citation of Merit Award given at the Salvation Army Association of Greater New York on 3 December 1980 in New York, New York" id="c1">
+			<p>Thank you, Colonel Schramm.</p>  
+			<p>Distinguished guests, officers, soldiers and friends of The Salvation Army.</p>  
+			<p>On behalf of the men and women of Citibank and Citicorp, I accept this Citation of Merit with great pleasure. In the complicated society in which we live, so filled with big institutions, big government, big media and big problems, it is easy to forget that at the center of our society is the individual. While we often speak of organizations or even countries as good or bad, what we really mean is the value system represented by the individuals who make up those organizations or countries. No one has ever heard of state freedom or state morals. These are the exclusive province of the individual.</p>  
+			<p>At the very center of those values stands religion and a belief in the infinite worth of the individual. The Salvation Army, whose centennial in the United States we celebrate this year, has been for more than a century a force for good in the world. It has stood for the equality of men and women, black and white, and lived by those precepts long before the words, "equal opportunity," were coined. The Army, in the words of the Scripture, "will maintain the fabric of the world."</p>  
+			<p>The Army began in this country in 1880 when Commissioner George Scott Railton and seven women officers arrived to found the Army's first mission on this side of the water. At that time, half of New York's population crowded into tenements on the Lower East Side&#x002D;&#x002D;an area that accounted for 70 percent of the city's deaths. The Army did not wait for the creation of a city planning commission to cope with the problem; it did not wait for a government grant. They went to work with the situation as they found it, and began in this country their classic work of helping people to help themselves.</p>  
+			<p>The fact that America is a volunteer society has confounded observers for generations. Those who say we must make democracy work, misunderstand our society. Democracy is an idea, an abstraction. It is not possible to make an abstraction work&#x002D;&#x002D; only men and women work. The idea that you and I , and millions like us, can make a difference was commented upon 150 years ago by Alexis de Tocqueville: "These Americans are a peculiar people," he said. "If in a local community a citizen becomes aware of a human need . . . he discusses it with his neighbors . . . (and they) thereupon begin to operate on behalf of the need . . . . It is like watching a miracle, because these citizens perform this act without a single reference to any bureaucracy, or any official agency."</p>  
+			<p>The "peculiar" people who work "miracles" is what America is all about, and what The Salvation Army practices.</p>  
+			<p>The Army does not depend on the government for support. It depends on local efforts from the private sector, on personal caring of one human being for another.</p>  
+			<p>Its concern for others is assistance with a human face. There are no endless forms to fill out, people to see, questions of standards or requirements to meet before assistance is provided. The Army is out in the streets living with the people it helps. Its men and women know what needs to be done from personal experience.</p>  
+			<p>It long ago learned that human problems cannot be solved just by throwing money at them. It takes hard work, determined efforts and continuing and effective programs to combat social evils. From soup kitchens to hospitals, community centers, alcohol and drug rehabilitation programs, emergency and disaster services, social work centers and recreational facilities, the Army takes its fight to where it's happening every day of the year, year in and year out.</p>  
+			<p>It is written that God "created man in His own image." The Army acts on that belief in its work for all men and all women, and our democracy also rests on that idea. It is what Reinhold Neibuhr meant when he wrote, "Nothing that is worth doing can be accomplished in your lifetime; therefore, you will have to be saved by hope. Nothing that is beautiful will make sense in the immediate instance; therefore, you must be saved by faith. Nothing that is worth doing can be done alone, but has to be done with others; therefore, you must be saved by love."</p>  
+			<p>It is a singular honor to be associated with those who practice that philosophy, and we are grateful that such an organization would find in the men and women of Citibank some kindred spirits. On their behalf&#x002D;&#x002D;I thank you.</p> 
+		</div1>
+	</body>
+</text>
+</TEI.2>
