@@ -172,7 +172,7 @@ module Tufts::ModelMethods
       subjects.each { |subject|
         unless subject.downcase.include? 'unknown'
           clean_subject = Titleize.titleize(subject);
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "subject_facet", "#{clean_subject}")
+          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "subject_facet_sim", "#{clean_subject}")
         end
       }
 
@@ -196,46 +196,12 @@ module Tufts::ModelMethods
 
 
     def index_collection_info(solr_doc)
+      #removed this.
 
-      collections = self.relationships(:is_member_of_collection)
-      ead = self.relationships(:has_description)
-      pid = self.pid.to_s
-      ead_title = nil
-
-      if ead.first.nil?
-        # there is no hasDescription
-        ead_title = get_collection_from_pid(ead_title,pid)
-        if ead_title.nil?
-          puts "Could not determine Collection for : #{self.pid}"
-        else
-          clean_ead_title = Titleize.titleize(ead_title);
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "collection_facet", clean_ead_title)
-        end
-      else
-        ead = ead.first.gsub('info:fedora/','')
-        ead_obj = TuftsEAD.load_instance(ead)
-        if ead_obj.nil?
-         Rails.logger.debug "EAD Nil " + ead
-        else
-          ead_title = ead_obj.datastreams["DCA-META"].get_values(:title).first
-          ead_title = Tufts::ModelUtilityMethods.clean_ead_title(ead_title)
-
-          #4 additional collections, unfortunately defined by regular expression parsing. If one of these has hasDescription PID takes precedence
-          #"Undergraduate scholarship": PID in tufts:UA005.*
-          #"Graduate scholarship": PID in tufts:UA015.012.*
-          #"Faculty scholarship": PID in tufts:PB.001.001* or tufts:ddennett*
-          #"Boston Streets": PID in tufts:UA069.005.DO.* should be merged with the facet hasDescription UA069.001.DO.MS102
-
-          ead_title = get_collection_from_pid(ead_title,pid)
+      return solr_doc
 
 
-        end
-            clean_ead_title = Titleize.titleize(ead_title)
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "collection_id_facet", ead)
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "collection_facet", clean_ead_title)
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "collection_title_t", clean_ead_title)
-          ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "collection_id_unstem_search", ead)
-      end
+
 
          # unless collections.nil?
          #   collections.each {|collection|
@@ -416,7 +382,7 @@ module Tufts::ModelMethods
             if decade_upper >= 2020
               decade_upper ="Present"
             end
-            ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "year_facet", "#{decade_lower} to #{decade_upper}")
+            ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "year_facet_sim", "#{decade_lower} to #{decade_upper}")
             #::Solrizer::Extractor.insert_solr_field_value(solr_doc, "year_facet", "#{valid_date.year}f")
           end}
       end
@@ -494,7 +460,7 @@ module Tufts::ModelMethods
             if model_s.nil?
               COLLECTION_ERROR_LOG.error "Could not determine Format for : #{fedora_object.pid} with model #{models.to_s}"
             else
-              ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "object_type_facet", model_s)
+              ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "object_type_facet_sim", model_s)
             end
 
 
@@ -502,9 +468,9 @@ module Tufts::ModelMethods
             # Attribute two classifications to one object, now's the time to do that
             ##,"info:fedora/cm:Audio.OralHistory","info:fedora/afmodel:TuftsAudioText" -> needs text
             ##,"info:fedora/cm:Image.HTML" -->needs text
-            if ["info:fedora/cm:Audio.OralHistory","info:fedora/afmodel:TuftsAudioText","info:fedora/cm:Image.HTML"].include? model
-              ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "object_type_facet", "Text")
-            end
+            ##if ["info:fedora/cm:Audio.OralHistory","info:fedora/afmodel:TuftsAudioText","info:fedora/cm:Image.HTML"].include? model
+            ##  ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "object_type_facet_sim", "Text")
+            ##end
 
 
           }
