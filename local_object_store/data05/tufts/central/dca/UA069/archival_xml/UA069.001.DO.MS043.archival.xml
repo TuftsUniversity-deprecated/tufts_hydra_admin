@@ -1,0 +1,336 @@
+<?xml version="1.0"?>
+<ead xmlns="http://dca.tufts.edu/schema/ead"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dca.lib.tufts.edu/schema/ead http://dca.lib.tufts.edu/schema/ead/ead.xsd">
+<eadheader langencoding="en">
+	 <eadid>tufts:central:dca:UA069:UA069.001.DO.MS043</eadid>
+	 <filedesc>
+		<titlestmt>
+
+		  <titleproper>A Guide to the Frederick A. Masse, Jr., papers, 1978-1986</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Digital Collections and Archives, Tufts
+			 University</publisher> 
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address> 
+		  <date>2008</date> 
+		</publicationstmt> 
+	 </filedesc> 
+  </eadheader> 
+  <frontmatter>
+      <titlepage>
+          <titleproper>A Guide to the Frederick A. Masse, Jr., papers, 1978-1986</titleproper>
+      <num>Collection number: MS043</num>
+      <publisher>Digital Collections and Archives, Tufts University</publisher>
+	<address> 
+	<addressline>Medford, MA 02155</addressline> 
+	</address> 
+	<date>2008</date>       
+  </titlepage>
+  </frontmatter>
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<repository label="Repository:"> 
+		  <corpname>Digital Collections and Archives, Tufts University</corpname>		  
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address></repository> 
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<unittitle label="Title:">Frederick A. Masse, Jr., papers, 1978-1986</unittitle> 
+		<unitdate label="Dates:"
+		 type="inclusive">1978-1986</unitdate> 
+		<physdesc label="Extent:">.25 Linear feet</physdesc> 
+	 </did> 
+	 <bioghist> 
+		<head>Historical or Biographical Note</head>
+		<note><p>The historical or biographical note provides background information about the creator of the material. It does not indicate the contents of the collection. Description of collection contents are found in the Collection and Series level Scope and Contents notes.</p></note>
+		<p>Frederick Arthur Masse, Jr. (circa 1931- April 25, 1987) received his B.A. from Tufts in English in 1952 (A 1952).  Masse spelled his name Mass&#233; and also used the pseudonyms Frederick Grimes Mass&#233;, Frederick A. P. Grimes Mass&#233;, and Arthur Jones MacMahon.  During his life, Masse taught in Ethiopia, Iran, Sudan, Great Britain and Newport, RI.  Masse was an English teacher for the Ministry of Fine Arts and Education in Addis Ababa 1958-1961 and 1963-1966.  During this time he also served as tutor to two of Emperor Hailie Selassie's grandchildren.  In 1962-1963 Masse taught high school in Khartoum. He served as a visiting lecturer in English as a Foreign Language at Georgetown University in the summer of 1975. From 1976 to circa 1978 he taught for the Imperial Iranian Navy.  After retiring as a teacher, he lived in Miami, Florida.</p>
+<p>Masse married Margaret Page (Margaret M. Mass&#233;), a Howard University graduate, in November 1970, but they were divorced by 1978.</p>
+<p>References: Frederick Grimes Mass&#233;, Correspondence, vol. 2; Frederick Grimes Mass&#233;, preface to "Royal Bastards and Freed Slaves"; Tufts Criterion, Feb. 1971, p. 17; Tufts Criterion, Nov. 1975, p.11; Tufts Criterion, Oct. 1977, p. 13; Tufts Criterion, Summer 1987, p. 30.
+</p> 
+	 </bioghist> 
+	 <scopecontent> 
+		<head>Collection Scope and Content</head>
+		<note><p>The collection scope and content note provides general information about the contents of the collection. More detailed information about the collection can be found in Series Descriptions.</p></note>
+		<p>This collection contains Frederick A. Masse's personal correspondence and an autobiographical text, "Royal Bastards and Freed Slaves Volume 1."</p> 
+	 </scopecontent> 
+	 <descgrp type="access_control">
+	 	<accessrestrict> 
+	 	<head>Restrictions on Access</head> 
+	 	<p>Some records may be restricted. See the DCA's General Policy on Access for more information about access to records, especially official University records.</p> 
+	 	</accessrestrict> 
+	 	<userestrict> 
+	 	<head>Restrictions on Use</head> 
+	 	<p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections. Please see the DCA's policy on Copyright and Fair Use for more information. </p> 
+		</userestrict> 
+		<prefercite> 
+		  <head>Preferred Citation</head> 
+		  <p>Frederick A. Masse, Jr., papers, 1978-1986, Digital Collections and Archives, Tufts University</p> 
+		</prefercite>
+	</descgrp>	
+	 <controlaccess> 
+		<head>Index Terms:</head> 
+		<controlaccess> 
+		  <head>Names:</head> 
+		  <persname>Masse, Frederick A.</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname></corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject></subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname></geogname>
+		</controlaccess> 
+	 </controlaccess> 		 
+	 <dsc type="combined"> 
+		<head>Detailed Description of the Records</head> 
+		<c01 level="series" id="MS043.001"> 
+		  <did> 
+			 <unittitle>Frederick A. Masse, Jr., Papers 
+				<unitdate type="inclusive">1978-1986</unitdate></unittitle> 
+		  </did>
+		  <arrangement>
+		  <head>Arrangement</head>
+		  <p></p>
+		  </arrangement>
+		  
+		  <scopecontent> 
+		  <note><p>The series description provides more detailed information about the contents of each individual series. For a more general description of the collection as a whole, please see the Collection Scope and Content note.</p></note>
+			 <p>This series contains an autobiographical text covering part of Frederick A. Masse's time in Ethiopia (1960-1961).  It also includes photocopies of his personal correspondence which he bound in volumes. The series contains volumes 2-5. Volumes, 1, 6 and 7 are missing.</p> 
+		  </scopecontent>
+		  <controlaccess> 
+		  		<head>Index Terms:</head> 
+		  		<controlaccess> 
+		  		  <head>Names:</head> 
+		  		  <persname></persname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Organizations:</head> 
+		  		  <corpname></corpname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Subjects:</head> 
+		  		  <subject></subject> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Places:</head> 
+		  		  <geogname></geogname>
+		  		</controlaccess> 
+	 	</controlaccess>
+	 <c02 level="file" id="MS043.001.001.00013"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00013</container>
+		<unittitle>Autobiographical Trilogy on living in Ethiopia, "Royal Bastards and Freed Slaves Volume 1"<unitdate>1980</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p>Text consists of journal entries from 1960-61, but Masse organized and copyrighted the material in 1980.</p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS043.001.001.00014"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00014</container>
+		<unittitle>Correspondence, Book 2, 1978-July 1982<unitdate>1978-1982</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS043.001.001.00015"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00015</container>
+		<unittitle>Correspondence, Book 3, August 1982-October 1983<unitdate>1982-1983</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS043.001.001.00016"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00016</container>
+		<unittitle>Correspondence, Book 4, November 1983-December 1984<unitdate>1983-1984</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS043.001.001.00017"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00017</container>
+		<unittitle>Correspondence, Book 5, December 1984-July 1985<unitdate>1984-1985</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS043.001.001.00018"> 
+	 <did> 
+		<container type="box">MS043/001-001</container>
+		<container type="item">00018</container>
+		<unittitle>Collection Correspondence, 1986<unitdate>1986</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

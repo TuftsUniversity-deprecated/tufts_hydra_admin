@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+"http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+ <!ENTITY % TEI.prose 'INCLUDE'>
+ <!ENTITY % TEI.names.dates 'INCLUDE'>
+ <!ENTITY % TEI.figures 'INCLUDE'>
+ <!ENTITY % TEI.XML 'INCLUDE'>
+]>
+
+<TEI.2>
+
+
+<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>A Long View of the Short Run: An Address</title>
+				<author>Walter B. Wriston</author>
+				<respStmt>
+					<resp>edited by:</resp>
+					<name>Digital Collections and Archives, Tufts University</name>
+				</respStmt>
+			</titleStmt>
+			<editionStmt>
+				<edition>
+					<date>2007-10-04</date>
+				</edition>
+			</editionStmt>
+		<extent>20257 bytes</extent>
+			<publicationStmt>
+				<distributor>Tufts University Digital Collections and Archives</distributor>
+				<address>
+					<addrLine>Tufts University</addrLine>
+					<addrLine>35 Professors Row</addrLine>
+					<addrLine>Tisch Library Medford, MA 02155</addrLine>
+				</address>
+				<idno>tufts:central:dca:UA069:UA069.005.DO.00272</idno>
+				<availability status="free">
+					<p>This publication is freely available for scholarly or educational use.</p>
+				</availability>
+			</publicationStmt>
+			<notesStmt>
+				<note>This document was created from a speech prepared by Walter B. Wriston for the International Chamber of Commerce on 24 October 1968.</note>
+			</notesStmt>
+			<sourceDesc>
+				<biblStruct>
+					<monogr>
+						<author>Walter B. Wriston</author>
+						<title>A Long View of the Short Run: An Address</title>
+						<imprint>
+							<pubPlace>Copenhagen, Denmark</pubPlace>
+							<publisher>Walter B. Wriston</publisher>
+							<date>October 24, 1968</date>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<editorialDecl>
+				<stdVals>
+					<p>Standard date values are given in ISO form: yyyy-mm-dd.</p>
+				</stdVals>
+				<interpretation>
+					<p>Page breaks are not marked.</p>
+					<p>Line breaks were removed.</p>
+				</interpretation>
+				<hyphenation eol="none">
+					<p>End of line hyphens have been removed.</p>
+				</hyphenation>
+			</editorialDecl>
+			<classDecl>
+				<taxonomy id="LCSH">
+					<bibl>
+						<title>Library of Congress Subject Headings</title>
+					</bibl>
+				</taxonomy>
+				<taxonomy id="LC">
+					<bibl>
+						<title>Library of Congress</title>
+					</bibl>
+				</taxonomy>
+			</classDecl>
+		</encodingDesc>
+		<encodingDesc>
+			<refsDecl n="TOC">
+				<state unit="chapter"/>
+			</refsDecl>
+		</encodingDesc>
+		<profileDesc>
+			<creation>
+				<date>2007-10-04</date>
+			</creation>
+			<langUsage>
+				<language id="EN" usage="100">English.</language>
+			</langUsage>
+			<textClass>
+				<keywords scheme="LCSH">
+					<list>
+						<item>United States Foreign relations</item>
+						<item>Presidents United States</item>
+					</list>
+				</keywords>
+				<classCode scheme="LC">JX1417</classCode>
+				<classCode scheme="LC">JK516</classCode>
+			</textClass>
+		</profileDesc>
+</teiHeader>
+
+
+<text>
+
+<front>
+<titlePage>
+      <docTitle>
+                  <titlePart type="main">A Long View of the Short Run</titlePart>
+	   <titlePart type="sub">An Address before the International Chamber of Commerce on 24 October 1968 in Copenhagen, Denmark</titlePart>
+    </docTitle>
+                    <docAuthor>Walter B. Wriston, President of First National City Bank</docAuthor>
+</titlePage>
+</front>
+	<body>
+		<div1 type="chapter" n="A Long View of the Short Run: An Address before the International Chamber of Commerce on 24 October 1968 in Copenhagen, Denmark" id="c1">
+			<p>America&#x002D;watchers in Europe are naturally fascinated with the prospects of one candidate or another in our presidential election. So strong is the interest, Europeans greet even me as a political seer. The fact is, of course, I am only a banker and I cannot tell you who will be elected President of the United States in the next three weeks. But I can tell you with confidence that the election will take place, which is no small assurance about the stability of democratic institutions in a world that is laced with riot and reaction. In short, America is not going to pot regardless of what you may read about the activities of our youth, or the well publicized preoccupation of their parents with affluence.</p> 
+			<p>In saying this, I do not mean to imply we do not have any problems on our side of the water. It is even fair to say all is not right with my country, or any other country anywhere. But what ails America ails the world &#x002D;&#x002D; if that is the word. For everywhere man does not quite accept Soeren Kierkegaard's suggestion that "life can only be understood backwards, but it must be lived forward."</p>
+			<p>The symptoms of chaos are all around us. It is not only the riots in Chicago, Paris, Tokyo, Prague and Peking; or blacks and whites massed against each other; or cries for law and order that make you wonder where justice went. What is even more disturbing is that the conflicting signs apparently are totally inconsistent and therefore appear to make little sense.</p> 
+			<p>Hanoi applauded the rape of Prague, and Peking scorned it. Revolutionary students&#x002D;&#x002D;in the West at least&#x002D;&#x002D;march not to throw off political and economic oppression, but freely as the sons of affluence. Europe's left is violently anti&#x002D;American, yet one of its own mainstays is my country's anticolonialism, which it often refuses to recognize. Our economies have never benefited so much from expanded foreign trade, but our governments concentrate on designing controls and obstructions to the free flow of men, money and ideas.</p> 
+			<p>It may just be, however, that one key to our troubles lies in our interpretations. Much less a show of overbearing strength, the strangulation of Czechoslovakia's demonstration of a small measure of freedom was more likely a sign of weakness. What is taken for United States anti&#x002D;Gaullism did not prevent the U.S. from supporting the French franc in its time of trouble. There are a multitude of other examples. What they all indicate is that we appear to be short of long views; we have become inept in sorting out the signs. In the next few minutes I should like to try to throw into perspective some of the events that have the world in their grip, and in the process, to say a kind word for the human race in general, and for that part of it which inhabits the Western world in particular.</p> 
+			<p>Look first at our preoccupation with posterity. Futurism has become a serious undertaking. In England, France and the United States, expertly staffed and well&#x002D;financed organizations are peering toward the year 2,000 in search of certainty. One of the attractions, of course, is in the millennial nature of the year. Another reason we are so concerned with tomorrow, as many sociologists and historians tell us, is that in times of trouble, man has always wrapped himself protectively in the future, exchanging vague hopes for precise fears.</p> 
+			<p>The development of new decision&#x002D;making theories and mathematical techniques appears to impart a degree of predictive assurance that we have never known before. Now, with the perfection of advanced computers, it begins to look as though in the 2,500 years since Delphi we can measure our progress by the substitution of electrons for entrails.</p> 
+			<p>The computer's seeming certainty and its way of neatly printing out in ordered rows what we have already instructed it to do give us false confidence that our extrapolations are error proof. It is just this feeling of certainty which has produced too many speeches predicting that the end of the world will come tomorrow at 12&#x003A;00 noon if this or that doesn't happen, and happen promptly. There have been too many pontifical pronouncements made about the world's events which have been reversed in tomorrow's headlines.</p> 
+			<p>Some say that advances in the technology of mass communication make us better informed and less likely to be deceived. Better communications were devised to tie the world together more closely, and it may be so, but it also accentuates our differences and proliferates what Raymond Aron calls the "coefficients of uncertainty." We have too much data and not enough information. The very speed with which the news is communicated by printed media and especially television, within countries and around the world by satellite, produces nothing more definite to the untrained eye than a Jackson Pollack painting. News becomes an interminable stream mixing trivia with trends, and tends to defy interpretation. The current history of the world supplies an unlimited number of examples.</p> 
+			<p>Certainly everyone in this room remembers the scholars, diplomats and common people who spoke confidently of the new detente between Russia and the West, and how the current management in the Kremlin had learned a little more about humanitarianism than the old Stalin regime. The same kind of talk was prevalent just before the bloody Hungarian revolution and reached almost a crescendo just a week before Prague.</p> 
+			<p>From the lesson of events such as these, one of the fundamental axioms to remember is that the communications media, as well as history, record only what happened, and they record it imperfectly. They rarely specify the alternatives. The average or even the exceptional person today tends to think that President Kennedy won the Presidency overwhelmingly. The facts, of course, are that he defeated Mr. Nixon by only about 119,000 votes out of the 69 million cast, and he did not even secure a majority of the votes cast. Similarly, how the voting ranged in the Politburo for the current Russian leaders will undoubtedly remain unknown for many years. But the chances are that it was no more overwhelming a demonstration of unanimity than what we see in our Western democracies.</p> 
+			<p>And looking back even further, what unrecorded alternatives would have improved our ability to foresee the events of the last half century? In 1939, for example, it might have been possible to predict the breakup of colonial empires and the rise of Russia and the United States to positions of preeminent power. This was noted by many observers over a century ago. But who would have seen a Communist China of today's proportions, or the spread of the idea of development, or the balance of nuclear terror, or a return to the very ancient concept of guerrilla warfare as the determinant of nationalistic development in a world of atomic capabilities?</p> 
+			<p>Nor, it seems to me, could anyone have been more far seeing after World War II, especially in view of the incredible proliferation of technological developments. Even here the record is uncertain. The computer was only an integrating machine; the transistor that made the high speed computer possible was a long way down stream; television, the fuel cell, atomic physics &#x002D;&#x002D; all of these developments and innumerable others were in some instances only speculations, in others still unthought of. Yet for all our inability to know all of the alternatives, or to draw the outlines of tomorrow with any certainty, we still look to technology to help us play God.</p> 
+			<p>Currently, Servan&#x002D;Schreiber's book <title>The American Challenge</title> is the subject of debate, conversation and intellectual stimulation. Like many books that cause a sensation, it influences those who actually have not read it even more than those who have, as <title>Das Kapital</title> attests so well. If I read Mr. Servan&#x002D;Schreiber correctly, he says that the American challenge is the challenge of technology and the advanced management concepts that it spawns. But what I suggest to you today is that the American challenge he writes about with a good deal of insight is not the American challenge which in the long view is the most important to our friends in Europe or in the rest of the world.</p> 
+			<p>The American challenge that has really changed, is changing and will continue to change the history of the world is the assumption that is bred into our bones, that the individual is of infinite worth, and therefore that individual human freedom is the most important political objective.</p>
+			<p>When this startling doctrine was launched in 1776, the group of colonies attempting to become the United States of America were so small, so weak, so remote and so insignificant that they were not to be taken seriously. But within decades, the American experience did, in fact, begin to spread across the seas, and it was Thomas Paine, the American pamphleteer of freedom, who wrote, "My country is the world." His words reached relatively few men, but in the last 50 years, the growth in the power of the United States has made this particular challenge one that compels the attention of the rest of the world.</p> 
+			<p>Because of the sheer size and power of the United States, our domestic local conflicts and indiscretions become a source of worldwide concern as they are beamed to Europe in living color via the satellite. The old establishments of the world look with understandable displeasure upon a country that appears to have a continuing and permanent revolution. It is not a comfortable feeling for any power elite, whether governmental or industrial, to observe a society that is in a constant rapid rate of social change attempting to validate the proposition that all men are created equal. The explosion of knowledge, as evidenced by the almost 60 million people in my country who are involved in education as a primary occupation, and the marriage of the industrial manager with the intellectual are shifting the locus of our society at an astonishing rate.</p> 
+			<p>Toynbee's statement that "civilization is a movement and not a condition, a voyage and not a harbor" does nothing to calm the nerves of those who embrace the concept of change intellectually, but fear it in their hearts. The export of this revolutionary doctrine of freedom is responsible for the fact that beside the picture of the local hero in the far corners of the world I have seen the picture of our President Abraham Lincoln, and I have listened to the South American patriot Bolivar being referred to as the George Washington of Latin America. You can walk down a Kennedy Gade virtually anywhere in the world and you will find statues of American presidents in town parks and squares wherever the call of freedom is heard.</p> 
+			<p>I was in Europe when President Eisenhower sent troops into Little Rock. That event spurred a wave of anti&#x002D;American sentiment and the belief was expressed that my country had started down the road to fascism. It was immensely difficult to explain to my friends that rather than a show of totalitarianism, those troops were there to enforce the guarantees of individual rights contained in our Constitution. Nor is there much more understanding of the American challenge today.</p> 
+			<p>Our democratic processes and the ways of our elections are still mysterious, and that mystery only hobbles efforts, even in America, to achieve the necessary perspective that I mentioned earlier. Consider the spectacle of our political conventions with the immaculate orderliness of the Republicans in Miami and the equally unreasoned bedlam of the Democrats in Chicago. Yet instead of being rigged, our national political conventions were expressions of the will of a majority of American voters.</p> 
+			<p>Every one of the opinion surveys showed that a majority of registered Republicans favored Nixon and a majority of registered Democrats favored Humphrey. That the losers were articulate and able and had the active sympathy and support of the media does not change the fact. What is more, even though Europeans view the progress of black Americans as excruciatingly slow, no nation has ever made so concerted or concentrated an effort to better the position of a minority, as Gunnar Myrdal has pointed out.</p> 
+			<p>We should understand with de Tocqueville that "the world is a strange theater. There are moments in it when the worst plays are those which succeed the best."</p>
+			<p>With a show of perspective, we should understand the true meaning of the London <title>Economist's</title> recent question, "What was Europe, Daddy?" And the <title>Economist</title> went on, in part&#x003A; "The answer our grandchildren seem likeliest to get to that question is that it was the old&#x002D;fashioned name for the geographical area where the Russian world and the American world happened to meet. Seldom has Europe seemed less effective than it does now. Four of its nation&#x002D;states have just ganged up with their Russian masters to suppress the libertarian desires of a fifth. The remainder &#x002D;&#x002D; a group whose population is as large as, and whose gross national product is substantially greater than, those of the aggressors &#x002D;&#x002D; have stood helplessly by, not because the Americans told them to, but because the Europeans had neither the unity, nor the means, nor the will to do anything else."</p> 
+			<p>If this is a harsh indictment, it is no less stringent than the accusation that America and Russia have an agreement to divide the world into spheres of interest and that Prague occurred only because America connived in a hands&#x002D;off policy. If we hurl epithets across the Atlantic it is only because we all see different demons.</p>
+			<p>Look objectively for a moment at what has been called the "Americanization of Europe," and I think there is no one in this room who would not agree that what is really implied is the equalization of society. It occurred only because there is a direct correlation between productivity, education and the diminution of political authority. With economic growth has come an egalitarian trend that is political as well as economic. On the political side, we have witnessed a spread of literacy, the extension of education and the proliferation of freedom.</p> 
+			<p>On the economic side, equalization induced by technological and organizational advances has brought a sharp improvement in the upward mobility of the members of society. Man everywhere now scorns the notion that poverty is a necessary school which leads to advancement. And from these developments have come the fruits of the true American challenge; namely, a new democratic ideology&#x002D;&#x002D;new to many parts of the world&#x002D;&#x002D;that the state belongs to the people.</p>
+			<p>All together, then, we can say that our ultimate need is to bring a measure of perspective to our judgments &#x002D;&#x002D; to apply the lessons of history to the intense cross&#x002D;purposes and currents of the present. We need to look at the demand for so&#x002D;called law and order against violence, and to understand with Burke that "the use of force is but temporary. It may subdue for a moment, but it does not remove the necessity for subduing again&#x003A; and a nation is not governed which is perpetually to be conquered."</p>
+			<p>How then will our nations be governed? Not surely as a perpetual search for heroic solutions, despite what youth tells us. Perhaps instead we ought to follow the lead of the scientists who, as they have pointed out, do not "leap from hilltop to hilltop, from triumph to triumph, or from discovery to discovery." They proceed from a process of exploration in which they sometimes learn to do better. This is what we ought to do in the affairs of men. This, too, is what some others of the young are also trying to tell us. They are saying, as Whitehead said, that the art of free society consists in the fearlessness of revision.</p> 
+			<p>And so if we take the longer view of the short run, and balance the turbulent vocal strivings of a democracy against those systems which do not place the individual at the center, we will ask with Lincoln, the true American challenger, "Why should there not be a patient confidence in the ultimate justice of the people. Is there any better or equal hope in the world?"</p> 
+		</div1>
+	</body>
+</text>
+</TEI.2>

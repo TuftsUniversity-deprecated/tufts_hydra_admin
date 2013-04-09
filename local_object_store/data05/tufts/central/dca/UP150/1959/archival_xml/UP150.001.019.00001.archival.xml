@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+"http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+<!ENTITY % TEI.prose 'INCLUDE'>
+<!ENTITY % TEI.names.dates 'INCLUDE'>
+<!ENTITY % TEI.figures 'INCLUDE'>
+<!ENTITY % TEI.XML 'INCLUDE'>
+]>
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Caduceus [yearbook]</title>		
+                <author></author>
+                <funder></funder>
+                <respStmt>
+                    <resp>edited by:</resp>
+                    <name>Digital Collections and Archives, Tufts University</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>04/04/2008</date>
+                </edition>
+            </editionStmt>
+            <extent></extent>
+            <publicationStmt>
+                <distributor>Tufts University Digital Collections and Archives</distributor>
+                <address>
+                    <addrLine>Tufts University</addrLine>
+                    <addrLine>35 Professors Row</addrLine>
+                    <addrLine>Tisch Library Medford, MA 02155</addrLine>
+                </address>
+                <idno>UP150/001-019.00001</idno>
+                <availability status="free">
+                    <p>This publication is freely available for scholarly or educational use.</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note place="unspecified" anchored="yes">Yearbook for the Tufts University School of Medicine, Class of 1959.</note>		
+            </notesStmt>
+            <sourceDesc default="NO">
+                <biblStruct default="NO">
+                    <monogr>
+                        <author></author>
+                        <title>Caduceus [yearbook]</title>
+                        <imprint>
+                            <pubPlace></pubPlace>
+                            <publisher></publisher>
+                            <date>1959</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl default="NO">
+                <stdVals default="NO">
+                    <p>Standard date values are given in ISO form: yyyy-mm-dd.</p>
+                </stdVals>
+                <interpretation default="NO">
+                    <p>Page breaks are not marked.</p>
+                    <p>Line breaks were removed.</p>
+                </interpretation>
+                <hyphenation eol="none" default="NO">
+                    <p>End of line hyphens have been removed.</p>
+                </hyphenation>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy id="LCSH">
+                    <bibl default="NO">
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+                <taxonomy id="LC">
+                    <bibl default="NO">
+                        <title>Library of Congress</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>04/04/2008</date>
+            </creation>
+            <langUsage default="NO">
+                <language id="EN" usage="100">English.</language>
+            </langUsage>
+            <textClass default="NO">
+                <keywords scheme="LCSH">
+                    <list type="simple">
+                        <item></item>
+                        <item></item>
+                        <item>School of Medicine --Tufts University</item>
+                        <item>School yearbooks --Students</item>
+                    </list>
+                </keywords>
+                <classCode scheme="LC">39090011162506b</classCode>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change>
+                <date></date>
+                <respStmt>
+                    <name></name>
+                    <resp></resp>
+                </respStmt>
+                <item></item>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+    <front>
+    <div1 type="preface" n="Cover">
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, front cover" id="fig.1"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00001"><head>School of Medicine yearbook, 1959, front cover</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+</div1>
+    </front>
+    <body>
+        <div1 type="chapter" n="Forward and Dedication" id="c1">
+    <div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 1" id="fig.2"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00002"><head>School of Medicine yearbook, 1959, page 1</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 2" id="fig.3"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00003"><head>School of Medicine yearbook, 1959, page 2</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 3" id="fig.4"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00004"><head>School of Medicine yearbook, 1959, page 3</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+       </div1>
+        <div1 type="chapter" n="Faculty" id="c2">
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 4" id="fig.5"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00005"><head>School of Medicine yearbook, 1959, page 4</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 5" id="fig.6"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00006"><head>School of Medicine yearbook, 1959, page 5</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 6" id="fig.7"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00007"><head>School of Medicine yearbook, 1959, page 6</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 7" id="fig.8"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00008"><head>School of Medicine yearbook, 1959, page 7</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 8" id="fig.9"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00009"><head>School of Medicine yearbook, 1959, page 8</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 9" id="fig.10"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00010"><head>School of Medicine yearbook, 1959, page 9</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 10" id="fig.11"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00011"><head>School of Medicine yearbook, 1959, page 10</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 11" id="fig.12"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00012"><head>School of Medicine yearbook, 1959, page 11</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 12" id="fig.13"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00013"><head>School of Medicine yearbook, 1959, page 12</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 13" id="fig.14"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00014"><head>School of Medicine yearbook, 1959, page 13</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 14" id="fig.15"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00015"><head>School of Medicine yearbook, 1959, page 14</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 15" id="fig.16"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00016"><head>School of Medicine yearbook, 1959, page 15</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+        </div1>
+        <div1 type="chapter" n="Class of 1959" id="c3">
+            <div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 16" id="fig.17"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00017"><head>School of Medicine yearbook, 1959, page 16</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 17" id="fig.18"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00018"><head>School of Medicine yearbook, 1959, page 17</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 18" id="fig.19"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00019"><head>School of Medicine yearbook, 1959, page 18</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 19" id="fig.20"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00020"><head>School of Medicine yearbook, 1959, page 19</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 20" id="fig.21"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00021"><head>School of Medicine yearbook, 1959, page 20</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 21" id="fig.22"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00022"><head>School of Medicine yearbook, 1959, page 21</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 22" id="fig.23"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00023"><head>School of Medicine yearbook, 1959, page 22</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 23" id="fig.24"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00024"><head>School of Medicine yearbook, 1959, page 23</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 24" id="fig.25"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00025"><head>School of Medicine yearbook, 1959, page 24</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 25" id="fig.26"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00026"><head>School of Medicine yearbook, 1959, page 25</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 26" id="fig.27"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00027"><head>School of Medicine yearbook, 1959, page 26</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 27" id="fig.28"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00028"><head>School of Medicine yearbook, 1959, page 27</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 28" id="fig.29"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00029"><head>School of Medicine yearbook, 1959, page 28</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 29" id="fig.30"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00030"><head>School of Medicine yearbook, 1959, page 29</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 30" id="fig.31"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00031"><head>School of Medicine yearbook, 1959, page 30</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 31" id="fig.32"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00032"><head>School of Medicine yearbook, 1959, page 31</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 32" id="fig.33"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00033"><head>School of Medicine yearbook, 1959, page 32</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 33" id="fig.34"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00034"><head>School of Medicine yearbook, 1959, page 33</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 34" id="fig.35"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00035"><head>School of Medicine yearbook, 1959, page 34</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 35" id="fig.36"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00036"><head>School of Medicine yearbook, 1959, page 35</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 36" id="fig.37"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00037"><head>School of Medicine yearbook, 1959, page 36</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 37" id="fig.38"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00038"><head>School of Medicine yearbook, 1959, page 37</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 38" id="fig.39"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00039"><head>School of Medicine yearbook, 1959, page 38</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 39" id="fig.40"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00040"><head>School of Medicine yearbook, 1959, page 39</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 40" id="fig.41"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00041"><head>School of Medicine yearbook, 1959, page 40</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 41" id="fig.42"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00042"><head>School of Medicine yearbook, 1959, page 41</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 42" id="fig.43"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00043"><head>School of Medicine yearbook, 1959, page 42</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+        </div1>
+        <div1 type="chapter" n="Organizations and Candids" id="c4">
+            <div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 43" id="fig.44"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00044"><head>School of Medicine yearbook, 1959, page 43</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 44" id="fig.45"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00045"><head>School of Medicine yearbook, 1959, page 44</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 45" id="fig.46"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00046"><head>School of Medicine yearbook, 1959, page 45</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 46" id="fig.47"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00047"><head>School of Medicine yearbook, 1959, page 46</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+        </div1>
+        <div1 type="chapter" n="Advertisements" id="c5">
+            <div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 47" id="fig.48"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00048"><head>School of Medicine yearbook, 1959, page 47</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 48" id="fig.49"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00049"><head>School of Medicine yearbook, 1959, page 48</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 49" id="fig.50"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00050"><head>School of Medicine yearbook, 1959, page 49</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 50" id="fig.51"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00051"><head>School of Medicine yearbook, 1959, page 50</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 51" id="fig.52"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00052"><head>School of Medicine yearbook, 1959, page 51</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 52" id="fig.53"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00053"><head>School of Medicine yearbook, 1959, page 52</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 53" id="fig.54"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00054"><head>School of Medicine yearbook, 1959, page 53</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 54" id="fig.55"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00055"><head>School of Medicine yearbook, 1959, page 54</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 55" id="fig.56"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00056"><head>School of Medicine yearbook, 1959, page 55</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, page 56" id="fig.57"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00057"><head>School of Medicine yearbook, 1959, page 56</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+<div2 type="page" rend="page-image" n="School of Medicine yearbook, 1959, back cover" id="fig.58"><p><figure rend="page" n="tufts:central:dca:UP150:UP150.001.019.00001.00058"><head>School of Medicine yearbook, 1959, back cover</head><figDesc>From School of Medicine yearbook, 1959</figDesc></figure></p></div2>
+        </div1>
+    </body>
+</text>
+    </TEI.2>

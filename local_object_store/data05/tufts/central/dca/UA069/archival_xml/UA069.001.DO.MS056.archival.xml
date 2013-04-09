@@ -1,0 +1,573 @@
+<?xml version="1.0"?>
+<ead xmlns="http://dca.tufts.edu/schema/ead"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dca.lib.tufts.edu/schema/ead http://dca.lib.tufts.edu/schema/ead/ead.xsd">
+<eadheader langencoding="en">
+	 <eadid>tufts:central:dca:UA069:UA069.001.DO.MS056</eadid>
+	 <filedesc>
+		<titlestmt>
+
+		  <titleproper>A Guide to the Arthur W. Leighton, papers, 1913-1973</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Digital Collections and Archives, Tufts
+			 University</publisher> 
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address> 
+		  <date>2008</date> 
+		</publicationstmt> 
+	 </filedesc> 
+  </eadheader> 
+  <frontmatter>
+      <titlepage>
+          <titleproper>A Guide to the Arthur W. Leighton, papers, 1913-1973</titleproper>
+      <num>Collection number: MS056</num>
+      <publisher>Digital Collections and Archives, Tufts University</publisher>
+	<address> 
+	<addressline>Medford, MA 02155</addressline> 
+	</address> 
+	<date>2008</date>       
+  </titlepage>
+  </frontmatter>
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<repository label="Repository:"> 
+		  <corpname>Digital Collections and Archives, Tufts University</corpname>		  
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address></repository> 
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<unittitle label="Title:">Arthur W. Leighton, papers, 1913-1973</unittitle> 
+		<unitdate label="Dates:"
+		 type="inclusive">1913-1973</unitdate> 
+		<physdesc label="Extent:">.2 Linear feet</physdesc> 
+	 </did> 
+	 <bioghist> 
+		<head>Historical or Biographical Note</head>
+		<note><p>The historical or biographical note provides background information about the creator of the material. It does not indicate the contents of the collection. Description of collection contents are found in the Collection and Series level Scope and Contents notes.</p></note>
+		<p>Arthur Whiting Leighton (March 7, 1894 - March 5, 1973).  Arthur W. Leighton (AWL) taught engineering design at Tufts for over 45 years (1917-1963).  He was known for his dedication to students.  AWL served as counselor for freshman and sophomore engineering students from 1931-1960 and as director of counseling for the College of Liberal Arts and Jackson College from 1936-1948.  From 1944-1946, he served as director of the Veteran's Center at the Tufts School for War Veterans.  During his life, AWL was active in various Congregational church organizations.  </p>
+<p>AWL served as an instructor of technical design at the University of Maine (1914-1917), as an instructor of technical drawing at Tufts (1917-1919), and as a mathematics teacher at the Huntington School (1921-1922).  He received his B.S. from the University of Massachusetts in 1921, his Ed. M. from Harvard in 1924, and his Ed. D. from Harvard in 1932.  AWL was married to Frances Rowland Freeman, and they had one son, Arthur W. Leighton, Jr.
+</p> 
+	 </bioghist> 
+	 <scopecontent> 
+		<head>Collection Scope and Content</head>
+		<note><p>The collection scope and content note provides general information about the contents of the collection. More detailed information about the collection can be found in Series Descriptions.</p></note>
+		<p>This collection includes church organizational documents and brochures; correspondence; essays; educational records; news clippings; photos.</p> 
+	 </scopecontent> 
+	 <descgrp type="access_control">
+	 	<accessrestrict> 
+	 	<head>Restrictions on Access</head> 
+	 	<p>Some records may be restricted. See the DCA's General Policy on Access for more information about access to records, especially official University records.</p> 
+	 	</accessrestrict> 
+	 	<userestrict> 
+	 	<head>Restrictions on Use</head> 
+	 	<p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections. Please see the DCA's policy on Copyright and Fair Use for more information. </p> 
+		</userestrict> 
+		<prefercite> 
+		  <head>Preferred Citation</head> 
+		  <p>Arthur W. Leighton, papers, 1913-1973, Digital Collections and Archives, Tufts University</p> 
+		</prefercite>
+	</descgrp>	
+	 <controlaccess> 
+		<head>Index Terms:</head> 
+		<controlaccess> 
+		  <head>Names:</head> 
+		  <persname>Leighton, Arthur W.</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname></corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject></subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname></geogname>
+		</controlaccess> 
+	 </controlaccess> 		 
+	 <dsc type="combined"> 
+		<head>Detailed Description of the Records</head> 
+		<c01 level="series" id="MS056.001"> 
+		  <did> 
+			 <unittitle>Arthur W. Leighton, papers 
+				<unitdate type="inclusive">1913-1973</unitdate></unittitle> 
+		  </did>
+		  <arrangement>
+		  <head>Arrangement</head>
+		  <p></p>
+		  </arrangement>
+		  
+		  <scopecontent> 
+		  <note><p>The series description provides more detailed information about the contents of each individual series. For a more general description of the collection as a whole, please see the Collection Scope and Content note.</p></note>
+			 <p>The collection consists of material relevant to the professional and personal life of Arthur W. Leighton.  It contains educational records and correspondence documenting his career at Tufts.  It also includes programs, pamphlets, and correspondence pertaining to churches and church organizations with which he was involved, and documents relating to his mother Gertrude W. Leighton.</p> 
+		  </scopecontent>
+		  <controlaccess> 
+		  		<head>Index Terms:</head> 
+		  		<controlaccess> 
+		  		  <head>Names:</head> 
+		  		  <persname></persname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Organizations:</head> 
+		  		  <corpname></corpname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Subjects:</head> 
+		  		  <subject></subject> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Places:</head> 
+		  		  <geogname></geogname>
+		  		</controlaccess> 
+	 	</controlaccess>
+	 <c02 level="file" id="MS056.001.001.00019"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00019</container>
+		<unittitle>Assorted personal papers<unitdate>1913-1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00020"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00020</container>
+		<unittitle>Educational Records and Alumni, Tufts Material, Miscellaneous<unitdate>1914-1948</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p>Original file title</p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00021"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00021</container>
+		<unittitle>Leighton, Arthur W., biographical<unitdate>1919-1973</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00022"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00022</container>
+		<unittitle>Church membership and information<unitdate>1932-1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00023"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00023</container>
+		<unittitle>North Street Church<unitdate>1937-1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00024"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00024</container>
+		<unittitle>Publications: Emerson's "Divinity School Address" and Society of Mayflower Decendents "Forefather's Day"<unitdate>1938-1951</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00025"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00025</container>
+		<unittitle>University of Massachusetts reunions<unitdate>1941-1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00026"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00026</container>
+		<unittitle>Boston Congregational Club<unitdate>1943-1964</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00027"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00027</container>
+		<unittitle>Woburn Association of Congregational Christian churches<unitdate>1947-1949</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00028"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00028</container>
+		<unittitle>Gertrude W. Leighton<unitdate>1949-1955</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00029"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00029</container>
+		<unittitle>Photos<unitdate>1950-1955</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">photographic print</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00030"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00030</container>
+		<unittitle>Board of Ministerial Aid<unitdate>1952-1967</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS056.001.001.00031"> 
+	 <did> 
+		<container type="box">MS056/001-001</container>
+		<container type="item">00031</container>
+		<unittitle>United Church of Christ<unitdate>1960</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p>Approximate date</p></note>
+		<physloc label="Location:" type="location">ARMS 12524244</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

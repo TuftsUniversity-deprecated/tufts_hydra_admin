@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<TEI.2>
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>NO TITLE</title>
+</titleStmt>
+<publicationStmt>
+<p>No publication information is avaliable</p>
+</publicationStmt>
+<notesStmt>
+<note>
+<p>Produced by: iText 2.1.3 (by lowagie.com)</p>
+</note>
+</notesStmt>
+<sourceDesc>
+<p>Generated from a source PDF document</p>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date>2009-02-17T01:32:55 -0500</date>
+</creation>
+</profileDesc>
+<revisionDesc>
+<change>
+<date>2009-02-17T04:26:46 -0500</date>
+<respStmt>
+<name>unknown person</name>
+</respStmt>
+<item>unknown changes</item>
+</change>
+</revisionDesc>
+</teiHeader>
+<text>
+<body>
+<div1 id="page_1" n="1" type="page">
+<p>2008; 30: 159&#8211;163
+Expanding the reach of health sciences
+education and empowering others: the
+OpenCourseWare initiative at Tufts University
+MARY Y. LEE, SUSAN ALBRIGHT, LISA O&#8217;LEARY, DAWN GERONIMO TERKLA &amp; NANCY WILSON
+Tufts University, Medford, MA, USA
+Abstract
+OpenCourseWare (OCW) represents an innovative and cost-effective opportunity for institutions to take a more active role in
+strengthening health sciences education worldwide. OCW content can provide a supplement to curricula available in resource-rich
+settings, as well as provide much of the basic content critical to teaching and research in resource-limited health education
+environments. Educational institutions worldwide have the opportunity to explore how OCW and other open tools and materials
+can supplement efforts to build health education capacity to address global shortages of healthcare workers. Tufts University has
+worked to leverage open, digital resources to support medical education since 1994 with the creation of the Tufts University
+Sciences Knowledgebase (TUSK). This experience has yielded vital lessons for institutions interested in OCW, including:
+effectively motivating faculty participation; managing the inherent complexity of open publishing of health sciences content due to
+its rapidly evolving nature and reliance on copyrighted materials; generating support through internal and external communication
+throughout the process; and creating institutional systems that ensure the long-term sustainability of OCW initiatives.
+Introduction
+OpenCourseWare (OCW) comprises &#8216;&#8216;free and open digital
+publication of high quality educational materials, organized as
+courses,&#8217;&#8217; capitalizing on the Internet&#8217;s potential to minimize
+obstacles (e.g., borders and geographic distance) to the free
+exchange of knowledge and new ideas (OpenCourseWare
+Consortium 2007). Unlike distance learning programs that
+charge tuition and limit participation, OCW offers unlimited
+access to course materials to anyone with an internet
+connection (Atkins et al. 2007). Educators from around the
+world can augment their syllabi; students can enhance their
+coursework or pursue self study; and the general public can
+browse through the curricula at leading universities and
+benefit from reading lists and lectures.
+When considering the impact of OCW on medical
+education internationally, it is important to note that OCW,
+as a source of course content, represents only one component
+of health sciences education. In practice, medical education
+requires a complex blend of educational materials, experiential
+learning, and human interaction within a school structure. The
+significance of OCW in a resource-rich setting is likely to differ
+greatly from a resource-limited environment &#8211; the former may
+view OCW primarily as a welcome supplement to existing
+strong curricula, whereas the latter may view OCW as filling
+critical gaps in core content (Keats 2003). As we face a global
+health crisis rooted in an international shortage of healthcare
+workers and an aging population burdened with acute and
+chronic diseases exacerbated by climate change and conflict
+(Garrett 2007; Gostin 2007), Tufts has embraced OCW as an
+open model for mobilizing faculty across nations to leverage
+their expertise to build a shared educational infrastructure and
+learning network. This paper outlines the development of
+OCW at Tufts University, explores the impact of openly
+Practice points
+. Developing high-quality OCW content for the health
+sciences is an inherently complex and faculty-intensive
+process due to the content&#8217;s density, rapidly evolving
+and specialized nature, and heavy reliance on newly
+published third-party materials.
+. Making high-quality content available in resource-
+limited environments can have a significant impact on
+faculty and learners by leveraging invaluable faculty
+time, filling critical gaps in basic curriculum content, and
+allowing for local customization.
+. Recruiting faculty contributors for voluntary OCW
+initiatives requires tapping into altruistic drivers and
+providing reinforcement through ongoing communica-
+tion and engagement with the broader &#8216;&#8216;open&#8217;&#8217;
+community.
+. Institutionalizing OCW initiatives into the normal work-
+flow, budget, and infrastructure of the hosting organiza-
+tion is key to enabling their long-term sustainability.
+. Revolutionizing global access to quality health sciences
+education requires institutions to rethink their role in
+education and examine the opportunities and obliga-
+tions presented by participating in increasingly open
+learning systems.
+Correspondence: Dr. Mary Y. Lee, Associate Provost, Tufts University, Ballou Hall, 1st Floor, 1 The Green, Medford MA, 02176, USA. Tel: 617-627-
+4733; fax: 617-627-3950; email: mary.lee@tufts.edu
+ISSN 0142&#8211;159X print/ISSN 1466&#8211;187X online/08/020159&#8211;5 C223 2008 Informa UK Ltd. 159
+DOI: 10.1080/01421590701881665
+Downloaded By: [Tufts University] At: 18:32 17 February 2009
+</p>
+</div1>
+<div1 id="page_2" n="2" type="page">
+<p>sharing doctoral-level medical and other health sciences
+content, and summarizes the associated lessons for institutions
+interested in participating in OCW.
+Background
+Tufts OCW should be considered within the broader context of
+the Open Education Resources (OER) movement. OER can
+include open content, tools, or infrastructure (OECD 2007).
+Tufts has been engaging in OER work for more than a decade,
+with the majority of efforts related to the development of the
+Tufts University Sciences Knowledgebase (TUSK) (Albright
+et al. 1999; Metz et al. 2001; Lee et al. 2003,). TUSK is a
+integrated digital repository and curriculum knowledge
+management and delivery system used by Tufts&#8217; four health
+sciences schools, and other health sciences institutions in
+India, Tanzania, Uganda, Kenya, and the United States. The
+TUSK infrastructure, developed largely from open source
+software, can be utilized by any institution to create, import,
+manage, search, and customize fully integrated curricula, and
+was Tufts&#8217; first major step toward developing open resources
+to help meet global needs in medical education. Many of Tufts&#8217;
+faculty have been teaching and conducting field research in
+the developing world over the past decade, and the TUSK
+system is increasingly being used to support their work.
+OpenCourseWare, as a subset of open content within OER,
+was launched by the Massachusetts Institute of Technology
+(MIT) in 1999 as an initiative with the goals of providing free,
+searchable access to MIT&#8217;s course material for the general
+public and expanding the reach of the OCW concept (Carson
+2004). In 2002, UNESCO organized the &#8216;&#8216;Forum on the Impact
+of Open Courseware for Higher Education in Developing
+Countries,&#8217;&#8217; which was attended by representatives of
+universities from both developed and developing countries
+(UNESCO 2002). At this conference, the term &#8216;&#8216;open education
+resource&#8217;&#8217; was more clearly defined as &#8216;&#8216;the open provision
+of educational resources, enabled by information and
+communication technologies, for consultation, use, and
+adaptation by a community of users for non-commercial
+purposes&#8217;&#8217; (Hylen 2005).
+When Tufts was invited to join MIT in its OpenCourseWare
+initiative in 2004, the institution&#8217;s expertise in the health
+sciences and international policy complemented MIT&#8217;s
+strengths in engineering and science, and Tufts&#8217; track record
+of creating an extensive body of digital materials and tools
+to support healthcare education made Tufts a ready partner.
+Tufts OCW launched in June 2005 as a University-wide
+initiative, with six courses from three of its four health sciences
+schools. At the time of this writing, Tufts&#8217; OCW site now
+houses 38 courses, including nearly half of the School of
+Medicine&#8217;s didactic curriculum.
+Tufts&#8217; partnership with MIT and other early participants in
+the OCW movement has evolved into the OpenCourseWare
+Consortium (OCWC), an organization with more than 100
+member universities and associated institutions dedicated to
+advancing education and empowering learners through OCW.
+Expanding our existing OER work into OCW has allowed
+Tufts to add high-quality health sciences content to the global
+OCW inventory. This &#8216;&#8216;match&#8217;&#8217; between open sharing and
+the values of the institution was critical to gaining support from
+administrators and faculty for the OCW initiative, which soon
+became a highly visible embodiment of those values.
+Tufts OCW goals and usage
+Two goals have been central to the Tufts OCW project: (l) to
+share Tufts&#8217; rich content globally, particularly in the health
+sciences, with learners and teachers in ways that encourage
+development of locally relevant and customized resources,
+and (2) to measure the impact of the initiative in a systematic
+way. Assessing the use of OCW resources and understanding
+its impact within the Tufts community and beyond was an
+important principle of the initial program design. The success
+of the OCW project needed to be measured not just by the
+number of courses produced, but rather by defining all
+meaningful metrics for success. Experts from the Tufts&#8217; Office
+of Institutional Research and Evaluation have been active
+members of the Tufts OCW Steering Committee and the Tufts
+OCW working group through every phase of the project. From
+the program&#8217;s pilot phase, a longitudinal data collection
+protocol was established as a key component of the project
+to capture critical information that would facilitate the
+evaluation of the impact and usability of Tufts OCW. The
+evaluation plan was designed to continually assess the
+initiative&#8217;s success in achieving its objectives through an
+intercept survey, web analytics, and analysis of the qualitative
+feedback provided by the users, contributing faculty members,
+and OCW staff. This information has been routinely analysed
+and summarized to allow for continuous monitoring, process
+changes, and ongoing development of the site.
+Usage of the Tufts OCW site has grown steadily since its
+initial release. Evaluators have examined the characteristics of
+users, their reasons for visiting the website, and their
+evaluations of the initiative. To date, the typical user profile
+is highly educated (holding a doctoral degree, 25%; master&#8217;s
+degree, 30%; or bachelor&#8217;s degree, 26%); primarily interested
+in graduate-level medical or health sciences education; and
+either affiliated with an educational institution as a student
+(20%) or faculty (over 20%), or identified as a self-learner (over
+50%). The majority of users (60%) are from the United States,
+with greatest international representation from Asia and
+Western Europe. Students cite use of materials to complement
+courses in which they are currently enrolled, or to enhance
+personal knowledge. Faculty access the website to develop or
+plan a curriculum, prepare to teach a specific class, or learn
+about a subject matter to enhance learning or research. The
+remaining users are &#8216;&#8216;self-learners&#8217;&#8217; who report visiting the site
+to enhance personal knowledge or to maintain currency in
+their professional fields.
+Lessons learned
+The past two years of Tufts&#8217; OCW site development have
+yielded lessons that may be useful to other institutions
+considering joining the OCW initiative, particularly in the
+area of health sciences. Specific lessons arose from dealing
+with issues related to startup, faculty recruitment, copyright
+and content, and communications.
+M. Y. Lee et al.
+160
+Downloaded By: [Tufts University] At: 18:32 17 February 2009
+</p>
+</div1>
+<div1 id="page_3" n="3" type="page">
+<p>Infrastructure, staffing, and
+financial support
+With more than a decade to mature into a comprehensive
+curriculum management and delivery system using metadata-
+tagged XML-based content and multimedia content, TUSK
+provided a sound technical platform upon which to build
+OCW. Even though the initial Tufts OCW effort required
+creating a parallel system, tools to move content from TUSK to
+OCW, and an open, copyright-cleared subset of existing
+materials, using the TUSK platform with fully digitized
+materials allowed the OCW project to become established
+much more efficiently. While current courses presented
+on Tufts OCW represent only some of what is available
+internally on TUSK, the remaining core content is being
+systematically converted into the OCW format by TUSK
+staff. Funding and staff time were also critical inputs to a
+successful start-up, as well as considerable external funding
+(see acknowledgements).
+Faculty recruitment and involvement are essential for
+building OCW content. In an environment where faculty
+participation in OCW is entirely voluntary, it was important to
+understand faculty motivations for contributing. The drivers
+were largely altruistic with participants citing their desire to
+share knowledge with areas of the world with limited
+resources, to contribute to their disciplines (see also
+Johnstone 2005), and to increase the reputation of the
+institution. Raising awareness of the OCW activity internally
+was important, as was the support of key faculty and
+administrators, including the deans, provost, and president.
+Senior members of the OCW team have met regularly with
+academic deans of each of Tufts&#8217; schools and have attended
+faculty meetings to present the OCW initiative and answer
+questions. Identifying faculty concerns early in the process and
+taking proactive steps to address those concerns must be an
+institutional priority for universities building OCW sites.
+Specific faculty concerns regarding Tufts&#8217; OCW initiative
+were identified through a study conducted by Tufts&#8217; Office of
+Institutional Research and Evaluation to solicit faculty opinions
+and reactions throughout the pilot phase of the initiative.
+Although the overall results demonstrated that faculty had
+positive experiences and recognized the value of OCW to both
+the institution and the wider community, some faculty initially
+had questions about having to exclude much copyrighted
+materials that added substantial value to their original course.
+Some felt that the relative bareness of the initial OCW course
+(compared with the richness of the internal TUSK materials)
+made the course seem rudimentary and could devalue their
+reputations. Other concerns included the time commitment
+required, loss of control over materials, possible violation of
+privacy by users attempting to contact them, and effect on their
+academic credentials and promotion.
+The results of follow-up interviews conducted in the fall
+of 2005 revealed that these concerns had faded. Only one
+faculty member reported being contacted by an OCW user,
+and it was a positive interaction. Faculty members had
+adjusted to their materials being openly available. Despite
+some initial skepticism about the value of the project to the
+University and to users, the faculty participating in the
+follow-up interviews clearly recognized the merit of the
+initiative. Although the interviews were conducted early in
+the launch of Tufts OCW, faculty members already understood
+the connection of the project to the University&#8217;s mission to
+extend its reach internationally and to foster contributions to
+civil society.
+Several lessons based on this feedback were helpful in later
+interactions with contributing faculty. OCW staff has learned to
+provide regular communication about the project, its goals,
+and the project&#8217;s connection to the broader international OCW
+community. The initial orientation to the project and on-going
+communication about the project&#8217;s progress as courses are
+being added addresses concerns that materials were being
+well-handled. Regular communication about the project to the
+broader Tufts community, including statistics verifying global
+use with highly positive user feedback, emphasizes faculty
+members&#8217; roles within a growing &#8216;&#8216;open&#8217;&#8217; community and
+helps foster cross-disciplinary connections between faculty
+that reinforces altruistic motivations. Winning the support of
+leaders within the faculty and administration and sharing
+specific steps taken to address issues such as faculty time
+and copyright questions are important to launching a
+successful process.
+Copyright and content
+complexity issues
+While there are few technical issues involved in converting
+the courses developed within TUSK for OCW, one major
+barrier to rapid publication is the labor required to verify
+compliance with copyright law. United States copyright law
+includes a fair use provision. Fair use means that if certain
+criteria are met, copyrighted materials may be used without
+prior permission. These provisions include examining the
+nature and amount of material used, as well as its commercial
+impact. Since health sciences faculty members commonly
+and legitimately include extensive copyrighted material in
+their lectures and textbook-sized syllabi within the Tufts
+environment, a judgment must be made about copyright
+infringement for each piece of third-party content used
+before publication externally through OCW. These page-by-
+page and image-by-image reviews by faculty and staff are
+painstaking and time consuming (up to 150 hours per course),
+and must be taken into account both when planning staffing
+and workflow, and setting realistic targets of the number of
+courses that can be published within a given timeframe.
+To minimize copyright problems, Tufts staff found it critical
+to educate faculty early in the course creation process about
+utilizing resources in the public domain wherever possible.
+Tufts&#8217; librarians have played a key role in educating faculty
+about copyright issues and helping to identify open alter-
+natives to copyrighted sources. Staff members are responsible
+for contacting copyright owners for permission to use material,
+helping to locate open materials, and assisting faculty in
+developing their own materials. Despite staff help, faculty can
+still feel overburdened by the sheer volume of lecture and
+syllabi material that must be reviewed. Faculty in the process
+of new course creation are now coached on the benefits of
+using open resources, the importance of having full citations
+The OpenCourseWare initiative at Tufts University
+161
+Downloaded By: [Tufts University] At: 18:32 17 February 2009
+</p>
+</div1>
+<div1 id="page_4" n="4" type="page">
+<p>imbedded in course materials, and the advantages of
+collaboration with professional librarians to identify such
+resources early in the process.
+The OCW courses are made available under a Creative
+Commons public license (for more information on Creative
+Commons, see Ellaway and Martin in this edition of Medical
+Teacher). Certain restrictions dealing with the use of the
+University name in connection with materials and exemptions
+that would require the user to seek permission to use certain
+third-party materials are noted in the policy statement on the
+website. Faculty members at Tufts own the copyright to their
+courses, and earlier reservations about ownership after open
+publishing have essentially disappeared. Faculty who have
+contributed courses thus far have not expressed any reluctance
+to grant Tufts University use of course materials as OCW.
+Communication
+Limited global awareness of OCW has precluded widespread
+use, particularly within the health sciences community.
+Despite this fact, the University is optimistic that knowledge
+will spread over time. While Tufts&#8217; external promotion of OCW
+has been modest, the site continues to receive traffic via
+Google, the OCWC, the OER Commons, and other search
+engines. Participation in these organizations is a valuable tool
+for universities to increase the visibility of their OCW sites.
+The global language barrier across OCW sites is minimized
+in human medical sciences where English is the international
+language for research and most education. The language
+limitation for using other OCW materials world-wide seems
+likely to improve. Groups in Spain and Asia, for example,
+have begun the process of translating some courses from
+participating OCW institutions into local languages including
+Spanish and both simplified and traditional Chinese. To date,
+eighteen Tufts courses have been partially translated into
+Chinese. Concerns about the accuracy of the translations have
+been mitigated by the ability of users to view the original and
+translated versions simultaneously via a split screen. However,
+as the network of institutions and individuals that are
+broadening the accessibility of OCW grows, the OCW
+initiative will have to rely on some systematic quality control
+mechanisms if it is to achieve its goals fully.
+Sustainability
+Tufts OCW remains an important component of the
+University&#8217;s broader efforts in OER, reinforcing Tufts&#8217; commit-
+ment to share its assets with the wider world. The University is
+developing long-term strategies to ensure that its full range of
+OER efforts is sustainable. The sustainability of open resources
+is tied not only to an institutional &#8216;&#8216;culture fit&#8217;&#8217; but also to
+identifying stable funding sources that allow for continued
+development and maintenance, as well as technical and
+content support once initial grant funding ends (Downes
+2007). To address this, Tufts is slowly incorporating its range of
+OER initiatives into the normal workflow, function, and budget
+of the institution, while continuing to seek outside funding for
+related research and development of new projects.
+Next steps
+The participation of health sciences educators in the OER
+movement presents the opportunity to shape how information
+is generated, used, and shared for the benefit of future
+generations of healthcare workers, particularly those in the
+developing world. National and international groups are
+developing best practices and open standards that are essential
+for exchanging content and tools effectively across cultures
+and technical platforms. Quality control, particularly for health
+sciences content due to its rapidly evolving and highly
+complex nature, creates the opportunity for leading experts
+in their fields to unite and form international &#8216;&#8216;editorial boards&#8217;&#8217;
+to ensure the accuracy of a core subset of open content that
+any school could confidently use to create a locally customized
+core curriculum. Expanding the impact of OCW for health
+sciences education will require the development of innovative
+tools such as semantic searching and competency-based
+learning and assessment tools that are linked to content. We
+are in a new era where the blurring of formal and informal
+learning, and the blurring of teacher and learner (OECD 2007),
+will compel institutions to reassess their role in education and
+examine the opportunities provided by participating in an
+increasingly open model of learning for international health
+sciences education. Tufts is eager to contribute to this
+progressively interconnected global community and to the
+inevitable debates about how best to harness the power of
+open learning for the empowerment of all.
+Acknowledgements
+To fund projects and staff needed for specific OCW content
+development and tool creation, Tufts OCW has received
+generous support from The William and Flora Hewlett
+Foundation, a welcome supplement to initial funds from the
+Kurtz Family Foundation, the Jonathan M. Tisch College of
+Citizenship and Public Service at Tufts, and Tufts University.
+Notes on contributors
+MARY Y. LEE, M.D., is Associate Provost of Tufts University.
+SUSAN ALBRIGHT is Executive Director of the Tufts University Sciences
+Knowledgebase (TUSK) project at Tufts University.
+LISA O&#8217;LEARY is Assistant Director of Institutional Research and Evaluation
+at Tufts University, and is pursuing her Ph.D. at Boston University.
+DAWN GERONIMO TERKLA, Ph.D., is Executive Director of Institutional
+Research and Evaluation at Tufts University.
+NANCY WILSON, M.B.A., is Director and Associate Dean of the Jonathan
+M. Tisch College of Citizenship and Public Service at Tufts University.
+References
+Albright SA, Eaton EK, Alkasab T. 1999. Tufts Health Sciences Library and
+Medical School Collaborative Virtual Medical Library (In Progress).
+Acad Med 74:575.
+Atkins DE, Brown JS, Hammond AL. 2007. A review of the Open
+Educational Resources (OER) Movement: Achievements, challenges,
+and new opportunities (California, A Report to The William and Flora
+Hewlett Foundation).
+M. Y. Lee et al.
+162
+Downloaded By: [Tufts University] At: 18:32 17 February 2009
+</p>
+</div1>
+<div1 id="page_5" n="5" type="page">
+<p>Carson, S. 2004. &#8216;&#8216;MIT Open Courseware Program Evaluation Findings,
+Summary Report,&#8217;&#8217; March. Available online at: http://www.myoops.org/
+twocw/mit/NR/rdonlyres/250BF523-3FA0-49AB-A78B-C6633D6E666A/
+0/Program_Summary_March_2004.pdf
+Downes S. 2007. Models for sustainable open resources. Interdisciplinary
+J Knowl Learn Objects 3:27&#8211;44.
+Eaton, E., Albright, S. 2000. Tufts&#8217; Digital Curriculum: Cause and Effect of
+Converging Vision, Proceedings of the 8th International Congress on
+Medical Librarianship, London, England, July 2&#8211;5, 2000.
+Garrett L. 2007. The Challenge of Global Health. Foreign Affairs 86:14&#8211;28.
+Gostin LO. 2007. Meeting the Survival Needs of the World&#8217;s Least Healthy
+People: A Proposed Model for Global Health Governance. J Am Med
+Assoc 298:225&#8211;228.
+Hylen, J. (2006). Open Educational Resources: Opportunities and
+Challenges. Report from OECD&#8217;s Centre for Educational Research
+and Innovation. Available online at: http://www.oercommons.org/
+matters/open-educational-resources-opportunities-and-challenges.
+(accessed 15 July 2007).
+Johnstone SM. 2005. Open Educational Resources Serve the World.
+Educause Quart 3:15&#8211;18.
+Keats, D. 2003. Collaborative development of open content: A
+process model to unlock the potential for African uni-
+versities. First Monday, 8(2). Available online at: http://
+firstmonday.org/issues/issue8_2/keats/index.html (accessed June
+2003).
+Lee MY, Albright SA, Alkasab T, Damassa DA, Wang PJ, Eaton EK. 2003.
+Tufts&#8217; Health Sciences Database: Lessons, Issues, and Opportunities.
+Acad Med 78:254&#8211;264.
+Metz, B., Lee, MY., Albright, S., Alkasab, T. 2001. Transforming Medical and
+Health Science Education At Tufts University. Educause Quart
+November 4, 2001.
+National Institutes for Health. 2007. Information on the Unified Medical
+Language System http://umlsinfo.nlm.nih.gov/
+OECD.. 2007. Giving Knowledge for Free: The Emergence of Open
+Educational Resources (Paris, OECD).
+OpenCourseWare Consortium. (2007). Website. Available online at:
+http://www.ocwconsortium.org (accessed March 2007).
+UNESCO. (2002). Forum on the Impact of Open Courseware for Higher
+Education in Developing Countries. (Paris, 1&#8211;3 July 2002. Paris:
+UNESCO).
+The OpenCourseWare initiative at Tufts University
+163
+Downloaded By: [Tufts University] At: 18:32 17 February 2009
+</p>
+</div1>
+</body>
+</text>
+</TEI.2>

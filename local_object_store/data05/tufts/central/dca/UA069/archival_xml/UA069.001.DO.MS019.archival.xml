@@ -1,0 +1,370 @@
+<?xml version="1.0"?>
+<ead xmlns="http://dca.tufts.edu/schema/ead"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://dca.lib.tufts.edu/schema/ead http://dca.lib.tufts.edu/schema/ead/ead.xsd"> 	
+	<eadheader langencoding="en">
+	 <eadid>tufts:central:dca:UA069:UA069.001.DO.MS019</eadid>
+	 <filedesc>
+		<titlestmt>
+
+		  <titleproper>A Guide to the Arthur Irving Andrews, papers, 1911-1978</titleproper> 
+		</titlestmt> 
+		<publicationstmt> 
+		  <publisher>Digital Collections and Archives, Tufts
+			 University</publisher> 
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address> 
+		  <date>2008</date> 
+		</publicationstmt> 
+	 </filedesc> 
+  </eadheader> 
+  <frontmatter>
+      <titlepage>
+          <titleproper>A Guide to the Arthur Irving Andrews, papers, 1911-1978</titleproper>
+      <num>Collection number: MS019</num>
+      <publisher>Digital Collections and Archives, Tufts University</publisher>
+	<address> 
+	<addressline>Medford, MA 02155</addressline> 
+	</address> 
+	<date>2008</date>       
+  </titlepage>
+  </frontmatter>
+  <archdesc level="collection"> 
+	 <did> 
+		<head>Collection Summary</head> 
+		<repository label="Repository:"> 
+		  <corpname>Digital Collections and Archives, Tufts University</corpname>		  
+		  <address> 
+			 <addressline>Medford, MA 02155</addressline> 
+		  </address></repository> 
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<unittitle label="Title:">Arthur Irving Andrews, papers, 1911-1978</unittitle> 
+		<unitdate label="Dates:"
+		 type="inclusive">1911-1978</unitdate> 
+		<physdesc label="Extent:">.2 Linear feet</physdesc> 
+	 </did> 
+	 <bioghist> 
+		<head>Historical or Biographical Note</head>
+		<note><p>The historical or biographical note provides background information about the creator of the material. It does not indicate the contents of the collection. Description of collection contents are found in the Collection and Series level Scope and Contents notes.</p></note>
+		<p>Arthur I. Andrews received his Ph.D. from Harvard and came to Tufts in 1911 after teaching at Simmons College (1906-1909) and Harvard (1906-1912).  He was a student of Archibald Cary Coolidge and helped to disseminate Coolidge's ideas about the teaching of history in America.  Like Coolidge, Andrews promoted the study of previously ignored regions, such as Eastern Europe and East Asia, and emphasized international travel and study. He taught pioneering courses in Russian and Eastern European history; Far Eastern history and culture; international law and diplomacy; modern European history and government.  He also taught courses on United States political institutions and the United States as a "world power."</p>
+<p>Andrews was a specialist in Eastern European history and the author of numerous book reviews.  In 1920, he spearheaded an effort to establish a Tufts War Memorial/Museum to commemorate the part Tufts men played in World War I.</p>
+<p>Andrews resigned from Tufts in 1926, after which he lived Cambridge, Massachusetts and Warner, New Hampshire.  It is unclear whether or not he continued teaching history.
+</p> 
+	 </bioghist> 
+	 <scopecontent> 
+		<head>Collection Scope and Content</head>
+		<note><p>The collection scope and content note provides general information about the contents of the collection. More detailed information about the collection can be found in Series Descriptions.</p></note>
+		<p>This collection includes correspondence, soldiers' documents from WWI, a map, a photograph, postcards, and a publication.  The collection represents the activities of academic service, research, and international travel.</p> 
+	 </scopecontent> 
+	 <descgrp type="access_control">
+	 	<accessrestrict> 
+	 	<head>Restrictions on Access</head> 
+	 	<p>Some records may be restricted. See the DCA's General Policy on Access for more information about access to records, especially official University records.</p> 
+	 	</accessrestrict> 
+	 	<userestrict> 
+	 	<head>Restrictions on Use</head> 
+	 	<p>Some material may be copyrighted or restricted. It is the patron's obligation to determine and satisfy copyright or other case restrictions when publishing or otherwise distributing materials found in the collections. Please see the DCA's policy on Copyright and Fair Use for more information. </p> 
+		</userestrict> 
+		<prefercite> 
+		  <head>Preferred Citation</head> 
+		  <p>Arthur Irving Andrews, papers, 1911-1978, Digital Collections and Archives, Tufts University</p> 
+		</prefercite>
+	</descgrp>	
+	 <controlaccess> 
+		<head>Index Terms:</head> 
+		<controlaccess> 
+		  <head>Names:</head> 
+		  <persname>Andrews, Arthur I</persname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Organizations:</head> 
+		  <corpname></corpname> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Subjects:</head> 
+		  <subject>World War, 1914-1918</subject> 
+		</controlaccess> 
+		<controlaccess> 
+		  <head>Places:</head> 
+		  <geogname></geogname>
+		</controlaccess> 
+	 </controlaccess> 		 
+	 <dsc type="combined"> 
+		<head>Detailed Description of the Records</head> 
+		<c01 level="series" id="MS019.001"> 
+		  <did> 
+			 <unittitle>Andrews, Arthur Irving, papers, 1911-1978 
+				<unitdate type="inclusive">1911-1978</unitdate></unittitle> 
+		  </did>
+		  <arrangement>
+		  <head>Arrangement</head>
+		  <p></p>
+		  </arrangement>
+		  
+		  <scopecontent> 
+		  <note><p>The series description provides more detailed information about the contents of each individual series. For a more general description of the collection as a whole, please see the Collection Scope and Content note.</p></note>
+			 <p>This collection contains extensive correspondence from and pertinent to Andrews.  The correspondence includes memoranda, pamphlets, photos, and reports. The correspondence addresses such topics as: appointments and awards; course planning; leaves and sabbatical; purchasing books and serial subscriptions; departmental politics; international travel; and the Tufts War Memorial/Museum.  The collection also contains some of the documents Andrews collected for the planned Tufts War Memorial/Museum, including an historical map of Germany and her allies from 1917.</p> 
+		  </scopecontent>
+		  <controlaccess> 
+		  		<head>Index Terms:</head> 
+		  		<controlaccess> 
+		  		  <head>Names:</head> 
+		  		  <persname></persname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Organizations:</head> 
+		  		  <corpname></corpname> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Subjects:</head> 
+		  		  <subject></subject> 
+		  		</controlaccess> 
+		  		<controlaccess> 
+		  		  <head>Places:</head> 
+		  		  <geogname></geogname>
+		  		</controlaccess> 
+	 	</controlaccess>
+	 <c02 level="file" id="MS019.001.001.00001"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00001</container>
+		<unittitle>Postcards, Russia<unitdate>1918</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p>Approximate date. During processing these postcard were found in the box that contained some of Andrew's papers along with items from other collections. They were incorporated into the Andrews collection because they fit with the collection in terms of date. However, it is not certain that they are part of Andrews' papers.</p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00002"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00002</container>
+		<unittitle>Tufts War Memorial/Museum relics<unitdate>1918-1923</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">photographic print</physdesc>
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00003"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00003</container>
+		<unittitle>Correspondence regarding War Memorial/Museum<unitdate>1920</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00004"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00004</container>
+		<unittitle>Publication, 1922<unitdate>1922</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00005"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00005</container>
+		<unittitle>Correspondence<unitdate>1911-1920</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00006"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00006</container>
+		<unittitle>Correspondence<unitdate>1921-1978</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		
+		
+		<note><p></p></note>
+		<physloc label="Location:" type="location">39090011532807</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject></subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname></geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	 <c02 level="file" id="MS019.001.001.00007"> 
+	 <did> 
+		<container type="box">MS019/001-001</container>
+		<container type="item">00007</container>
+		<unittitle>Subject nationalities of the German alliance: from the Allies' peace terms as stated in their reply to President Wilson's note of 19th December 1916<unitdate>1917</unitdate></unittitle>
+		<origination label="Creator:"> 
+		  <persname></persname></origination> 
+		<physdesc label="Physical description/Format:">map</physdesc>
+		
+		<note><p>Approximate date. Published by Dangerfield Printing Co., London; "Stanford's Geographical Establishment" in lower right margin.</p></note>
+		<physloc label="Location:" type="location">39090011533011o</physloc>
+		
+	</did> 
+	<controlaccess> 
+		<head>Index Terms:</head> 
+			<controlaccess> 
+				<head>Names:</head> 
+				<persname></persname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Organizations:</head> 
+				<corpname></corpname> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Subjects:</head> 
+				<subject>World War, 1914-1918</subject> 
+			</controlaccess> 
+			<controlaccess> 
+				<head>Places:</head> 
+				<geogname>Germany</geogname>
+				</controlaccess> 
+	 		</controlaccess>
+	</c02> 
+	
+	</c01> 
+	 </dsc> 
+  </archdesc>
+</ead>

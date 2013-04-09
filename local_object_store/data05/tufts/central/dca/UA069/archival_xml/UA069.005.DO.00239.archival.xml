@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+"http://www.tei-c.org/P4X/DTD/tei2.dtd" [
+<!ENTITY % TEI.prose 'INCLUDE'>
+<!ENTITY % TEI.names.dates 'INCLUDE'>
+<!ENTITY % TEI.figures 'INCLUDE'>
+<!ENTITY % TEI.XML 'INCLUDE'>
+]>
+
+<TEI.2>
+    
+    
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A Failure of Management</title>
+                <author>Walter B. Wriston</author>
+                <respStmt>
+                    <resp>edited by:</resp>
+                    <name>Digital Collections and Archives, Tufts University</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2007-08-08</date>
+                </edition>
+            </editionStmt>
+            <extent>8740 bytes</extent>
+            <publicationStmt>
+                <distributor>Tufts University Digital Collections and Archives</distributor>
+                <address>
+                    <addrLine>Tufts University</addrLine>
+                    <addrLine>35 Professors Row</addrLine>
+                    <addrLine>Tisch Library Medford, MA 02155</addrLine>
+                </address>
+                <idno>tufts:central:dca:UA069:UA069.005.DO.00239</idno>
+                <availability status="restricted">
+                    <p>This document is freely available for scholarly or educational use. It is copyrighted to Sternbusiness, a publication of the New York University Leonard N. Stern School of Business. Please contact the publication for reprint permission</p>
+                </availability>
+            </publicationStmt>
+            <notesStmt>
+                <note>This document was created from the following article in <title>Sternbusiness</title>&#x003A; Wriston, Walter B. "A Failure of Management." Sternbusiness (1995): 25-26.</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Walter B. Wriston</author>
+                        <title>A Failure of Management</title>
+                        <imprint>
+                            <biblScope type="volume title">Sternbusiness</biblScope>
+                            <pubPlace>New York, New York</pubPlace>
+                            <publisher>Sternbusiness</publisher>
+                            <date>1995</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <editorialDecl>
+                <stdVals>
+                    <p>Standard date values are given in ISO form: yyyy-mm-dd.</p>
+                </stdVals>
+                <interpretation>
+                    <p>Page breaks are not marked.</p>
+                    <p>Line breaks were removed.</p>
+                </interpretation>
+                <hyphenation eol="none">
+                    <p>End of line hyphens have been removed.</p>
+                </hyphenation>
+            </editorialDecl>
+            <classDecl>
+                <taxonomy id="LCSH">
+                    <bibl>
+                        <title>Library of Congress Subject Headings</title>
+                    </bibl>
+                </taxonomy>
+                <taxonomy id="LC">
+                    <bibl>
+                        <title>Library of Congress</title>
+                    </bibl>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <encodingDesc>
+            <refsDecl n="TOC">
+                <state unit="chapter"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <creation>
+                <date>2007-08-08</date>
+            </creation>
+            <langUsage>
+                <language id="EN" usage="100">English.</language>
+            </langUsage>
+            <textClass>
+                <keywords scheme="LCSH">
+                    <list>
+                        <item>Mexico Economic Policy</item>
+                        <item>United States Economic Policy</item>
+                    </list>
+                </keywords>
+                <classCode scheme="LC">HC135</classCode>
+                <classCode scheme="LC">HC106</classCode>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        
+        <front>
+            <titlePage>
+                <docTitle>
+                    <titlePart type="main">A Failure of Management</titlePart>
+                </docTitle>
+                <docAuthor> Walter B. Wriston</docAuthor>
+                <docTitle>
+                    <titlePart type="des">Wriston, Walter B. "A Failure of Management." Sternbusiness (1995): 25-26.</titlePart>
+                </docTitle>
+            </titlePage>
+        </front>
+        
+        <body>
+            <div1 type="chapter" n="A Failure of Management by Walter B. Wriston for Sternbusiness" id="c1">
+                <head>A Failure of Management by Walter B. Wriston for <title>Sternbusiness</title></head>
+                <p>At a time when most of corporate America seldom looked beyond its borders for profits, Banker Walter Wriston was both itinerant and impatient. His 17 years as chief executive of the giant bank holding company Citicorp were marked by aggressive expansion, and by the time he retired in 1984, the Citibank footprint was firmly planted in the most far&#x002D;flung corners of the world. Citi grew particularly strong in Latin America on Wriston's watch, and its active lending policy there would come to haunt it &#x002D;&#x002D; and Wriston &#x002D;&#x002D; when the Latin American debt crisis exploded in 1982. &#x002D;&#x002D; Looking at Mexico now, Wriston laments the damaging lapse of management that plagued both sides of the border In this information age, he argues, where the world's financial markets are both judge and jury of a country's economic course, governments must display strong decisions and open communication. Mexico did neither.</p>
+                <p>In the old days we had a rule in the bank&#x003A; when the finance minister said for the third time "we will not devalue," we went short. It was not a bad rule.</p>
+                <p>If the Mexican administration some months ago had said they were going to widen the band on the exchange rate by 10 or 15 percent, I believe the crisis would not have happened. It's basically a failure of management. They tried to hold a fixed rate in a floating rate market. Nobody can do that short of a currency board.</p>
+                <p>On the American side, it's also a failure of management. Any reaction to the devaluation should have been organized prior to having any kind of meetings. The secret of crisis management is to have your ducks in a row before you go into the room. As far as I can tell, that didn't happen. There was no structure put together, no wise heads who'd been there before were called in. If you sat up thinking of ways not to handle this thing, on both sides of the border this would have been a model for it.</p>
+                <p>Now it's an extremely difficult situation. The whole bailout was unnecessary. I don't buy the idea that the world would have stopped if there was no rescue package. I happen to believe in the market; I don't think this thing would have spread. If there were no "rescue package," we would have had a few weeks of volatility, but at the end of the day the same thing would have happened that happened in Chile. There was no rescue package in Chile, and Chile is now a most vibrant economy. The end of the world is rather overblown.</p>
+                <p>There's an enormous sea change in the world. The sea change is the information standard. News is absorbed by traders, and they make a judgment. Governments have lost control of the immediate situation. That's not to say they're not in control of the fundamentals. If the fundamentals are right, the market will reward them.</p>
+                <p>The market lost confidence when the Mexicans said, "We're going to hold rates," and they didn't. It was a failure of management rather than a financial crisis. This is not a big liquidity crisis.</p>
+                <p>The information standard is more draconian than the gold standard. It works quicker, and it punishes you almost instantly, as we've seen in the Mexican case. George Orwell was 180 degrees wrong. Instead of Big Brother watching us, we're watching Big Brother. It's irreversible. Those trading screens are going to light up no matter what happens. There's no effective censorship anymore. There is no way in hell that any government can stop its people from learning what the rest of the world is talking about.</p>
+            </div1>
+        </body>
+    </text>
+</TEI.2>

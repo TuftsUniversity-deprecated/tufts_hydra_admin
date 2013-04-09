@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tuftsWildlifePathologyRecord
+	 xmlns="http://dca.lib.tufts.edu/schema/twp/twp.xsd">
+
+		<originalFilename>TV07-450.COLO.Distended.Gallbladder.jpg</originalFilename>
+		<title>Common Loon distended gallbladder</title>
+		<pictureFormat>Original jpeg</pictureFormat>
+		<caseNumber>TV07-450</caseNumber>
+		<identifier>UA069.006DO.MS174.00004</identifier>
+		<contributingPartner>Tufts Cummings School of Veterinary Medicine Wildlife Clinic</contributingPartner>
+		<type>still image</type>
+		<typeDetail>Photograph</typeDetail>
+		<creator>Tufts Cummings School of Veterinary Medicine Wildlife Clinic</creator>
+		<creatorType>Academic</creatorType>
+		<creatorsAffiliation>Tufts Cummings School of Veterinary Medicine Wildlife Clinic</creatorsAffiliation>
+		<rights></rights>
+		<licenseStatement></licenseStatement>
+		<responsibleParty>Tufts Cummings School of Veterinary Medicine Wildlife Clinic</responsibleParty>
+		<responsiblePartysEmail></responsiblePartysEmail>
+		<publisher>Tufts Digital Archives and Collections</publisher>
+		<natureOfContent>Artificial setting</natureOfContent>
+		<description>Internal view of the distended gallbladder</description>
+		<grossDiagnosis>Normal</grossDiagnosis>
+		<preferredKeywords></preferredKeywords>
+		<otherKeywords>Common Loon, Gallbladder, Gavia Immer, Gastrointestinal</otherKeywords>
+		<dateOriginal>8/27/07</dateOriginal>
+		<dateDigital>8/27/07</dateDigital>
+		<dateModified>7/22/10</dateModified>
+		<scientificName>Gavia Immer</scientificName>
+		<scientificNameSource>Integrated Taxonomic Information System</scientificNameSource>
+		<tsn>174469</tsn>
+		<commonNames>Common Loon</commonNames>
+		<order>Gaviiformes</order>
+		<family>Gaviidae</family>
+		<sex>Female</sex>
+		<stage>Juvenile</stage>
+		<viewOfSubject>Internal ventral view</viewOfSubject>
+		<partOfSubject>Internal organs</partOfSubject>
+		<formalClassification>least concern</formalClassification>
+		<formalClassificationSource>International Union for Conservation of Nature</formalClassificationSource>
+		<peerOrExpertReviewed>yes</peerOrExpertReviewed>
+		<peerOrExpertReviewerComment></peerOrExpertReviewerComment>
+		<stateOrProvince>Massachusetts</stateOrProvince>
+		<countyOrSubProvince>West Dennis</countyOrSubProvince>
+		<captureDevice>Camera</captureDevice>
+		<captureDetails>Olympus Digital Camera C-5050ZOOM, Olympus lens 7.1mm to 21.3mm, f1.8 to 2.6 (equivalent to 35mm to 105mm lens on 35mm camera)</captureDetails>
+		<digitizationMethods>digital media</digitizationMethods>
+		<extent>1108 KB</extent>
+		<color>color</color>
+		<dateCollected>8/23/07</dateCollected>
+		<commentsOnCollection>fresh</commentsOnCollection>
+		<backgroundInformation>The gallbladder is an organ that stores bile, which is produced by the liver.  The gallbladder secretes the bile in response to fat entering the gastrointestinal tract during digestion.  The bile emulsifies the fat to break it down.</backgroundInformation>
+		<backgroundLinks></backgroundLinks>
+		<latitude></latitude>
+		<longitude></longitude>
+		<diseaseName></diseaseName>
+		<diseaseType></diseaseType>
+		<diseaseAspect></diseaseAspect>
+		<diseaseAgent></diseaseAgent>
+
+</tuftsWildlifePathologyRecord>

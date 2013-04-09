@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil
+  PUBLIC "-//W3C//DTD SMIL 2.0//EN" "http://www.w3.org/2001/SMIL20/SMIL20.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/Language" title="Edward Ciampa Interview">
+   <head>
+      <layout>
+         <root-layout id="oral_history_layout" backgroundColor="white" width="600" height="400"/>
+         <region id="audio"/>
+         <region id="captions" left="10" width="500" top="20" height="300" z-index="2"/>
+      </layout>
+   </head>
+   <body>
+      <par id="presentation">
+         <audio src="http://media.web.tufts.edu/ramgen/tdl/media-audio/MS124.001.001.00002.mp3"
+                alt="Edward Ciampa Interview"
+                region="audio"
+                begin="0s"
+                dur="05445.953s"/>
+         <seq id="textSequence">
+            <text id="text_timepoint_1" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20This%20is%20a%20test%2c%20this%20is%20a%20test.%20I'm%20just%20going%20to%20record%2c%20this%20is%20Adrienne%20Effron%20and%20I'm%20here%20with%20Ed%20Ciampa%2c%20did%20I%20say%20that%20right%3f%0a%09%20%20EC%20%3a%20Right%2c%20Ed%20Chi-amp-pah.%20%0a%09%20%20AE%20%3a%20Chi-amp-pah%2c%20sorry%20I%20said%20it%20wrong.%0a%09%20%20EC%20%3a%20No.%0a%09"
+                  dur="00012.400s"/>
+            <text id="text_timepoint_2" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20This%20is%20Thursday%2c%20March%2019th%20%2c%20and%20we're%20here%20at%20his%20home%20at%2030%20Revere%20Beach%20Parkway.%20And%20right%20now%20we're%20looking%20at%20some%20of%20the%20photos..%0a%09%20%20EC%20%3a%20I%20remember%20the%20Capitol%20theatre%20very%20well%20and%20all%20the%20stores%20around%20it%20and%20it%20was%20back%20in%201960%2c%20when%20then%20Mayor%20Larry%20Bretta%20had%20come%2c%20had%20an%20agreement%20with%20the%20Star%20Market%20to%20establish%20a%20grocery%20store%20there%2c%20where%20the%2c%20in%20the%20vicinity%20of%20the%20Capitol%20theatre.%0a%09"
+                  dur="00041.300s"/>
+            <text id="text_timepoint_3" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20happen%20to%20remember%20where%20the%20theatre%20was%20on%20the%20lot%2c%20like%20maybe%20where%20the%20entrance%20was%3f%20Because%20I%20know%20that's%20where%20the%20market%20is%20now%2c%20I%20was%20trying%20to%20remember%20or%20find%20out%20where%20the%2c%20the%20actual%20entrance%20might%20be%20at%20that%20time.%20%20%0a%09%20%20EC%20%3a%20There%20was%20a%20little%20entrance%20between%20the%20theatre%20and%20a%20barroom%20on%20the%20right%2c%20as%20you're%20looking%20at%20it%20from%20here%20in%20the%20picture%20to%20the%20right%2c%20and%20there%20was%20a%20driveway%2c%20little%20alley%20way.%20The%20theatre%20was%20probably%20towards%20the%20parking%20lot%2c%20just%20below%20the%20parking%20lot%2c%20cla-%2c%20part%20of%20it%20on%20the%20theatre%2c%20and%20part%20of%20it%20in%20the%20parking%20lot.%20%0a%09"
+                  dur="00038.700s"/>
+            <text id="text_timepoint_4" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Because%20if%20you%20go%20there%20now%2c%20the%2c%20the%2c%20the%20market%20is%20all%20the%20way%20over%20and%20then%20there's%20the%20big%20lot%20right%20in%20the%20middle%20and%20then%20there's%20the..%0a%09%20%20EC%20%3a%20That's%20the%20parking%20lot%20then%20the%20CVS%20or%20the%20old%20Osco%20in%20the%20back%2c%20and%20then%20the%20liquor%20store%20on%20the%20right%20up%20at%20the%20corner.%20%20%0a%09%20%20AE%20%3a%20Now%20was%20the%20liquor%20store%20not%20there%20and%20it%20was%20the-%0a%09%20%20EC%20%3a%20Way%20back%20it%20wasn't.%20Way%20back%0a%09"
+                  dur="00019.400s"/>
+            <text id="text_timepoint_5" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%20So%20was%20that%2c%20maybe-%0a%09%20%20EC%20%3a%20This%20is%20about%20approximately%20where%20the.%0a%09%20%20AE%20%3a%20Where%20the%20parking%20lot%20is%3f%0a%09%20%20EC%20%3a%20Part%20of%20the%20parking%20lot%20and%20part%20of%20the%20Star%20Market.%20%0a%09"
+                  dur="00009.800s"/>
+            <text id="text_timepoint_6" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%20then.%0a%09%20%20EC%20%3a%20It%20was%20in%20that%20area%2c%20right%20in%20there.%0a%09%20%20AE%20%3a%20I%20wish%20we%20could%20find%20out%20where%20the%2c%20this%20front%20entrance%2c%20where%20that%20would%20line%20up%20in%20the%20lot.%20Where%20that%20would've%20been%2c%20it%20would%20have%20be%20fun%20to%20see.%20%0a%09%20%20EC%20%3a%20Yeah%2c%20that%2c%20I'm%20not%20sure%20of%20exactly%20where%2c%20but%20it%20was%20in%2c%20right%20in%20that%20vicinity.%20Uh%2c%20because%20the%20back%20of%20the%20Star%20Market%20is%20ah%20storage%20and%2c%20and%20ah%20storeroom.%0a%09"
+                  dur="00021.900s"/>
+            <text id="text_timepoint_7" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%20%0a%09%20%20EC%20%3a%20And%20that%20would%20have%20taken%20in%20part%20of%20it.%20But%20this%20was%20up%20here%3b%20the%20drug%20store%20was%20there.Yeah.%20Edison%20Electric%20was%20there%2c%20and%20there%20was%20the%20barroom%20came%20in%20here%2c%20in%20this%20area%2c%20and%20where%20the%20Edison%2c%20right%20in%20that%20area.%0a%09"
+                  dur="00020.700s"/>
+            <text id="text_timepoint_8" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20actually%20ever%20go%20to%20see%20movies%20at%20the%20Capitol%3f%0a%09%20%20EC%20%3a%20Oh%20yes.%20We%20used%20to%20go%2c%20I%20was%20in%20high%20school%20in%20the%2040's%20and%20we%20used%20to%20meet%20there%20a%20lot.%20That%20was%20the%20ah%2c%20a%20get%20together%20spot%20sometimes.%0a%09"
+                  dur="00015.400s"/>
+            <text id="text_timepoint_9" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20nights%20would%20you%20tend%20to%20go%20there%3f%20Like%20Fridays%20nights%20or%20Saturdays%3f%20%20%0a%09%20%20EC%20%3a%20Saturdays%2c%20once%20in%20a%20while%20during%20the%20week%20if%20something%20good%20was%20playing%20but%20mostly%20on%20weekends.%20Saturdays%20or%20Sundays%2c%20they%20used%20to%20have%20afternoon%20sessions%20and%20evening%20sessions%2c%20evening%20ones.%0a%09%20%20AE%20%3a%20Would%20you%20go%20to%20the%20afternoon-%0a%09%20%20EC%20%3a%20Afternoon%2c%20because%20we%20had%20a%20curfew%20in%20those%20days%20from%20our%20parents.%0a%09"
+                  dur="00018.500s"/>
+            <text id="text_timepoint_10" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20How%20old%20were%20you%20when%20you%20used%20to%20go%20with%20your%20friends%20in%20the%2040's%3f%20%0a%09%20%20EC%20%3a%20Uh%2c%20well%2c%20I%20was%20in%20high%20school.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20And%20I%20graduated%20in%201945%20from%20Somerville%20High%20School.%20And%20before%20that%2c%20the%2c%20the%20lot%20of%20us%2c%20we%20went%20to%20school%20right%20down%20the%20street%20from%20there%2c%20Northeastern%20Junior%20High%20School%20and%20that%20was%20in%20the%2c%20from%20forty-%2c%20from%20'39%20to%20'42.%0a%09"
+                  dur="00023.200s"/>
+            <text id="text_timepoint_11" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20So%20we%20used%20to%20in%20those%20days%2c%20but%20we%20couldn't%20stay%20out%20beyond%205%20o'clock%20or%20so.%0a%09%20%20AE%20%3a%20Oh%20wow%20ok!%0a%09%20%20EC%20%3a%20Our%20parents%20were%20strict%20in%20those%20days.%0a%09"
+                  dur="00008.800s"/>
+            <text id="text_timepoint_12" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20would%20you%20be%20able%20to%20go%20with%20your%20friends%20or%20would%20you%20meet%20friends%20there%3f%0a%09%20%20EC%20%3a%20I'd%20meet%20friends%20there%2c%20yeah.%0a%09"
+                  dur="00005.600s"/>
+            <text id="text_timepoint_13" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20sit%20with%20boys%20and%20girls%3f%20%20Or%20was%20it%20just%20boys-%0a%09%20%20EC%20%3a%20If%20they%20were%20available.%20%20%5bBoth%20laugh%5d.%20But%20they%2c%20they%20were%20all%20very%20good.%20The%20lot%20of%20times%20if%20you'd%20meet%20them%20and%20talk%20and%20that's%20it.%20But%20a%20lot%20us%2c%20I%20didn't%20live%20too%20far%20from%20the%20Capitol%20Theatre%2c%20so%20I%20used%20to%20go%20there%20more%20than%20some%20of%20the%20others.%20The%20Broadway%20Theatre%20and%20the%20Capitol%20Theatre%20were%20the%20two%20that%20were%20the%20closest.%20And%20then%20the%20Peterson's%20Orpheum%20which%20was%20on%20Cross%20Street%2c%20uh%20near%20McGrath%20highway%2c%20was%20another%20place.%20We%20used%20to%20go%20there%20on%20Saturday%20afternoons%20because%20they'd%20have%20horror%20pictures%2c%20gorilla%20pictures%2c%20everything%20else.%20What%20they'd%20do%20is%20give%20you%20candy%20bars%2c%20you'd%20see%20serials%2c%20news%20and%20everything%20else.%20The%20thing%20would%20last%20for%2c%20for%20about%20four%20hours.%0a%09"
+                  dur="00048.100s"/>
+            <text id="text_timepoint_14" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20was%20your%20favorite%20part%3f%0a%09%20%20EC%20%3a%20Well%2c%20I%20think%20uh%2c%20some%20of%20the%20cartoons%20were%2c%20were%20the%20best%2c%20the%20favorites.%20Because%20they%20always%20kept%20you%20in%20a%20humorous%20uh...%0a%09"
+                  dur="00010.300s"/>
+            <text id="text_timepoint_15" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20kinds%20of%20cartoons%20did%20they%20have%3f%20What%20kinds%20of%20characters%3f%0a%09%20%20EC%20%3a%20Eh%2c%20well%2c%20they%20always%20had%20the%20ah%2c%20oh%20the%2c%20uh%2c%20you%20call%20them%20the%20Loony%20Tunes%2c%20and%20things%20like%20that.%0a%09%20%20AE%20%3a%20Mmm-hmm.%0a%09"
+                  dur="00018.800s"/>
+            <text id="text_timepoint_16" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20And%20then%20the%20news%2c%20course%20the%20war%20was%20on%20at%20the%20time%2c%20too.%20%20The%20news%2c%20they'd%20always%20show%20you%20what's%20going%20on%20in%20the%20war%20zones%20and%20who's%20making%20history%20and%20who's%20not.%20%20And%20then%20a%20picture%2c%20always%20a%20cowboy%20picture%2c%20Tom%20Nix%2c%20Gene%20Autrey%2c%20uh...%0a%09%20%20AE%20%3a%20Great.%20You%20said%20the%20chocolate%20bars%2c%20they%20gave%20'em%20away%3f%0a%09%20%20EC%20%3a%20Huh%3f%0a%09"
+                  dur="00025.900s"/>
+            <text id="text_timepoint_17" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20they%20give%20them%20away%2c%20or%20did%20you%20have%20to%20buy%20them%2c%20did%20they%20have%20like%20the%20chocolate%20bars%2c%20do%20you%20remember%3f%0a%09%20%20EC%20%3a%20Oh%20no%20that%20was%20part%20of%20the%20admission.%20Yeah.%0a%09"
+                  dur="00006.000s"/>
+            <text id="text_timepoint_18" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20They'd%20give%20you%20a%20chocolate%20bar%3f%0a%09%20%20EC%20%3a%20Chocolate%20bar%20or%20something%2c%20some%20candy%20or%20something%2c%20whatever%20they%20happened%20to%20have.%0a%09%20%20AE%20%3a%20So%20tell%20me%20the%20truth%2c%20was%20it%20the%20candy%20that%20got%20you%20to%20go%2c%20or%20was%20it%20the%20movie%3f%20%5blaughs%5d.%0a%09"
+                  dur="00008.500s"/>
+            <text id="text_timepoint_19" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Well%2c%20it%20was%20the%20candy%20bar.%20%20'Cause%20a%20lot%20of%20times%20at%20home%2c%20they%2c%20you%2c%20they%20watched%20what%20you%20ate.%20Mother%20and%20father%20made%20sure%20that%20you%20didn't%20eat%20too%20much%20junk.%0a%09%20%20AE%20%3a%20Yeah.%20Plus%20it%20was%20wartime%20that%20you%20were%20saying%20so%20they%20probably%20were%20rat-%2c%20were%20they%20rationing%3f%0a%09%20%20EC%20%3a%20Yes%2c%20yeah.%0a%09"
+                  dur="00022.000s"/>
+            <text id="text_timepoint_20" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20The%20sweets%20and%20the%20sugar%3f%0a%09%20%20EC%20%3a%20Not%20so%20much%20the%20sweets%2c%20I%20didn't%2c%20we%20didn't%20get%20hit%20with%20that%20so%20much.%20But%20they%2c%20they%20watched%20what%20they%20gave%20you.%20A%20lot%20of%20times%20they'd%20give%20you%20a%20comic%20book%20or%20something%2c%20but%20they%20watched%20those%20too%20that%20they%20give%20you.%20Buck%20Jones%2c%20Buck%20Jones%2c%20uh%2c%20uh%20they'd%2c%20they'd%20have%20pictures%20of%20aerospace%2c%20already%20in%20the%20future%20of%20what%20we're%20seeing%20today%20with%20the%20astronauts%2c%20they%20were%20projecting%20then%20out%20of%20the%20theatres.%20And%20they'd%20do%20a%20cartoon%20on%20it%20or%20a%20series.%20%0a%09"
+                  dur="00027.200s"/>
+            <text id="text_timepoint_21" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20was%20your%20favorite%20one%3f%20%20Do%20you%20have%2c%20do%20you%20remember%20one%20that%20you%20liked%3f%20%0a%09%20%20EC%20%3a%20Oh%2c%20I%20always%20liked%20the%20Looney%20Tunes.%0a%09%20%20AE%20%3a%20Ok%2c%20it%20was%20the%20cartoons%20more%20than%20the%2c%20the%2c%20the%20actual.%0a%09"
+                  dur="00008.900s"/>
+            <text id="text_timepoint_22" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Well%20I%20watched%20a%20lot%20of%20pictures%2c%20like%2c%20I%20went%20to%20the%2c%20I%20can%20remember%20way%20back%2c%20going%20to%20the%20Broadway%20theatre%20in%20east%20Somerville.%20%20I%20lived%20just%20down%20the%20street%20on%20Franklin%20Street%2c%20on%20Pearl%2c%20I%20lived%20on%20Pearl%20Street.%20And%20I%20went%20there%20one%20day%2c%20it%20was%20on%20a%20Saturday%20or%2c%20or%20a%20Sunday%2c%20it%20was%20on%20a%20Sunday.%20Sunday%20they%20ran%20them%20continuous%20from%20about%20oh%2c%20noontime%20right%20up%20until%20to%20about%209%20o'clock%20at%20night.%20They%20kept%20running%20them%20continuous.%20And%20I%20went%20and%20I%20saw%20Mr.%20Smith%20goes%20to%20Washington%20and%20I%20didn't%20realize%20the%20time%2c%20it%20was%20about%208%20o'clock%20%5blaughs%5d%2c%20I%20had%20seen%20it%20twice%20that%20same%20day.%20%0a%09"
+                  dur="00038.400s"/>
+            <text id="text_timepoint_23" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20get%20into%20trouble%3f%0a%09%20%20EC%20%3a%20No%2c%20no%20I%20got%20home%2c%20they%20understood.%20Although%20they%20had%20sent%20out%20a%20search%20party%20for%20me.%20What%20was%20I%3f%20About%2016%20or%2017%20at%20the%20time.%0a%09%20%20AE%20%3a%20And%20it%20was%20a%20Sunday%20night%3f%0a%09%20%20EC%20%3a%20Sunday%2c%20yeah.%20%20So..%0a%09"
+                  dur="00012.700s"/>
+            <text id="text_timepoint_24" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20they%20didn't%20have%2c%20your%20parents%20didn't%20mind%20if%20you%20went%20to%20the%20movies%20on%20Sundays%3f%20'Cause%20I%20know%20that...%0a%09%20%20EC%20%3a%20Once%20in%20the%20afternoons%20we%20could%20go...%0a%09%20%20AE%20%3a%20After%20church%3f%20%0a%09"
+                  dur="00006.200s"/>
+            <text id="text_timepoint_25" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20If%20they%20didn't%20have%20any-%2c%20yes%2c%20it%20would%20be%20well%20after%20church%20because%20we%20had%20to%20go%20to%20an%20early%20mass.%20And%20get%20up%20early.%20And%20a%20lot%20of%20times%20I'd%20go%20on%20Saturday%20nights%20in%20the%20earlier%20days%20when%20I%20was%20still%20in%20junior%20high%20with%20my%20mother%20and%20father%2c%20we'd%20go%20to%20the%20theatre.%20They'd%20take%20us%20down%20the%20theatre%3b%20there%20was%20no%20such%20thing%20as%20taking%20a%20car.%20%20We'd%20walked%20from%20Pearl%20Street%20to%20Broadway%2c%20which%20was%20only%20about%20five-minute%20walk%20at%20the%20most.%20And%20had%20no%20problems.%20There%20was%20never%20any%20problems%2c%20we%20were%20out.%20We%20went%20say%2c%20the%20movie%20started%20at%20seven-thirty%2c%20we%20were%20home%20by%20ten%20o'clock.%20And%20on%20Saturday%20nights%20they%20used%20to%20have%20a%20give%20away%20night.%0a%09"
+                  dur="00044.300s"/>
+            <text id="text_timepoint_26" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%20right%2c%20I%20heard%20about%20that.%0a%09%20%20EC%20%3a%20Dishes%2c%20dishes%2c%20and%20cups%2c%20or%20glasses%2c%20or%20something.%20I%20wish%20I%20had%20one%20here%2c%20I...%0a%09%20%20AE%20%3a%20Oh%2c%20I%20wish%20you%20did.%0a%09%20%20EC%20%3a%20One%20of%20my%20sister...%0a%09"
+                  dur="00008.800s"/>
+            <text id="text_timepoint_27" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I%20think%20one%20of%20my%20sisters%20still%20has%20it%2c%20when%20I%20bought%20from%20my%20mother's%20house.%20I%20haven't%20had%20a%20chance%20to%20ask%20her%20if%20she%20still%20has%20any%20of%20that.%20%0a%09%20%20AE%20%3a%20Did%20your%20mom%20collect%20it%3f%0a%09%20%20EC%20%3a%20Yes%2c%20she%20collected%20whole%20sets.%20%20%5bChuckles%5d.%0a%09"
+                  dur="00013.900s"/>
+            <text id="text_timepoint_28" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20had%20read%20about%20that%2c%20that%2c%20they%2c%20in%20fact%20I%20think%20somewhere%20in%20here%20%5bpoints%20to%20copy%20packet%5d%20is%20a%2c%20an%20ad%20for%20um%2c%20Come%20ladies%2c%20come%20this%20night!%20We're%20going%20to%20give%20way%20dish%2c%20full%20sets%20and%20silverware.%20So%20your%20mom%20collected%20the%20dishes%2c%20did%20she%20collect%20anything%20else%3f%0a%09%20%20EC%20%3a%20And%20the%20cups%2c%20whatever%20they%20had%2c%20yeah.%20And%20that%20was%20the%20only%20night%20that%20we%20actually%20saw%20my%20father%20because%20he%20worked%20from%20about%2c%20he%20used%20to%20leave%20the%20house%20about%20seven%20thirty%20in%20the%20morning%20and%20not%20get%20home%20until%20eight%20or%20nine%20at%20night...%0a%09"
+                  dur="00029.200s"/>
+            <text id="text_timepoint_29" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20He%20was%20a%2c%20I%20don't%20know%20if%20you've%20ever%20heard%20of%20the%20old%20debit%20salesmen%20for%20insurance%20companies%3f%20%20Debit%3f%20They%20used%20to%20go%20from%20house%20to%20house-%0a%09%20%20AE%20%3a%20Oh%2c%20ok.%0a%09%20%20EC%20%3a%20With%20policies%20on%2c%20on%20everyone%20in%20the%20family%2c%20nickel%20or%20a%20dime%20policies.%20%20So%2c%20he%20was%20out%20from%20about%20seven-thirty%20in%20the%20morning%20to%20about%20eight%20at%20night%20every%20day%2c%20trying%20to%20catch%20people%20in%20to%20collect%20the%20policies.%0a%09"
+                  dur="00023.000s"/>
+            <text id="text_timepoint_30" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20Saturdays%20must've%20been%20really%20special%20then%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20special%2c%20special%20day.%20He%20had%20a%20garden%20in%20our%20house.%20Because%20they%20bought%2c%20they%20%20moved%20to%20the%20house%20in%201924%20and%20they%20had%20a%20garden%20instead%20of%20a%20lawn%20and%20he%20used%20to%20grow%20vegetables.%20%20And%20that%20was%20his%20pride%20and%20joy%20every%20Saturday%2c%20fixing%20that%20up%20and%20making%20sure%20it%20was%20working.%0a%09"
+                  dur="00020.000s"/>
+            <text id="text_timepoint_31" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20How%20many%20people%20were%20in%20your%20family%2c%20you%20mentioned...%0a%09%20%20EC%20%3a%20There%20was%20nine%20of%20us.%0a%09%20%20AE%20%3a%20Nine%3f%20What's%20your%2c%20are%20you%20eldest%2c%20or%20middle%2c%20or%20youngest%3f%0a%09%20%20EC%20%3a%20I'm%20at%20the%20end%20of%20the%20line.%20My%20oldest%20brother%20was%20the%20doctor.%20He%20was%20a%20surgeon%20at%20the%20Somerville%20Hospital%20for%20years.%20And%20then%20there%2c%20there%20was%20seven%20boys%20and%20two%20girls.%20%20%0a%09"
+                  dur="00018.900s"/>
+            <text id="text_timepoint_32" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20did%20your%20older%20brothers%20or%20sisters%20have%20to%20take%20you%20to%20the%20movies%20when%20you%20were%20little%20like%2c%20in%20the%20afternoon%20shows%3f%20%0a%09%20%20EC%20%3a%20No.%20%5bLaughs%5d.%0a%09%20%20AE%20%3a%20No%3f%20They%20didn't%20have%20to%20take%20you%3f%0a%09%20%20EC%20%3a%20%5bLaughs%5d.%20No%20they%20had%20their%20own%2c%20they%20had%20their%20own%20way%20of%20going%20places%20and%20they%20didn't%20want%20me%20around.%0a%09"
+                  dur="00014.200s"/>
+            <text id="text_timepoint_33" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20when%20you%20were%20really%20young%2c%20would%20you%20get%20dropped%20off%20or%20would%20you%20walk%20with%20your%20friends%3f%0a%09%20%20EC%20%3a%20We'd%20walk%20with%20some%20friends%2c%20yeah.%20%20We'd%20walk%20with%20friends%20over%20there%2c%20and%2c%20they%20knew%2c%20the%20parents%20knew%20when%20the%20shows%20would%20end%2c%20and%20you'd%20be%20home%2c%20be%20home%20by%20certain%20time%2c%20so%2c%20say%20that%20you%20went%20at%20one-thirty%2c%20the%20show%20would%20end%20about%20four%20o'clock%20or%20so%2c%20and%20then%20you'd%20have%20to%20be%20home%2c%20within%20about%2020%20minutes.%0a%09"
+                  dur="00028.500s"/>
+            <text id="text_timepoint_34" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Within%2020%20minutes%3f%20Would%20you%20ever%20go%20out%20after%20to%20some%20of%20the%20stores%20in%20the%20area%3f%20Like%20maybe%20would%20you%20go%20out%20and%20have%20a%20dr-...%0a%09%20%20EC%20%3a%20A%20drink%2c%20yeah...%0a%09%20%20AE%20%3a%20drink%20or%20something...%0a%09"
+                  dur="00007.700s"/>
+            <text id="text_timepoint_35" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Or%20either%20before%2c%20sometimes%20before%2c%20you'd%20have%2c%20like%2c%20every%20corner%2c%20the%20drugstores%20all%20had%20soda%20fountains.%20And%20you'd%20go%20in%20there%20for%20a%2c%20for%20a%20drink%20or%20a%20Coke%20or%20a%2c%20a%2c%20a%20soda%20or%20something%2c%20ice-cream%20soda%20or%20something%20like%20that.%0a%09%20%20AE%20%3a%20So%20you%20would%20do%20that...%0a%09%20%20EC%20%3a%20Right.%0a%09%20%20AE%20%3a%20...more%20often%20before.%20%0a%09"
+                  dur="00018.400s"/>
+            <text id="text_timepoint_36" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20But%20before.%0a%09%20%20AE%20%3a%20Who%20would%20you%20go%20with%3f%0a%09%20%20EC%20%3a%20Well%20some%20of%20the%20friends%20with%20uh%2c%20we%20were%20a%20heavily%2c%20in%20a%20congested%20neighborhood.%20Somerville%20at%20one%20time%20had%20104%2c000%20people%2c%20back%20in%20the%20late%2030's%2c%20early%2040's%20%20till%20the%20war%20came%20along.%20We%20were%20the%20most%20densely%20populated%20city%20in%20the%20country.%20And%20every%20family%20had%20five%20or%20six%20kids%20and%20we%20were%20all%20living%20right%20close%20to%20each%20other.%20So%20the%20family%2c%20everybody%20knew%20everybody%20else%2c%20so%20e-%2c%20even%20the%20police%20man%20that%20walked%20the%20beat%2c%20knew%20the%20kids%20and%20they%20know%2c%20they%20were%2c%20every%2010%20or%2015%20minutes%20you'd%20see%20them%2c%20coming%20down%20the%20street%20walking%2c%20they%20didn't%20have%20cars%2c%20they%20just%20walked%20along%2c%20and%20they%20knew%20ya%2c%20and%20they%20knew%20if%20you%20should%20be%20out%20or%20you%20shouldn't%20be%2c%20so.%0a%09"
+                  dur="00048.400s"/>
+            <text id="text_timepoint_37" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Hmmm.%20So%20you%20always%20had%20a%20pair%20of%20watchful%20eyes%20on%20you.%0a%09%20%20EC%20%3a%20Yeah%2c%20you%20always%20had%20somebody%20looking%20after%20ya%2c%20and%20that%20was%20good%20because%2c%20they%20made%20sure%20we%20stayed%20on%20the%20straight%20and%20narrow%20path%20and%20we'd%20nobody%20get%20into%20trouble%2c%20so%20that%20was%20wonderful.%20'Cause%20I%20remember%20the%20Woolworth%20there%20now%2c%20looking%20at%20the%20picture.%0a%09%20%20AE%20%3a%20Did%20you%20used%20to%20go%20there%3f%20%20Did%20you%20work%20there%3f%0a%09"
+                  dur="00018.000s"/>
+            <text id="text_timepoint_38" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20No%2c%20I%20didn't%20work%20there.%0a%09%20%20AE%20%3a%20Did%20you%20go%20there%20for%20maybe%20your%20sodas%3f%0a%09%20%20EC%20%3a%20Yeah%20went%20there%20no%2c%20it%20went%20in%20there%20probably%20to%20buy%20small%20things%2c%20trinkets%20or%20something.%0a%09"
+                  dur="00009.300s"/>
+            <text id="text_timepoint_39" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Where%20would%20you%20go%20and%20have%20a%2c%20a%2c%20a%20coffee%20or%20a%20hot%20cocoa%2c%20or%20sod-%2c%20an%20ice-cream%20soda%3f%0a%09%20%20EC%20%3a%20When%20I%20was%20in%20east%20Somerville...%0a%09%20%20AE%20%3a%20Yeah.%0a%09"
+                  dur="00007.100s"/>
+            <text id="text_timepoint_40" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Opp-%2c%20opposite%20Pearl%2c%20opposite%20Franklin%20Street%2c%20there%20was%20two%20or%20three%20sweet%20stops%2c%20sweet%20shops%2c%20one%20was%20right%20on%20the%20corner%2c%20ah%20right%20next%20to%20the%20theatre%2c%20the%20Broadway%20theatre%2c%20and%20another%20was%20on%20the%20other%20corner%2c%20across%20the%20street.%20Well%20we%20used%20to%20go%20to%20those%20places%20quite%20a%20bit.%20Before%20and%20after%20the%20theatre%20or%20something.%0a%09"
+                  dur="00022.100s"/>
+            <text id="text_timepoint_41" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20How%20did%20you%20get%20the%20money%20to%20go%20as%20a%20kid%3f%20What%20did%20you%2c%20did%20you%20do%20chores%3f%0a%09%20%20EC%20%3a%20Well%2c%20yeah%2c%20around%20the%20house.%20Parents%20would%2c%20in%20those%20days%20it%20would%20only%20cost%20you%20a%20dime%20or%20something%20to%20go%20to%20a%20movie%20and%20a%20nickel%20for%20a%20drink.%0a%09"
+                  dur="00012.300s"/>
+            <text id="text_timepoint_42" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20about%20any%20of%20the%20other%20concessions%3f%20Would%20you%20bring%20food%3f%20%20Or%20would%20you%20buy%20food%3f%0a%09%20%20EC%20%3a%20Very%20seldom%20bring%20food%2c%20yeah.%20No%2c%20we%20didn't%20because%20we%20always%2c%20they%20always%20made%20sure%20we%20had%20enough%20to%20eat%20before%20we%20left%20the%20house.%0a%09%20%20AE%20%3a%20%5bLaughs%5d%0a%09"
+                  dur="00010.900s"/>
+            <text id="text_timepoint_43" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20%5bCoughs%5d%20Excuse%20me.%0a%09%20%20AE%20%3a%20Mmm-hmm.%0a%09%20%20EC%20%3a%20Yeah%2c%20we%20always%20made%20sure%20that%20we%2c%20we%20ate%20good%20before%20hand.%20I'm%20trying%20to%20think%20of%20where%20that%20bar%20room%20was%20right%20here%2c%20just%20looking%20%5bpointing%20at%20packet%20of%20pictures%5d.%20But%20they%20used%20to%20call%20it%20Capitol%20Grille.%20%0a%09"
+                  dur="00017.600s"/>
+            <text id="text_timepoint_44" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That's%20a%20cute%20name.%0a%09%20%20EC%20%3a%20Yeah%2c%20and%20there%20used%20to%20be%20a%20donut%20shop%20and%20other%20things%20right%20alongside%20the%20Capitol.%0a%09%20%20AE%20%3a%20Did%20you%20go%20to%20the%20donut%20shop%20too%3f%0a%09%20%20EC%20%3a%20Pardon%3f%0a%09"
+                  dur="00010.000s"/>
+            <text id="text_timepoint_45" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20used%20to%20go%20the%20donut%20shop%20as%20well%3f%0a%09%20%20EC%20%3a%20Yes%2c%20oh%20yeah.%20Yeah.%20So%20that%2c%20that%20was%20there.%0a%09"
+                  dur="00008.400s"/>
+            <text id="text_timepoint_46" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20%5bLooking%20at%20picture%5d%20That%20should%20be%20the%20view%20inside%20when%20you%20walked%20in...%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20I%20don't%20know%20if%20that's%20what%20it%20looked%20like%20when%20you%20went...%0a%09%20%20EC%20%3a%20Yes%2c%20yep.%20And%20there%20used%20to%20be%20a%20balcony%2c%20you'd%20walk%20up%20the%20stairs.%0a%09"
+                  dur="00012.000s"/>
+            <text id="text_timepoint_47" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Was%20it%20off%20this%20main%20entrance%20here%3f%0a%09%20%20EC%20%3a%20Yes%2c%20it%20was%20right%20inside%20the%2c%20after%20you%20got%20through%20the%20turnstile%2c%20to%20come%20in%2c%20and%20after%20awhile%20they%20did%20away%20with%20the%20turn%20styles%20so%20you%20just%20walked%20right%20in%2c%20somebody%20there%20collecting%20tickets.%0a%09"
+                  dur="00016.900s"/>
+            <text id="text_timepoint_48" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Where%20would%20you%20like%20to%20sit%20when%20you%20went%3f%0a%09%20%20EC%20%3a%20We%20used%20to%20like%20to%20go%20up%20in%20the%20balcony.%20%5bSmiles%5d%0a%09%20%20AE%20%3a%20Yeah%3f%20%20%0a%09%20%20EC%20%3a%20%5bLaughs%5d.%20There%20was%20no%20question.%20That's%20where%20most%20of%20us%20who%20knew%20e-%2c%20you%20know%2c%20knew%20each%20other%20would%20congregate.%20Oh%20yeah%2c%20here's%20the%2c%20here's%20the%2c%20the%20upstairs%2c%20the%20balcony.%20%0a%09"
+                  dur="00019.800s"/>
+            <text id="text_timepoint_49" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Where%20in%20the%20balcony%20would%20you%20guys%20like%20to%20sit%3f%0a%09%20%20EC%20%3a%20Somewhere%20towards%20the%20top.%0a%09%20%20AE%20%3a%20So%20the%20very%20back%20row%3f%20%20How%20could%20you%20see%20the%20picture%3f%0a%09%20%20EC%20%3a%20Oh%2c%20you%20could%20see.%20It%20was%20big%20enough%2c%20that%20whole%20thing%20was%20a%20screen%2c%20practically%20this%20whole%20thing%20was%20a%20screen%2c%20so%20they%20had%20an%20%5binaudible%5d%2c%20top%20of%20that%20the%20projection%20booth%20was%20right%20above%20this%2c%20right%20above%20here.%0a%09"
+                  dur="00021.300s"/>
+            <text id="text_timepoint_50" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20Yeah%2c%20it%20was%20in%20the%20back.%20The%20one%20that%20was%20the%20manager%20for%20a%20good%20many%20years%20came%20from%20East%20Somerville.%0a%09%20%20AE%20%3a%20Did%20you%20know%20him%3f%0a%09%20%20EC%20%3a%20Yes.%20Yeah.%20%5bNods%5d%0a%09"
+                  dur="00010.600s"/>
+            <text id="text_timepoint_51" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20was%20his%20name%3f%20%20Do%20you%20remember%3f%0a%09%20%20EC%20%3a%20McGrath.%20Uh%2c%20uh%2c%20oh%20god%2c%20I%20know%20it%20well%20too%20because%2c%20his%20brother%20and%20I%2c%20Eddie%2c%20Eddie%20graduated%20from%20high%20school%20together.%20%20%0a%09%20%20AE%20%3a%20So%20would%20he%20get%20you%20in%20for%20a%20less%2c%20a%20smaller%20fee%3f%0a%09%20%20EC%20%3a%20No.%20%5bChuckles%5d%0a%09"
+                  dur="00015.800s"/>
+            <text id="text_timepoint_52" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20He%20wouldn't%20give%20you%20a%20discount%3f%0a%09%20%20EC%20%3a%20No%20he%20couldn't%2c%20he%20was%20being%20watched%20all%20the%20time.%20%20%0a%09%20%20AE%20%3a%20Oh.%20So%20you'd%20recognized%20him%20when%20you%2c%20you%20went%2c%20was%20he%20work%20all%2c%20working%20all%20the%20time%3f%0a%09%20%20EC%20%3a%20Ah%2c%20well%2c%20like%2c%20when%20I%20was%20in%20high%20school%20I%20used%20to%20work%20after%20hours%2c%20when%20we%20got%20out%20of%20high%20school%2c%20at%20Schraft's%20Theatre%2c%20in%20Schraft's%20Candy%20Factory.%20%0a%09"
+                  dur="00018.800s"/>
+            <text id="text_timepoint_53" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yep%2c%20in%20Charlestown.%0a%09%20%20EC%20%3a%20Right.%20Used%20to%20work%20there%20after%20school%2c%20go%20down%20there%20for%20about%203%20or%204%20hours%20and%20whenever%20we%20could%20pick%20up%20odd%20jobs%2c%20there%20was%20always%20somebody%20looking%20for%20help%20in%20those%20days%20and%20you%20didn't%20make%20anything%20but%20you%20had%20enough%20money%20to%20get%20around%20with%20and%20uh%2c%20that's%20enough%20to%20take%20you%20out%20to%20a%20show%2c%20and%20whenever%20you%20were%20lucky%20enough%20to%20get%20a%20date%20that%20could%20go%20out%20and%20stay%20out%2c%20you'd%2c%20you'd%20pay%20for%20them%2c%20which%20wasn't%20very%20often.%0a%09"
+                  dur="00030.900s"/>
+            <text id="text_timepoint_54" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20remember%20ever%20taking%20a%20date%20to%20the%20movies%3f%20%20%0a%09%20%20EC%20%3a%20Ah%2c%20couple%20of%20times%2c%20that's%20all.%0a%09"
+                  dur="00005.000s"/>
+            <text id="text_timepoint_55" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20remember%20the%20movie%3f%0a%09%20%20EC%20%3a%20No%2c%20I%20don't.%20That%20is%20going%20back%2c%20quite%20a%2c%20quite%20a%20ways%2c%20cause%20it's%20fif-%2c%20forty-five%2c%20it's%20almost%20sixty%20years%20since%20I%20graduated%20from%20Somerville%20High.%20%5bCoughs%5d%20But%20remember%20the%20exits%3b%20they%20always%20had%20the%20exits%20on%20each%20side%20of%20the%2c%20the%2c%20the%20stairs%2c%20the%20seats.%20Some%20opened%20out%2c%20right%20from%20the%20theatre%20outside%2c%20and%20others%20opened%20out%20through%20a%20little%20lobby%2c%20little%20exit%20way.%20%20%0a%09"
+                  dur="00033.500s"/>
+            <text id="text_timepoint_56" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20know%20if%20anyone%20ever%20used%20to%20sneak%20in%20from%20the%20exitway%3f%0a%09%20%20EC%20%3a%20Occasionally.%0a%09%20%20AE%20%3a%20Yeah%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20occasionally.%0a%09"
+                  dur="00004.700s"/>
+            <text id="text_timepoint_57" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I've%20heard%20that%20at%20the%20Somerville%20Theatre%20when%20um%2c%20when%20they%20used%20to%20have%20the%20balcony%20exit%20out%20fire%20escape%2c%20the%20kids%20used%20to%20sneak%20in...%0a%09%20%20EC%20%3a%20Sneak%20in%20through%20there%2c%20yeah.%20Yeah.%0a%09%20%20AE%20%3a%20Did%2c%20do%20kids%20do%20that%20at%20the%20Capitol%20too%20with%20their%20fire%20escapes%20or%3f%0a%09%20%20EC%20%3a%20No%2c%20no%2c%20not%20that%20much%2c%20I'm%20sure%20they%20did%20at%20times%2c%20but%20I%20never%2c%20never%20saw%20it.%20%0a%09"
+                  dur="00017.200s"/>
+            <text id="text_timepoint_58" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20kids%20ever%20try%20to%20negotiate%20the%20price%20if%20they%20couldn't%20afford%20it%3f%0a%09%20%20EC%20%3a%20%5bLaughs%20and%20nods%5d.%0a%09%20%20AE%20%3a%20Yeah%2c%20did%20it%20work%3f%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20like%20there'd%20be%20about%208%20or%209%2c%20walk%20in%20to%20theatre%2c%20say%2c%20he's%20got%20the%20tickets.%20He's%20got%20the%20tickets.%20He's%20got%20the%20tickets%20%5bBoth%20laugh%5d.%20%20And%20before%20they%20knew%20it%2c%20everybody%20was%20in%20and%20the%20last%20guy%20didn't%20have%20any%20tickets.%20%5bLaughs%5d.%0a%09"
+                  dur="00021.300s"/>
+            <text id="text_timepoint_59" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20%5bSmiles%5dWow.%0a%09%20%20EC%20%3a%20So%209%20times%2c%20well%2c%20it%20didn't%2c%20didn't%20happen%20very%20often%2c%20but%20if%20it%20did%2c%20lot%20of%20times%20they'd%20say%20Ok%20forget%20about%20it%2c%20yeah.%0a%09%20%20AE%20%3a%20Really...%0a%09%20%20EC%20%3a%20You%20know%2c%20they%2c%20they%20knew%20that%20kids%20didn't%20have%20the%20money%2c%20so%20they%20let%20it%20go%20through.%20They%20were%2c%20they%20were%20good.%20There%20were%2c%20there%20were%20plenty%20of%20seats.%20%5bFlipping%20through%20pictures%20again%5d.%20These%20are%20good%20pictures.%0a%09"
+                  dur="00022.000s"/>
+            <text id="text_timepoint_60" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%2c%20I%20believe%20Professor%20Guss%20has%20been%20collecting%20them%20for%20a%20while%20and%20I%20guess%20there%20was%20a%20salesman%20that%20worked%20for%20all%20the%20different%20theatres.%20I%20don't%20know%20what%20he%20was%20selling%2c%20maybe%20some%20sort%20of%2c%20wanted%20maybe%20something%20for%20the%20concessions%2c%20but%20he%20had%20pictures%20this%20particular%20salesman%20and%20our%20professor%20managed%20to%20get%20a%20copy%20of%20them%20from%20him%20that%20were%20kept.%20%20%0a%09%20%20EC%20%3a%20I%20can%20remember%20the%20trolley%2c%20the%2c%20the%20streetcars%2c%20going%20up%20the%20street%2c%20not%20the%20in%20the%20tracks%2c%20not%20the%20trackless%20tro-%2c%20trackless%20trollies%2c%20but%20the%20old%20streetcars%2c%20went%20right%20up%20the%20street.%20And%20a%20lot%20of%20the%20kids%20like%20down%20in%20lower%20Broadway%20would%20hop%20on%20the%20back%20of%20the%20thing...%0a%09"
+                  dur="00035.700s"/>
+            <text id="text_timepoint_61" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20They%20would...%0a%09%20%20EC%20%3a%20Ride%20up%20on%20that%20%5bboth%20laugh%5d%2c%20would%20ride%20up%20on%20that%20to%2c%20to%20get%20there.%20This%20is%20where%20the%20other%20drugs%2c%20drugstore%20and%20a%2c%20and%20a%20barroom%20was%20there.%20And%20that's%20where%20the%20uh...%0a%09%20%20AE%20%3a%20Is%20that%20Winter%20Hill%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20that's%20Winter%20Hill.%20That's%20Marshall%20Street%2c%20right%20there.%0a%09"
+                  dur="00020.800s"/>
+            <text id="text_timepoint_62" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yep%2c%20I%20know%20Marshall%20Street.%20Ok.%0a%09%20%20EC%20%3a%20That%20was%20Marshall%20Street%20right%20there%2c%20this%20is%20where%20they%20had%20the%2c%20they%20had%20a%2c%20a%20restaurant%20right%20on%20the%20corner%2c%20uh%2c%20they%20call%20it%20the...oh%2c%20Steve%20Crusher%20Casey%2c%20who%20used%20to%20be%20a%20wrestler%2c%20owned%20that%20and%20he%20turned%20it%20into%20a%20nightclub.%0a%09%20%20AE%20%3a%20Oh%20wow.%0a%09"
+                  dur="00025.000s"/>
+            <text id="text_timepoint_63" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Where%20they%2c%20the%20barroom%20is%20there.%20On%20the%20other%20corner%20was%20a%20hall%20that%20they%20used%20to%20rent%20out%20for%20functions%2c%20Marshall%20Hall%20they%20called%20it.%20%20%0a%09%20%20AE%20%3a%20I%20noticed%20it's%20like%20a%20blue%20colored%20building%20now%2c%20I%20think.%0a%09%20%20EC%20%3a%20That's%20where%20the%20hospital%20is%20building%2c%20the%2c%20just%20built%20a%2c%20ah%2c%20oh%2c%20an%20outlet%20for%20patients%2c%20like%20a%20little%2c%20little%20hospital%20like%20that%20there.%20It's%20part%20of%20the%2c%20ah%20Cambridge%20Health%20Alliance%2c%20which%20owns%20the%20Somerville%20Hospital.%0a%09%20%20AE%20%3a%20Ok.%0a%09"
+                  dur="00033.200s"/>
+            <text id="text_timepoint_64" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%203-1-8%2c%20he%2c%20this%20is%20where%20the%20entrance%20to%20his%20club%20was.%20318%2c%20and%20that's%20what%20he%20called%20it.%20318.%20%20He%20was%20one%20of%20the%2c%20there%20was%20a%20couple%20of%20brothers%20that%20were%20wrestlers%2c%20and%20it%20was%20Steve%20Crusher%20Casey%20that%20bought%20that.%0a%09"
+                  dur="00016.400s"/>
+            <text id="text_timepoint_65" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20ever%20go%20there%3f%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20in%20fact%2c%20when%20I%20was%20first%20elected%20to%20the%20school%20committee%2c%20back%20in%201953%2c%20there%20was%20a%20club%20in%20East%20Somerville%20called%20the%20Olympic%20Club%2c%20and%20they%20had%20a%2c%20a%20time%20for%20four%20of%20us%20that%20were%20newly%20elected%20off-%2c%20office%20holders%20from%20East%20Somerville%20and%20they%20had%20it%20in%20there%2c%20Jackie%20Dunn%2c%20myself%2c%20Frank%20McCarthy%20and%20a%2c%20I%20forget%20whether%20it%20was%20Louie%20Rie-I%20think%20that%20was%20it%2c%20yeah%2c%20the%20three%20of%20us%2c%20and%20that%20was%20that.%20And%20then%20the%20post%20office%20was%20next%20to%20it%20in%20this%20big%20building.%20%5bFlipping%20to%20next%20picture%5d.%20Oh%20yeah.%0a%09"
+                  dur="00050.700s"/>
+            <text id="text_timepoint_66" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20The%20Broadway%0a%09%20%20EC%20%3a%20Right.%20%5bPoints%20to%20picture%20of%20store%20near%20theatre%20entrance%5d.%20%20This%20is%20where%20the%20luncheonette%20was%2c%20the%20sweet%20shop%20next%20to%20the%20Broadway%20theatre.%20%20%0a%09%20%20AE%20%3a%20Oh%20that%20was%20a%20sweet%20shop%20once%3f%0a%09%20%20EC%20%3a%20Huh%3f%0a%09"
+                  dur="00007.300s"/>
+            <text id="text_timepoint_67" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That%20was%2c%20that%20was%20it%3f%0a%09%20%20EC%20%3a%20That%20was%20it.%0a%09%20%20AE%20%3a%20That%20was%20it.%0a%09%20%20EC%20%3a%20That%20was%20it.%20Yeah.%20And%20there%20again%20Eddie%20Garabidian%20owned%20it%20for%20many%20years%20and%20if%20you%20didn't%20have%20any%20money%2c%20and%20you%20needed%20you%20know%2c%20a%2c%20box%20of%20popcorn%20or%20something%2c%20he'd%20give%20it%20to%20you.%20%0a%09"
+                  dur="00017.700s"/>
+            <text id="text_timepoint_68" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That's%20so%20sweet.%20Really%20generous.%0a%09%20%20EC%20%3a%20He%20was%20a%20tremendous%20guy.%20Yeah%2c%20he%20was%20a%20tremendous%20person.%20And%20this%20was%20the%20shoe%20store%20next%20door%20to%20it.%0a%09%20%20AE%20%3a%20Did%20your%20family%20ever%20shop%20there%3f%0a%09%20%20EC%20%3a%20Uh%2c%20yes%20once%20in%2c%20once%20in%20a%20while%2c%20not%20very%20often%2c%20though.%20%5bPauses%2c%20considering%20the%20picture's%20display%20of%20film%5d%20Yeah%2c%20his%20show%20with%20Roy%20Rogersbut%20this%20was%20it%2c%20in%20fact%20I%20think%2c%20no%2c%20that's%20not%20Eddie.%20I%20was%20going%20to%20say%20it%20almost%20looks%20like%20him.%0a%09"
+                  dur="00033.600s"/>
+            <text id="text_timepoint_69" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20can%20barely%20see%20in%20this%20picture%2c%20but%20it%20looks%20like%20there's%20a%20ticket%20booth-%0a%09%20%20EC%20%3a%20Booth%2c%20right%20there%2c%20yeah.%0a%09%20%20AE%20%3a%20And%20the%20concession%20I%20think%2c%20the%20concession%20stand%20was...%0a%09%20%20EC%20%3a%20Just%20inside.%0a%09"
+                  dur="00008.200s"/>
+            <text id="text_timepoint_70" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20was%20just%20inside%20right%20back%20here%2c%20and%20I%20think%20I%20had%20heard%20that%20the%20boy's%20room%20was%20down%20this%20hallway%2c%20and%20then%20if%20you%20went%20this%20way%20was%20the%20girls'%20room.%0a%09%20%20EC%20%3a%20Girls'%20room%2c%20yeah.%20%0a%09%20%20AE%20%3a%20Yeah.%0a%09%20%20EC%20%3a%20That%20was%20that.%20And%20then%20on%20the%20corner%20was%20a%20drug%20store.%20That%20looks%20a%20little%20like%20Eddie%2c%20but%20not%20sure%2c%20eh...%0a%09"
+                  dur="00019.500s"/>
+            <text id="text_timepoint_71" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20you%20mostly%20went%20to%20the%20Capitol%2c%20but%20you'd%20also%20go%20to%20this%20one%20too%3f%0a%09%20%20EC%20%3a%20Ah%20Broadway%2c%20yeah.%0a%09%20%20AE%20%3a%20Yeah.%0a%09"
+                  dur="00003.900s"/>
+            <text id="text_timepoint_72" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Especially%20when%20I%20was%20younger%20before%20high%20school%20we%20used%20to%20come%20here%20because%20I%20couldn't%20get%20too%20far%20out%20of%20sight.%20And%20I%20say%2c%20my%20mother%20and%20father%20used%20to%20take%20us%20on%20a%20Sunday%2c%20on%20a%20Saturday%20night%20and%20we%20used%20to%20have%20ah%2c%20oh%20they'd%20buy%20a%20box%20of%20popcorn%20or%20something%20and%20we'd%20have%20that%20during%20the%20thing.%20But%20it%20was%20over%20by%209%3a30%20or%20so%2c%209%3a30%2c%2010%3a00%20and%20you%20went%20home%20Saturday%20night%2c%20get%20ready%20for%20church.%0a%09"
+                  dur="00027.800s"/>
+            <text id="text_timepoint_73" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Would%20you%20have%20gone%20to%20the%20Broadway%20with%20your%20parents%20on%20Saturday%20nights%2c%20or%20would%20you%20have%20gone%20to%20the%20Capitol%3f%20%20%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Oh%20the%20Broadway%0a%09%20%20EC%20%3a%20No%2c%20the%20Broadway.%20Until%20I%20was%20later%2c%20oh%20not%20until%20I%20was%20say%20a%2c%20a%20junior%20in%20high%20school.%0a%09"
+                  dur="00011.700s"/>
+            <text id="text_timepoint_74" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20that's%20when%20you%20went.%0a%09%20%20EC%20%3a%20And%20I%20started%20going%20up%20there.%0a%09"
+                  dur="00003.300s"/>
+            <text id="text_timepoint_75" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20would%20have%20drawn%20you%20up%20here%3f%20Why%20would%20you%20not%20want%20to%20stay%20there%3f%0a%09%20%20EC%20%3a%20Well%2c%20more%20activity%2c%20more%20people%2c%20more%2c%20you%20know%20more%20association%20because%2c%20that's%20where%20the%20junior%20high%20was%2c%20and%20the%20high%20school%20wasn't%20far%20from%20there%20and%20you%20used%20to%20meet%20at%20a%20certain%20place%2c%20it%20was%20easier%20for%20a%20lot%20of%20people%20to%20meet%20there%20because%20it%20was%20a%20little%20more%20central.%0a%09"
+                  dur="00018.500s"/>
+            <text id="text_timepoint_76" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20see.%20So%20the...%0a%09%20%20EC%20%3a%20Then%20here%2c%20this%20was%20more%20of%20a%20neighborhood%20thing.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20And%20it%20was%20great%2c%20because%20I%20say%2c%20they%20used%20to%20give%20away%20candy%20and%20everything%20else%2c%20and%20then%20on%20Saturday%20nights%2c%20used%20to%20give%20away%20the%20dishes%20and%20stuff.%0a%09"
+                  dur="00013.600s"/>
+            <text id="text_timepoint_77" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Right%2c%20right.%0a%09%20%20EC%20%3a%20So%2c%20that's%20why%20we%20went%2c%20went%20with%20the%20parents%20to%20get%20us%20a%20chance%20to%20get%20out.%20Didn't%20have%20televisions%20in%20those%20days.%20%20%0a%09%20%20AE%20%3a%20Right%2c%20right.%0a%09%20%20EC%20%3a%20We%20only%20had%20the%20%5btrails%20off%20as%20he%20looks%20closely%20at%20the%20next%20picture%5d.%0a%09"
+                  dur="00010.700s"/>
+            <text id="text_timepoint_78" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That%20should%20be%20the%20Orpheum.%0a%09%20%20EC%20%3a%20Right%2c%20that's%20the%20Orpheum%2c%20yup.%20Yeah%2c%20I%20remember%20that%20well.%20And%20here%20was%20a%20little%20place%20that%20they%20uh%2c%20they%20used%20to%20use%20for%20exits%20and%20entrances%2c%20but%20this%20was%20your%20main%2c%20main%20entrance%20and%20this%20is%20going%20up%20the%20hill%20towards%20the%2c%20towards%20McGrath%20Highway.%0a%09"
+                  dur="00021.100s"/>
+            <text id="text_timepoint_79" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20ever%20go%20to%20the%20Orpheum%3f%0a%09%20%20EC%20%3a%20Oh%20yes%2c%20we%20used%20to%20go%20there%20a%20lot.%20This%20was%20only%20about%20same%20distance%20as%20the%20Broadway%20theatre%20from%20my%20house%20as%20it%20is%20down%20here.%20This%20is%20near%20Glen%20Park.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20Where%20they%20are%20building%20the%20new...%0a%09"
+                  dur="00013.300s"/>
+            <text id="text_timepoint_80" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20The%20new%20condos%3f%0a%09%20%20EC%20%3a%20New%2c%20no%20the%20new%20school%2c%20the%20new%2c%20the%20Capitalano%20School.%20And%20this%2c%20you%20went%20in%20there%2c%20this%20is%20the%20same%20deal%2c%20you%20went%20in%20there%20you%20had%2c%20ah%2c%20ah%2c%20a%20movie%2c%20lasted%20a%20couple%20of%20hours%2c%20you%20had%20the%2c%20the%20preview%20of%20coming%20attractions%2c%20too%2c%20which%20was%20another%20thing.%20You'd%20have%20the%20uh%2c%20uh%2c%20the%20newsreels%2c%20I%20don't%20know%20if%20you've%20ever%20saw%20one%20of%20those.%0a%09%20%20AE%20%3a%20I%20have%20actually.%0a%09"
+                  dur="00028.300s"/>
+            <text id="text_timepoint_81" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20the%20news%20reels%20which%20gave%20you%20what's%20happening%20around%20the%20world.%20And%20they%2c%20they%20also%20would%20have%20ah%2c%20cartoons%20and%20everything%20else%2c%20and%2c%20and%20they%20had%20a%20lot%20of%2c%20oh%20pictures%20like%20Godzilla%2c%20or%20a%2c%20the%2c%20Frankenstein%2c%20and%20they'd%20have%20cowboy%20pictures%2c%20and%20mainly%20cowboys%2c%20and%20that%20used%20to%20be%20it%20on%20sun-%2c%20on%20Saturdays.%20I%2c%20I%20don't%20think%20I%20ever%20went%20there%20that%20I%20wasn't%20satisfied%2c%20because%20you%20always%20had%20something%20to%20take%20home.%20Comic%20books%20or%20something.%0a%09%20%20AE%20%3a%20Lots%20of%20giveaways.%0a%09%20%20EC%20%3a%20Yeah%2c%20right.%0a%09"
+                  dur="00038.700s"/>
+            <text id="text_timepoint_82" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Now%20was%20that%20another%20place%20that%20you%20went%20to%20when%20you%20were%20in%20high%20school%3f%0a%09%20%20EC%20%3a%20Yes.%0a%09%20%20AE%20%3a%20Or%20was%20that%20a%2c%20a%20place%20you%20went%20to%20when%20you%20were%20younger%3f%20%0a%09%20%20EC%20%3a%20Went%20there%20when%20I%20was%20a%20little%20younger%2c%20too%2c%20in%20junior%20high%20cause%20this%20isn't%20far%20from%20the%20junior%20high%20and%20a%20lot%20of%20us%20that%20were%20younger%2c%20you%20know%2c%20we%20didn't%20go%20to%20the%20Capitol%20or%20the%20others%2c%20we%20went%20here%2c%20and%20it%20was%20handy%2c%20they%20had%20people%20who%20ran%20it%20were%20considerate.%20I%20always%20found%20them%20to%20be%20very%20considerate.%20That's%20where%20Bennet's-%0a%09"
+                  dur="00025.700s"/>
+            <text id="text_timepoint_83" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20When%20you%20say%20considerate-%20I'm%20sorry%2c%20go%20ahead.%0a%09%20%20EC%20%3a%20That's%20where%20Bennett's%20plumbing%20is%20now.%20%0a%09%20%20AE%20%3a%20Oh%20right%2c%20I%20think%20that%20um%2c%20we%20had%20heard%20that.%20%20%0a%09%20%20EC%20%3a%20Right%2c%20yeah.%0a%09"
+                  dur="00008.000s"/>
+            <text id="text_timepoint_84" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20When%20you%20said%20considerate%2c%20I%20was%20wondering...%0a%09%20%20EC%20%3a%20Well%2c%20they%20made%20sure%20that%20you%2c%20you%20had%20a%20seat%20and%20there%20was%20no%20trouble%20going%20on%20and%20things%20like%20that.%0a%09%20%20AE%20%3a%20I%20was%20wondering%20if%20it%20also%20meant%20um%2c%20that%20they%20would%20let%20you%20in%20too%2c%20if%20you%20didn't...%0a%09%20%20EC%20%3a%20Well%20I%20think%20if%20you%2c%20a%20lot%20of%20times%20I%20know%2c%20some%20of%20the%20kids%20didn't%20have%20the%20money%20to%20get%20in%2c%20they'd%20go%20and%20talk%20to%20one%20of%20the%20managers%20and%20they'd%20say%20wait%20a%20little%20while%2c%20wait%20a%20little%20while%2c%20and%20then%20when%20it%20was%20clear%20they'd%20let%20them%20in.%0a%09"
+                  dur="00023.500s"/>
+            <text id="text_timepoint_85" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That%20is%20nice.%0a%09%20%20EC%20%3a%20They%20were%2c%20they%20were%20very%20considerate.%20%5bTurning%20page%20to%20next%20picture%5d.%20The%20Capitol%20and%20Ball%20Square%20were%20owned%20by%20the%20same%20people%2c%20the%20Ball%20Square%20theatre%2c%20I've%20got%20a%20lot%20of%20history%20with%20that%2c%20too.%0a%09%20%20AE%20%3a%20Wow%2c%20you%20really%20have%20a%20great%20experience%20with%20these%20theatres.%0a%09"
+                  dur="00015.200s"/>
+            <text id="text_timepoint_86" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Well%2c%20the%20Ball%20Square%2c%20I%20used%20to%20own%20a%20business%20in%20the%20city%20with%20my%20brother%20and%20sister-in-law%2c%20and%20it%20was%20right%20next%20door%20to%20the%20Ball%20Square%20theatre%2c%20and%2c%20yeah%20here's%20some%20ideas%2c%20I'll%20explain%20that%20one%20in%20the%20minute.%0a%09%20%20AE%20%3a%20Ok%2c%20sure.%0a%09%20%20EC%20%3a%20Somerville%20theatre%20yeah%2c%20that%20was%20owned%20by%20the%20same%20people.%20Yeah%2c%206%20picture%20show.%20Ok.%20This%20is%20at%20the%20other%20end%20of%20the%20city%20for%20me.%20I%20didn't%20go%20that%20often%20there%20because%20of%20the%2c%20you'd%20have%20to%20walk%2c%20which%20was%20about%20two%20miles%20from%20my%20house%2c%20or%20a%20mile%20and%20three%20quarters%20%5bcough%5d%2c%20and%20ah%2c%20a%20lot%20I%20knew%20a%20lot%20of%20them%20when%20we%20were%20in%20high%20school%2c%20because%20they%2c%20all%2c%20three%20junior%20highs%20all%20mingled%20into%20the%20high%20school.%0a%09"
+                  dur="00042.200s"/>
+            <text id="text_timepoint_87" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20And%20you'd%20get%20to%20know%20a%20lot%20of%20them%20from%20different%20parts%20of%20the%20city.%20And%20you%20used%20to%20meet%20there%20once%20in%20a%20while%20and%20they%20had%20a%20lot%20of%20things%20going%20on.%20Here's%20the%2c%20yeah%2c%20the%20same%20people%20that%20owned%20this%2c%20owned%20the%20Broadway.%20So%20they%20used%20to%20give%20out%20the...%0a%09%20%20AE%20%3a%20Dishware%3f%0a%09%20%20EC%20%3a%20Dishes%20and...%0a%09"
+                  dur="00018.100s"/>
+            <text id="text_timepoint_88" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20that's%20actually%20the%20ad%20I%20was%20telling%20I%20remember%20seeing%20was%20the%20um%2c%20was%20the%20dishware.%20%20%0a%09%20%20EC%20%3a%20Yeah%2c%20this%20was%20the%20Teele%20Square%20theatre%2c%20you%20never%20see%20the%20policemen%20in%20those%20long%20coats%20anymore.%20%20%0a%09%20%20AE%20%3a%20No%20you%20don't.%0a%09"
+                  dur="00015.300s"/>
+            <text id="text_timepoint_89" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20yeah%2c%20yeah%2c%20cause%20last%20night%20I%20was%20talking%20with%20Gene%20Brune%2c%20who%20used%20to%20be%20the%20mayor%2c%20we%20were%20together%20and%20I%20was%20asking%20him.%20And%20he's%2c%20his%20his%20fondest%20memory%20is%20up%20here%2c%20cause%20he%20came%20from%20that%20end%20of%20the%20city.%0a%09"
+                  dur="00017.700s"/>
+            <text id="text_timepoint_90" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20He%20spent%20some%20times%20at%20the%20Teele%20Square%3f%0a%09%20%20EC%20%3a%20Yes.%0a%09%20%20AE%20%3a%20Yeah.%0a%09%20%20EC%20%3a%20Yeah.%20Yeah%2c%20Abbott%20%26%20Costello.yeah%2c%20that's%20the%20Teele%20Square%20sweet%20shop%20where%20a%20lot%20of%20the%20kids%20used%20to%20meet%20when%20we%20were%20in%20high%20school%2c%20for%20the%20sweet%20shop%20there.%0a%09"
+                  dur="00019.000s"/>
+            <text id="text_timepoint_91" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Sounds%20like%20the%20sweet%20shops%20were%20really%20popular.%0a%09%20%20EC%20%3a%20That%20was%20it%2c%20that%20was%20the%20whole%20thing.%20It's%20like%20say%2c%20the%20people%20meet%20at%20Dunkin%20Donuts%20today%20or%20something%20or%20one%20of%20the%20coffee%20shops.%20You%20used%20to%20meet%20in%20places%20like%20that%2c%20the%20sweet%20shop.%20Every%2c%20every%20ah%20t-%2c%20every%20square%20had%20it.%20See%20this%20is%20the%20Ball%20Square.%0a%09%20%20AE%20%3a%20Uh%20huh.%20%20%0a%09"
+                  dur="00023.200s"/>
+            <text id="text_timepoint_92" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20And%2c%20that%20is%20where%20our%20store%20was%20for%20many%20years.%20%20%0a%09%20%20AE%20%3a%20Oh%20really%3f%20%0a%09%20%20EC%20%3a%20Supreme%20Paint.%0a%09%20%20AE%20%3a%20What%20kind%20of%20store%20was%20it%3f%0a%09"
+                  dur="00006.900s"/>
+            <text id="text_timepoint_93" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Supreme%20Paint.%20%0a%09%20%20AE%20%3a%20Supreme%20Paint.%20%0a%09%20%20EC%20%3a%20It's%20still%20there%2c%20but%20we%20sold%20it%20about%20five%20years%20ago%2c%20my%20sister-in-law%20and%20I.%20%20And%20the%20biggest%20thing%20about%20that%2c%20I'll%20get%20back%20to%20the%20story%20I%20was%20talking%2c%20I'm%20going%20to%20tell%20you%20about%20earlier.%0a%09%20%20AE%20%3a%20Ok.%0a%09"
+                  dur="00012.300s"/>
+            <text id="text_timepoint_94" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20When%20we%20were%20there%2c%20this%20was%20back%20in%20the%20'50's%2c%20it%20started%20there%20in%20about%20'53%2c%20we%20all%2c%20we%20were%20across%20the%20street%2c%20and%20the%20business%20has%20been%20there%2056%20years%20now.%2057%20years%20in%20September%2c%20yeah.%20%20Right%20there%2c%20we%20used%20to%20get%20phone%20calls%20about%201%3a30%20every%20day%2c%20can%20you%20tell%20me%20what%20the%20show%2c%20what%2c%20what's%20playing%20at%20the%20show%20next%20door%3f%20%5bAE%20Laughs%5d.%20So%20we'd%20have%2c%20if%20we%20don't%20remember%2c%20we'd%20have%20to%20run%20out%2c%20take%20a%20look%20and%20see%2c%20because%20you%20never%20knew%20who%20was%20calling.%20%20%0a%09"
+                  dur="00034.700s"/>
+            <text id="text_timepoint_95" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Now%20they%20changed%20the%20shows%20daily%20then%3f%0a%09%20%20EC%20%3a%20Yes%2c%20or%20three%20days%20at%20the%20most%2c%20yeah%2c%20and%20then%20there%20used%20to%20be%20High's%20Delicatessen%2c%20which%20was%20another%20popular%20place%2c%20and%20that%20was%20right%20here%2c%20at%20the%20end%20of%20the%20picture%2c%20and%20there%20you%20could%20get%20anything%20you%20wanted%2c%20in%2c%20in%20any%20type%20of%20a%20sandwich%2c%20before%20you'd%20go%20to%20the%20theatre%2c%20you%20could%20get%20that%2c%20or%20after%20the%20theatre%2c%20sandwiches%20were%20everything%20you%20could%20think%20of%2c%20he%20had.%20And%20they%20were%20all%20good.%0a%09"
+                  dur="00033.200s"/>
+            <text id="text_timepoint_96" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20that%20where%20a%20lot%20of%20people%20would%20go%3f%0a%09%20%20EC%20%3a%20That's%20where%20a%20lot%20of%20people%20would%20go%20for%20their%20thing.%0a%09%20%20AE%20%3a%20Now%20when%20you%20had%20your%20store%2c%20did%20you%20ever%20take%20in%20a%20movie%20there%3f%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20I%20used%20to...%0a%09"
+                  dur="00008.400s"/>
+            <text id="text_timepoint_97" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20used%20to%20go%20there%20too.%0a%09%20%20EC%20%3a%20...quite%20a%20bit.%0a%09%20%20AE%20%3a%20Sounds%20like%20you've%20always%20gone%20to%20movies%20quite%20a%20bit%20then.%0a%09%20%20EC%20%3a%20Yeah%2c%20we%20used%20to%2c%20and%20you%20know%20what%2c%20unfortunately%2c%20haven't%20gotten%20to%20a%20movie%20now%2c%20about%20four%20or%20five%20years.%0a%09"
+                  dur="00009.700s"/>
+            <text id="text_timepoint_98" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Why%20do%20you%20think%20that%20is%3f%0a%09%20%20EC%20%3a%20Don't%20have%20the%20time.%20%5bSmiles%5d.%20Don't%20have%20the%20time.%20Oh%20I%20keep%20saying%20I'm%20going%20to%20when%20I%20retired%2c%20I%20said%20I'm%20gonna%20do%20it.%20%5bLooks%20down%20at%20photo%5d.%20Yeah%2c%20this%20is%20the%2c%20this%20was%20the%20entrance%20to%20the%20theatre%2c%20it%20was%20beautiful.%20%20%0a%09%20%20AE%20%3a%20It%20does%20look%20really%20pretty.%0a%09"
+                  dur="00016.000s"/>
+            <text id="text_timepoint_99" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20And%20then%20upstairs%20was%20the%20balcony%20again%2c%20and%20let's%20see%2c%20you're%20looking%20at%20it%20this%20way%2c%20we%20were%20on%20the%20other%20side%2c%20just%20over%20here.%20And%20they%20had%20a%20basement%2c%20and%20when%20we%20went%20down%20to%20our%20basement%20to%20get%20something%20we'd%20always%20hear%20some%20conversation%20from%20there.%20Afterwards%20when%20they%20closed%20the%20theatre%2c%20kids%20used%20to%20go%20in%20there%20and%20congregate%20after%20school%20andtried%20to%20correct%20it%2c%20because%20they%20were%20smoking%20and%20things%20like%20that.%0a%09"
+                  dur="00028.600s"/>
+            <text id="text_timepoint_100" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%2c%20that%20could%20be%20dangerous%20if...%0a%09%20%20EC%20%3a%20Yeah%2c%20and%20they%20were%20down%20below%2c%20you%20wouldn't%20even%20know%20they%20were%20in%20there.%0a%09%20%20AE%20%3a%20Do%20you%20remember%20when%20it%20closed%3f%0a%09"
+                  dur="00006.600s"/>
+            <text id="text_timepoint_101" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yes.%20I%20forget%20the%20exact%20year.%20Forget%20the%20exact%20year%2c%20but%20I%20remember%20the%20closing%2c%20how%20they%20did%20it.%20Uh%2c%20they...trying%20to%20think.%20It%20was%20vacant%20for%20a%20long%20time%20and%20then%2c%20someone%20bought%20it%20at%20auction%2c%20and%20held%20on%20to%20it%20for%20quite%20a%20few%20years.%20He%2c%20he%20owned%2c%20as%20your%20facing%20the%20theatre%2c%20all%20of%20the%20buildings%20down%20to%20the%20right%20side%2c%20and%20he%20owned%20across%20the%20street%20between%20Rogers%20Ave.%20and%20Josephine%20Ave.%2c%20and%20at%20this%20one%2c%20this%20went%20up%20for%20auction%2c%20this%2c%20the%20city%20had%20it%20in%20tax%20title%2c%20because%20they%2c%20they%20hadn't%20paid%20the%20taxes%20for%20years%2c%20and%20it%20went%20out%20on%2c%20on%2c%20on%20auction.%20Unfortunately%20we%20couldn't%20buy%20it%2c%20'cause%20somebody%20else%20had%20already%20put%20in%20a%20bid%20and%20they...%0a%09"
+                  dur="00061.600s"/>
+            <text id="text_timepoint_102" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20How%20did%20you%20feel%20about%20all%20these%20theatres%20closing%3f%0a%09%20%20EC%20%3a%20Well%2c%20I%20thought%20it%20left%20a%20lot%20of%20America%20behind%20us%2c%20it%20was%20part%20of%20America.%20The%20biggest%20part%2c%20and%20of%20course%20with%20the%20coming%20of%20TV%2c%20that's%20what%20prompted%20it%2c%20because%20they%2c%20they%20couldn't%20compete%20with%20TV.%20Putting%20out%20a%20picture%2c%20keeping%20the%20building%2c%20they%20were%20expensive%20buildings%20to%20keep%20them.%20People%20were%20watching%20whatever%20came%20on%20TV%2c%20whether%20it%20was%20a%20movie%20or%20a%20play%20or%20something%2c%20so%20as%20a%20result%2c%20they%20went%20by%20the%20wayside.%20And%20the%20only%20time%20a%20lot%20of%20time%20people%20could%20go%20was%20at%20night%2c%20and%20they%20found%20that%20the%20price%20was%20another%20thing%20for%20a%20lot%20of%20people%20at%20the%20time%3b%20they%20couldn't%20afford%20the%20price%20of%20the%20tickets.%20%20They%2c%20they.they%20would%20stay%20home%20and%20watch...%0a%09"
+                  dur="00055.100s"/>
+            <text id="text_timepoint_103" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Televisions.%0a%09%20%20EC%20%3a%20Yeah%2c%20from%20there.%0a%09%20%20AE%20%3a%20Yeah%2c%20it%20sounds%20like%20you've%20seen%20a%20lot%20of%20the%20theatres%20open%20or%20close...%0a%09%20%20EC%20%3a%20Right.%0a%09"
+                  dur="00007.100s"/>
+            <text id="text_timepoint_104" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Mostly%20close%20during%20your%2c%20your%20lifetime%20here...%0a%09%20%20EC%20%3a%20Right%2c%20but%20I%20noticed%20they're%20beginning%20to%20come%20back%2c%20though.%20%20The%20theatres%20are%20beginning%20to%20come%20back%3b%20they%20are%20starting%20to%20open%20a%20few%20of%20them%20around.%20%20%5bGlances%20at%20photo%20packet%5d.%20Remember%20this%3b%20this%20was%20a%20beautiful%20place%2c%20too.%20%20%0a%09"
+                  dur="00014.700s"/>
+            <text id="text_timepoint_105" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Which%20one%20is%20that%3f%0a%09%20%20EC%20%3a%20Davis%20Square.%20%20%0a%09%20%20AE%20%3a%20Davis%20Square%2c%20that%20is%20a%20nice%20theatre.%20I've%20been%20in%20that%20one.%0a%09%20%20EC%20%3a%20Yeah%3f%20%20That%20was%20at%20the%20Day%20Street.%20This%20one%20was%20at%20Day%20Street.%0a%09"
+                  dur="00008.700s"/>
+            <text id="text_timepoint_106" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20No%20I'm%20sorry%2c%20I'm%20thinking%20Somerville%20Square%2c%20nevermind%2c%20I'm%20wrong.%20%20I%20haven't%20been%20in%20that%20one.%20I%20was%20thinking%20Somerville...%0a%09%20%20EC%20%3a%20You're%20thinking%20of%20the%20other%20one%2c%20the%20one%20that...%0a%09%20%20AE%20%3a%20I'm%20thinking%20of%20the%20one%20that's%20still%20open%2c%20but%20no%20I%20haven't...%0a%09%20%20EC%20%3a%20Somerville%20Theatre%2c%20that's%20the%20one%20Jimmy%20Tingle%20just%20bought.%20%0a%09"
+                  dur="00011.100s"/>
+            <text id="text_timepoint_107" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yep.%0a%09%20%20EC%20%3a%20Right.%0a%09%20%20AE%20%3a%20Yeah%2c%20been%20in%20that%20one.%20So%20you've%20went%20to%20see%20movies%20here%20at%20Davis%20Square%3f%20%20%0a%09%20%20EC%20%3a%20Yes%2c%20yeah%2c%20in%20fact%20there's%20a%20bowling%20alley%20not%20too%20far%20from%20here.%20Trying%20to%20picture%20it%20exactly%2c%20on%20Day%20Street%20there's%20a%20bowling%20alley%20there%2c%20still%20there.%20Dottie%20Lamour%2c%20Moon%20Over%20Burmat%2c%20Burm%2c%20Burma%2c%20%5binaudible%5d%20that%20was%20a%20good%20picture%2c%20they%20saw%20that%20one%20there.%0a%09"
+                  dur="00030.900s"/>
+            <text id="text_timepoint_108" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Where%20did%20you%2c%20do%20you%20remember%20where%2c%20where%20you%20saw%20it%2c%20what%20movie%20theater%3f%0a%09%20%20EC%20%3a%20I%20forget%20whether%20I%20saw%20it%20at%20the%2c%20the%20Broadway%20or%20the%20Capitol.%20I%20saw%20it%20at%20one%20of%20them.%20I%20used%20to%20see%20all%20those%20pictures%20with%20her%20and%20Bing%20Crosby%20and%20uh%2c%20Bob%20Hope.%0a%09"
+                  dur="00018.900s"/>
+            <text id="text_timepoint_109" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Hmm-hmm.%20Would%20you%20say%20you%20were%20a%20movie%20buff%20that%20you%20follow%20certain%3f%0a%09%20%20EC%20%3a%20Well%20that%20was%20the%20only%20entertainment%20we%20had%20other%20than%20playing%20ball%20or%20something.%20We'd%20always%20be%20out%20playing%20ball%2c%20couple%20nights%20a%20week%2c%20play%20something%20in%2c%20indoors%3a%20basketball%2c%20hockey%2c%20outside%20we'd%20be%20playing%20baseball%2c%20come%20now%2c%20as%20soon%20as%20the%20weather%20breaks%20you'd%20start%20playing.%20It%20was%20a%20lot%20a%2c%20a%20lot%20a%20fun%2c%20but%20you%20didn't%20have%20as%20much%20time%20and%20you%20didn't%20have%20as%20much%20money%20to%20go%20to%20theatres%20as%20often%20as%20you'd%20like.%20But%20when%20we%20did%2c%20we%20have%20a%20chance%2c%20we%20would.%20During%20the%20week%2c%20it%20was%20almost%20a%20no-no%2c%20because%20you%20had%20to%20stay%20home%20and%20study.%20%0a%09"
+                  dur="00035.700s"/>
+            <text id="text_timepoint_110" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20%5bNods%5d.%20Hmm.%0a%09%20%20EC%20%3a%20%5bturning%20page%5d.%20That%20was%20the%20theatre%20in%20Union%20Square.%20This%20one%20here%2c%20the%20Strand%0a%09%20%20AE%20%3a%20Have%20you%20been%20to%20that%20one%3f%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00013.200s"/>
+            <text id="text_timepoint_111" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%3f%20%20I%20think%20you've%20been%20to%20all%20of%20them!%0a%09%20%20EC%20%3a%20All%20of%20them%20yeah%2c%20in%20those%20days%2c%20as%20I%20say%2c%20that%20was%20the%20only%20thing%20you%20had%2c%20you%20didn't%20have%20television%20or%20anything%20like%20that.%20%0a%09%20%20AE%20%3a%20Which%20one%20was%20your%20favorite%3f%0a%09%20%20EC%20%3a%20Well%2c%20I'd%20say%20the%20Capitol.%0a%09"
+                  dur="00014.300s"/>
+            <text id="text_timepoint_112" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20How%20come%3f%0a%09%20%20EC%20%3a%20It%20was%20close%20enough%2c%20it%20was%20clean%20enough%2c%20it%20was%20a%2c%20a%20good%20place%20to%20congregate%2c%20you%20met%20more%20people%20there%20than%20you%20would%20in%20a%20local%20theatre.%20%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00013.000s"/>
+            <text id="text_timepoint_113" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20about%20the%20kinds%20of%20pictures%3f%20%20Would%20they%20show%20different%20pictures%3f%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20they'd%20show%20all%20the%20latest%20pict-%2c%20some%20of%20them%20that%20are%20famous%20today%2c%20like%2c%20a%2c%20a%20lot%20of%20Ju-%2c%20they'd%20show%20Judy%20Garland%2c%20I%20saw%20uh%2c%20like%20Bing%20Crosby%20a%20lot%2c%20and%20Bob%20Hope%20in%20the%20Road%20to%20Different%20Placess%2c%20Road%20to%20Zanzibar...%0a%09%20%20AE%20%3a%20Yep.%0a%09%20%20EC%20%3a%20And%20things%20like%20that.%20Sowe%20had%2c%20oh%20a%20lot%20of%20Budd%20Abbott%20and%20Lou%20Costello%2c%20we%20saw.%0a%09"
+                  dur="00033.700s"/>
+            <text id="text_timepoint_114" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20have%20a%20favorite%20celebrity%2c%20a%20favorite.%3f%0a%09%20%20EC%20%3a%20In%20those%20days%2c%20welluh...%0a%09%20%20AE%20%3a%20Or%20a%20couple%20of%20favorites%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20I%20would%20say%20of%20the%20men%2c%20I%20always%20liked%20Bing%20Crosby%2c%20because%20he%20could%20sing.%20Do%20you%20want%20to%20chime%20in%3f%20%5bTo%20wife%2c%20who%20entered%5d.%0a%09"
+                  dur="00016.000s"/>
+            <text id="text_timepoint_115" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20%5bLaughs%5d.%20No%2c%20you're%20doing%20pretty%20good.%20%20%5bLaughs%5d.%0a%09%20%20EC%20%3a%20Oh%20yeah%3f%20%20%0a%09%20%20HC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20He's%20got%20a%20great%20memory!%0a%09"
+                  dur="00005.000s"/>
+            <text id="text_timepoint_116" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20How%20many%20movies%20did%20you%20see%20in%20one%20day%3f%20%20Two%20full%20features%2c%20and%20a%20newsreel%2c%20two%20cartoons...%0a%09%20%20AE%20%3a%20I%20think%20that%20you%20have%20a%20real%20movie%20buff%20on%20your%20fands%2c%20uh%20movie%20fan%20on%20your%20hands.%0a%09%20%20EC%20%3a%20%5bLaughs%5d%0a%09%20%20HC%20%3a%20And%20we%20never%20go%20to%20the%20movies.%0a%09"
+                  dur="00013.200s"/>
+            <text id="text_timepoint_117" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Not%20any%20more.%0a%09%20%20AE%20%3a%20That's%20what%20he%20told%20me%2c%20four%20or%20five%20years%20since%20you've%20been.%0a%09%20%20HC%20%3a%20Oh%20I%2c%20I%2c%20I%20went%20to%20the%20movies%20last%20summer%20up%20at%20Hampton%2c%20I%20went%20to%20see%20the%20Greek%20Wedding.%0a%09%20%20AE%20%3a%20Yup%2c%20that's%20a%20good%20one.%0a%09"
+                  dur="00011.100s"/>
+            <text id="text_timepoint_118" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Oh%2c%20it%20was%20funny.%0a%09%20%20AE%20%3a%20It%20is%20funny.%20So%20do%20you%20tend%20to%20stay%20in%20more%20and%2c%20and%20watch%20movies%20at%20home%3f%0a%09%20%20HC%20%3a%20No.%0a%09%20%20EC%20%3a%20Nope%2c%20not%20home%20that%20often.%0a%09"
+                  dur="00008.300s"/>
+            <text id="text_timepoint_119" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20He's%20always%20out.%0a%09%20%20AE%20%3a%20Should%20make%20sure%20I'm%20not%20going%20to%20run%20out%20of%20tape%2c%20no%20I'm%20still%20good.%20I%20have%20another%20one.%0a%09%20%20EC%20%3a%20%5bPicking%20up%20packet%20and%20points%20to%20it%5d.%20This%20was%20another%20good%20theatre%2c%20the%20Central%20Theatre%20they%20called%20it%2c%20the%20Somerville%20theatre%20up%20on%20Win-%2c%20up%20on%20uh%2c%20uh%2c%20Highland%20Ave.%0a%09"
+                  dur="00017.700s"/>
+            <text id="text_timepoint_120" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20If%20you'd%20go%20to%20the%20theatre%20now%2c%20which%20ones%20do%20you%20go%20to%3f%20%5bTo%20HC%2c%20who%20is%20still%20standing%20in%20room%2c%20near%20husband%5d.%20Do%20you%20want%20to%20sit%20here%3f%0a%09%20%20HC%20%3a%20No%2c%20no%2c%20I%20never%20go.%0a%09%20%20EC%20%3a%20We'd%20go%20to%20a%20stage%20play%2c%20stage%20play%20or%20something%2c%20and%20that's%20it.%0a%09%20%20HC%20%3a%20Once%20in%20a%20while.%0a%09"
+                  dur="00009.500s"/>
+            <text id="text_timepoint_121" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Well%2c%20that's%20good.%0a%09%20%20HC%20%3a%20%5bPointing%20to%20pictures%5d.%20Where'd%20you%20get%20those%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20the%20last%20stage%20play%20we%20went%20was%20up%20in%20Stoneham%2c%20in%20December.%0a%09%20%20AE%20%3a%20%5bto%20HC%5d%20I%20brought%20these%20over%2c%20my%20professor%20has%20been%20collecting%20photographs%20for%20us.%0a%09"
+                  dur="00010.900s"/>
+            <text id="text_timepoint_122" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Oh%2c%20oh%2c%20I%20was%20going%20to%20say.%20%5bNods%20head%5d.%0a%09%20%20AE%20%3a%20I%20made%20some%20photocopies%20to%20bring%20over%20to%20go%20through.%0a%09%20%20HC%20%3a%20Good.%0a%09%20%20EC%20%3a%20Here's%20the%20Central%20Theatre%2c%20it%20was%20up%20on%20Highland%20Ave.%0a%09"
+                  dur="00008.800s"/>
+            <text id="text_timepoint_123" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20there%20any%20theatre%20that%20you%20didn't%20go%20to%3f%0a%09%20%20EC%20%3a%20No%2c%20you%20tried%20to%20go%20to%20all%20of%20them%2c%20wherever%20there%20was%20a%20special%20picture%20that%20you%20wanted%20to%20see%2c%20you'd%20go%20to%20them.%0a%09%20%20AE%20%3a%20So%20you%2c%20if%20you%20found%20out%20Judy%20Garland%20and%20Bing%20Crosby%20were%20coming%20to%20the%20Central%20or%20the%20Strand%2c%20you'd%20go%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20you'd%20go%20there.%20Yeah%2c%20you'd%20go%20there.%20I%20saw%20Judy%20Garland%20in%20ah%2c%20I%20was%20trying%20to%20think%20of%20which%20picture%20that%20was%20%0a%09"
+                  dur="00022.800s"/>
+            <text id="text_timepoint_124" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20loved%20her.%20%20%0a%09%20%20HC%20%3a%20Wizard%20of%20Oz...%0a%09%20%20AE%20%3a%20Wizard%20of%20Oz%2c%20but...%0a%09%20%20HC%20%3a%20I%20used%20to%20see%20her%20chauffeur%3b%20I%20used%20to%20work%20at%2c%20you%20know%20where%20Grimsby's%20is%20up%20on%20Jerry%20Jingle%20Road%3f%20%20%0a%09"
+                  dur="00008.800s"/>
+            <text id="text_timepoint_125" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20No.%20%0a%09%20%20HC%20%3a%20It%20was%20a%20restaurant.%20It%20used%20to%20be%20a%20Howard%20Johnson's%20and%20when%20she%20used%20to%2c%20uh%2c%20come%20to%20dry%20out%20at%20the%20New%20England...%0a%09%20%20EC%20%3a%20Sands.%0a%09%20%20HC%20%3a%20Sands%2c%20over%20here.%20That%20wasn't%20the%20New%20England%2c%20was%20it%20the%20New%20England%20Sands%3f%20%0a%09"
+                  dur="00009.700s"/>
+            <text id="text_timepoint_126" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Sands.%0a%09%20%20HC%20%3a%20Sands%2c%20over%20here.%20That%20wasn't%20the%20New%20England%2c%20was%20it%20the%20New%20England%20Sands%3f%20%0a%09%20%20EC%20%3a%20No.%20%0a%09%20%20HC%20%3a%20Stoneham.%0a%09"
+                  dur="00004.600s"/>
+            <text id="text_timepoint_127" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20In%20Stoneham.%0a%09%20%20HC%20%3a%20And%20she%20used%20to%20send%20her%20waiter%20down%2c%20her%2c%20uh%20her%20chauffer%20down%20to%20get%20ice%20cream%20for%20her.%20%20Because%20that%20was%20a%20vegetarian%20hospital.%20So%20she'd%20be%20there%20drying%20out%2c%20and%20every%20night%20he%20would%20come%20down%20and%2c%20and%20get%20ice%20cream%2c%20can't%20even%20remember%20what%20kind%20she%20liked%2c%20but%20he'd%20come%20down%20in%20his%20big%2c%20one%20of%20those%20big%2c%20square%20boxcars%2c%20you%20know%2c%20limos%3f%20It%20was%20really%20funny.%0a%09"
+                  dur="00025.400s"/>
+            <text id="text_timepoint_128" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Now%20this%20is%20the%20Central%20Theatre%2c%20it's%20still%2c%20you%20can%20still%20see%20some%20of%20the%20characteristics%20up%20there%2c%20not%20all%20of%20them%2c%20and%20of%20course%20here%20you'd%20always%20had%20a%20couple%20a%2c%20drug%20stores%2c%20one%20on%20each%20corner.%0a%09%20%20AE%20%3a%20Where%20would%20the%20sweet%20shop%20be%20in%20this%20one%3f%0a%09%20%20EC%20%3a%20Huh%3f%0a%09%20%20HC%20%3a%20Is%20that%20the%20one%20across%20from%20where%20the%20moose%20was%3f%20The%20Elks%3f%0a%09"
+                  dur="00015.100s"/>
+            <text id="text_timepoint_129" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Is%20that%20the%20one%20across%20from%20where%20the%20moose%20was%3f%20The%20Elks%3f%20%0a%09%20%20EC%20%3a%20Elks%2c%20yeah.%0a%09%20%20AE%20%3a%20Oh%2c%20I...%0a%09%20%20HC%20%3a%20Where%20Anthony's%20is%20now%20on%20Highland%20Ave.%0a%09"
+                  dur="00006.900s"/>
+            <text id="text_timepoint_130" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20the%20function%20hall.%20And%20the%20moose%20supposedly%20is%20in%20Wakefield%20now%2c%20the%20moose%20itself...%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20when...%0a%09%20%20AE%20%3a%20The%20statue%3f%0a%09%20%20EC%20%3a%20Not%20the%20moose%2c%20the%20Elks.%0a%09"
+                  dur="00008.800s"/>
+            <text id="text_timepoint_131" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20The%20Elks%2c%20the%2c%20their%20statue.%0a%09%20%20EC%20%3a%20Every%20city%20and%20town%20has%20an%20Elks.%0a%09%20%20HC%20%3a%20Oh%2c%20they%20took%20the%20monument%20out%20of%20there%2c%20the%20statue%3f%0a%09"
+                  dur="00004.900s"/>
+            <text id="text_timepoint_132" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20No%2c%20that's%20still%20there.%20That%20was%20part%20of%20the...%0a%09%20%20HC%20%3a%20That's%20still%20there%2c%20the%20parking%20lot%2c%20across%20the%20street.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20Right.%0a%09"
+                  dur="00003.900s"/>
+            <text id="text_timepoint_133" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20That%20was%20where%20the%20Elks%20home%20was.%20But%20the%2c%20in%20here%2c%20in%20the%20pharmacy%20was%20where%20the...%0a%09%20%20AE%20%3a%20That's%20the%20sweet%20place.%20%5bTo%20HC%5d%20I've%20now%20found%20out%20where%20all%20the%20sweet%20shops%20are.%20%20%5bLaughs%5d.%0a%09%20%20HC%20%3a%20Oh%2c%20Ok.%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00011.200s"/>
+            <text id="text_timepoint_134" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Or%20were.%0a%09%20%20AE%20%3a%20Or%20were%2c%20that's%20right%2c%20were.%0a%09%20%20EC%20%3a%20In%20fact%2c%20I%20say%20I%20saw%20Mr.%20Smith%20Goes%20to%20Washington%20for%20four%20times%2c%20I%20liked%20it.%0a%09"
+                  dur="00010.500s"/>
+            <text id="text_timepoint_135" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20was%20that%20movie%2c%20Mr.%20Smith%20Goes%20to%20Washington%3f%20%20Who%20was%20in%20it%3f%0a%09%20%20HC%20%3a%20Jimmy%20Stewart%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20Jimmy%20Stewart.%20That%20was%20where%20they%20tried%20to%20corrupt%20him%20in%20Washington.%20They%20showed%20a%20picture%20of...%0a%09"
+                  dur="00009.700s"/>
+            <text id="text_timepoint_136" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok%20%0a%09%20%20EC%20%3a%20He%20was%20a%2c%20a%20real%20homebody%2c%20and%20they%2c%20the%20senator%20resigned%2c%20or%20left%20office%2c%20or%20something%20happened%2c%20and%20they%20appointed%20Jimmy%20Stewart%20and%20the%20group%20that%2c%20in%20the%20picture%2c%20the%20group%20that%20orchestrated%20the%2c%20the%20appointment%2c%20and%20thought%20he%20owed%20them%20a%20debt%20of%2c%20a%20debt%2c%20and%20they%20wanted%20to%20cash%20in%20on%20it%2c%20and%20he%20wouldn't%20do%20it%2c%20and%20he%20got%20up%20on%20the%20floor%20and%20filibustered%20for%20about%2024%20or%20better%20hours.%20You%20know...%0a%09"
+                  dur="00035.900s"/>
+            <text id="text_timepoint_137" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20you%20saw%20the%20movie...%0a%09%20%20HC%20%3a%20Did%20you%20ever%20see%20that%3f%0a%09%20%20AE%20%3a%20No%2c%20I%20haven't%2c%20I%20think%20I%20might%20have%20to%20see%20if%20I%20can%20rent%20it.%0a%09%20%20EC%20%3a%20Well%2c%20it%20was%20on%20TV.%20It%20was%20on%20TV%20movie...%0a%09"
+                  dur="00006.300s"/>
+            <text id="text_timepoint_138" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Sometimes%20it's%20on%20the%20American%20Movie%20Channel.%0a%09%20%20AE%20%3a%20Tell%20me%20the%20name%20of%20it%20again.%0a%09%20%20EC%20%3a%20Mr.%20Smith%20Goes%20to%20Washington.%20%20%0a%09%20%20AE%20%3a%20I%20am%20going%20to%20look%20that%20one%20up.%20If%20you%20got%20to%20see%20it%20four%20times%2c%20and%20you%20liked%20it%20that%20much%2c%20I%20think%20I%20should%20see%20it%0a%09"
+                  dur="00014.300s"/>
+            <text id="text_timepoint_139" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Well%20I%20guess%20politics%20was%20part%20of%20my%20%5blaughs%5d.%0a%09%20%20AE%20%3a%20Yes%2c%20you%20had%20a%20very%20political%20lifetime%2c%20very%20interest%2c%20very%20strong%20interest%20in%20the%2c%20in%20the%20political...%0a%09%20%20EC%20%3a%20Still%2c%20still%20involved%2c%20so.%20Yeah%2c%20this%20was%20the%2c%20this%20was%20there%2c%20and%20that%20was%20on%20that%20side%20of%20Highland%20Ave%2c%20it's%20right%20at%20Highland%20and%20Central.%20%0a%09"
+                  dur="00022.800s"/>
+            <text id="text_timepoint_140" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20that's%20where%20you%20saw%20the%20movie%20four%20times%3f%0a%09%20%20EC%20%3a%20No%2c%20I%20saw%20that%20it%20at%20the%20Broadway%20theatre%2c%20actually.%0a%09%20%20AE%20%3a%20Oh%2c%20you%20saw%20that%20one%20at%20the%20Broadway%3f%0a%09%20%20EC%20%3a%20But%20I%20used%20to%20go%20here%20once%20in%20a%20while.%20I'm%20trying%20to%20think%20of%20one%20other%20one%20that%20was%20very%20popular%20at%20that%20time.%20Well%2c%20Gone%20With%20the%20Wind%20of%20course%20was%20popular.%20%20And%20I%20used%20to%20see%20a%20lot%20of%2c%20uh%2c%20oh%2c%20what's%20her%20name%2c%20oh...%0a%09"
+                  dur="00026.700s"/>
+            <text id="text_timepoint_141" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Vivian%20Leigh%3f%0a%09%20%20EC%20%3a%20Dianna%20Derbin.%20%0a%09%20%20AE%20%3a%20Dianna%20Derbin.%0a%09%20%20EC%20%3a%20But%20no%2c%20she's%20still%20alive%20in%20fact.%20I%20used%20to%20see%20a%20lot%20of%20them...%0a%09"
+                  dur="00010.000s"/>
+            <text id="text_timepoint_142" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Hepburn%3f%0a%09%20%20EC%20%3a%20She-%2c%20well%2c%20Katherine%20Hepburn%20once%20in%20a%20while%2c%20but%20this%20was%20a%20blond%2c%20oh%20she%20was%20very%2c%20very%20attractive%2c%20and%20uh...%0a%09%20%20HC%20%3a%20Where%20did%20you%20park%3f%0a%09%20%20AE%20%3a%20I'm%20in%20the%2c%20back%20lot.%0a%09"
+                  dur="00016.500s"/>
+            <text id="text_timepoint_143" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20Where%20it%20says%20visitors%3f%0a%09%20%20AE%20%3a%20Yep%2c%20um%20actually%20I%20didn't%20park%20in%20front%20of%20the%20sign%20that%20said%20visitors'%2c%20I%20parked%2c%20the%20other%20side%2c%20that%20didn't%20have%20any%20signs%20in%20front%20of%20it.%0a%09%20%20HC%20%3a%20But%20it%20had%20numbers%3f%0a%09%20%20AE%20%3a%20No%2c%20it%20didn't%20have%20a%20number.%20%20I%20don't%20think%20it%20had%20numbers.%20%0a%09"
+                  dur="00011.700s"/>
+            <text id="text_timepoint_144" region="captions"
+                  src="data:,%0a%09%20%20HC%20%3a%20They%20all%20have%20numbers%20except%20the%20visitors'%20parking.%20The%20visitors%20says%20parking%2c%20visitors.%20I%20don't%20see%20any%20car%20in%20the%20visitors%20parking.%0a%09%20%20AE%20%3a%20I%2c%20I%20thought%20there%20is%20a%20couple%20of%20spots...%0a%09%20%20EC%20%3a%20You%20better%20move%20that...%0a%09%20%20HC%20%3a%20On%20the%20street%3f%20%0a%09"
+                  dur="00013.200s"/>
+            <text id="text_timepoint_145" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20No%20not%20on%20the%20street%2c%20it's%20in%20the%20parking%20lot.%0a%09%20%20HC%20%3a%20Oh%2c%20no%2c%20there's%20none%2c%20I%20don't%20see%20your%20car%20down%20there.%0a%09%20%20AE%20%3a%20It's%20a%20blue%20Chevy%20Cavalier%20but%20I%20didn't%20park%20in%20front%20of%20the%20sign%20that%20says%20visitors.%0a%09%20%20EC%20%3a%20Is%20it%20on%20this%20side%20of%20the%20building%3f%20%0a%09"
+                  dur="00009.600s"/>
+            <text id="text_timepoint_146" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20No%2c%20it's%20facing%20the%20street.%0a%09%20%20HC%20%3a%20No%2c%20but%20it's%20in%20somebody's%20spot.%0a%09%20%20AE%20%3a%20Oh%2c%20I%20should%20move%20it%20then.%20%0a%09%20%20HC%20%3a%20I%20didn't%20see%20any%20car%20in%20the%20visitors%20parking%20lot%20so%20I%20might%20have%20to%20go%20move%20it...%0a%09"
+                  dur="00009.800s"/>
+            <text id="text_timepoint_147" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Why%20don't%20we%20stop%20this%20for%20a%20second...%0a%09%20%20EC%20%3a%20Yeah...%0a%09%20%20%5bAE%20stops%20tape%5d%0a%09"
+                  dur="00005.000s"/>
+            <text id="text_timepoint_148" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20%5bReferring%20to%20picture%20of%20Central%20Theatre%5d.%20That%20was%20up%20on%20Highland%20Ave%2c%20near%20Central%20Street%2c%20and%20the%2c%20most%20people%20would%20think%20it%20was%20named%20after%20Central%20Street.%0a%09%20%20AE%20%3a%20And%20it%20wasn't%3f%0a%09%20%20EC%20%3a%20The%20m-%2c%20that's%20the%20most%20central%20spot%20in%20the%20city.%20%20%0a%09%20%20AE%20%3a%20Oh!%0a%09"
+                  dur="00020.500s"/>
+            <text id="text_timepoint_149" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20The%20Central%20Theatre%20is%20right%20at%20the%20spot%20where%20the%20most%20central%20spot%20in%20the%20city%20was%2c%20right%20in%20that%20area%2c%20from%20there%20across%20the%20street.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20About%2050%20fifty%20square%2c%20there.%20%0a%09"
+                  dur="00011.800s"/>
+            <text id="text_timepoint_150" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20remember%20seeing%20any%20movies%20in%20that%20particular%20theatre%3f%0a%09%20%20EC%20%3a%20Yes%2c%20yeah.%0a%09%20%20AE%20%3a%20Were%20there%20any%20titles%20that%20you%20remember%20that%20you%20saw%20there%3f%0a%09%20%20EC%20%3a%20Eww%2c%20I%20don't.%20But%20see%20that%20wasn't%20far%20from%20the%20high%20school%2c%20you%20could%20walk%20to%20there%20from%20Somerville%20High%20School.%20%0a%09"
+                  dur="00012.000s"/>
+            <text id="text_timepoint_151" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20wouldn't%20go%20there%20after%20class%2c%20would%20you%3f%0a%09%20%20EC%20%3a%20Well%2c%20sometime%2c%20sometimes.%0a%09%20%20AE%20%3a%20Sometimes%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20when%20there%20was%20nothing%20else%20to%20do%2c%20may%20walk%20there%20and%20then%20walk%20home.%20We%20never%20took%20streetcars%20or%20anything.%0a%09"
+                  dur="00010.300s"/>
+            <text id="text_timepoint_152" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Right.%0a%09%20%20EC%20%3a%20We%20always%20walked%2c%20so.%0a%09%20%20AE%20%3a%20Did%20you%20walk%20because%20it%20was%2c%20you%20didn't%20have%20money%20for%20the%20street%20fare%2c%20or%20was%20it%20just%20what%20everybody%20did%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20it's%20what%20everybody%20did.%20Yeah%2c%20in%20those%20days%20we'd%20walk.%20Well%2c%20it%20was%20good%20for%20us%2c%20so%20we%20used%20to%20do%20that.%0a%09"
+                  dur="00015.000s"/>
+            <text id="text_timepoint_153" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20you'd%20probably%20want%20to%20save%20your%20money%20for%20the%20movie.%0a%09%20%20EC%20%3a%20Yeah%2c%20for%20the%20movies%2c%20yep.%20A%20dime%20ah%2c%20dime%20to%20get%20in%20or%20something%2c%20that%20was%20it%2c%20so.%20%20%0a%09%20%20AE%20%3a%20Right.%0a%09"
+                  dur="00008.000s"/>
+            <text id="text_timepoint_154" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20But%20it%20was%20uh%2c%20it%20was%20fun.%20In%20fact%20you%20can%20still%20see%20some%20of%20the%20characteristics%20up%20there%20on%20the%20Central%20Theatre%2c%20more%20so%20than%20any%20of%20the%20others.%20Because%20Broadway%20was%20turned%20into%20a%20uh%2c%20uh%2c%20I%20forget%20what%20that%20is%20turned%20into%20now.%20But%20that's%20all%2c%20was%20all%20boarded%20up%20and%20just%20stores.%0a%09"
+                  dur="00021.000s"/>
+            <text id="text_timepoint_155" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20do%20you%20mean%20like%20you%20can%20tell%20that%20this%20was%20the%20theatre%20because%20you%20can%20see%20this.%20%5bPoints%20to%20picture%5d.%0a%09%20%20EC%20%3a%20It%20was%20a%20theatre%2c%20yeah%2c%20right.%20Yeah.%20Ah%2c%20the%20Capitol%20Theatre%20is%20gone%20completely%2c%20that%20was%20ripped%20down%2c%20the%20Ball%20Square%20Theatre%20was%20ripped%20down%20completely%2c%20the%20Strand%2c%20they%20have%20stores%20there%2c%20Teele%20Square%20they%2c%20the%20theatre%20is%20gone%2c%20but%20the%20stores%20there%2c%20they%20made%20them%20into%20stores%20and%20things%20like%20that.%20So%20very%20few%20of%20them%20still%20have%20any%20characteristics%20of%20a%20theatre.%20The%20Orpheum%20Theatre%2c%20Peterson's%20Orpheum%2c%20that%20one's%20gone.%20It's%20a%20now%20a%2c%20that%20one's%20off%20was%20all%20converted%20to%20a%20plumbing%20supply%20shop.%20So%20they%20have%20all%20survived%20in%20some%20way%20or%20another%2c%20with%20the%20exception%20of%20few%20that%20were%20ripped%20down%2c%20which%20is%20a%20shame.%20But%20the...%0a%09"
+                  dur="00056.300s"/>
+            <text id="text_timepoint_156" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20%5breferring%20to%20next%20picture%5d%20That%20should%20be%20the%20inside%20of%20it.%0a%09%20%20EC%20%3a%20Yeah%2c%20the%20insides%20were%20all%20%5bpauses%20and%20looks%20at%20picture%5d.%0a%09"
+                  dur="00007.500s"/>
+            <text id="text_timepoint_157" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20They%20look%20pretty.%0a%09%20%20EC%20%3a%20This%20is%20the%20Central%2c%20yeah.%20They%20all%20had%20extensive%20decorations%2c%20quite%20expensive%20decorations.%0a%09%20%20AE%20%3a%20What%20did%20you%20guys%20think%20about%20the%20decorations%20back%20then%3f%0a%09%20%20EC%20%3a%20Ah%2c%20we%2c%20I%20didn't%20really%20pay%20much%20attention%20to%20them%2c%20because%20to%20me%2c%20I%2c%20I%20wasn't%20involved%20or%2c%20or%20anything%20like%20that%20didn't%20interest%20me.%20%20%0a%09"
+                  dur="00020.000s"/>
+            <text id="text_timepoint_158" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20The%20matter%20of%20the%20movie%2c%20or%20what%20was%20going%20around%20then%20the%2c%20then%20the%20decorations.%20The%20seats%20were%20not%20that%20comfortable.%20I%20can%20remember%20that%2c%20they%20were%20more%20like%20wood.%0a%09%20%20AE%20%3a%20Oh%20they%20were%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20a%20lot%20of%20them%20were%20wooden.%20I%20mean%20they%20were...%0a%09"
+                  dur="00017.300s"/>
+            <text id="text_timepoint_159" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20They%20weren't%20padded%3f%0a%09%20%20EC%20%3a%20Right%2c%20they%20didn't%20have%20the%20padding%20that%20you%20have%20today%2c%20the%20soft%20comfort%2c%20comfort...%0a%09%20%20AE%20%3a%20Now%20did%20this%20one%2c%20would%20you%20sit%20in%20the%20balcony%20in%20that%20one%20too%3f%0a%09%20%20EC%20%3a%20Yes%2c%20where%20of%2c%20most%20of%20'em%20would%20sit%20in%20the%20balcony%2c%20unless%20the%20balconies%20were%20closed.%20Some%20of%20them%20were%20dilapidated%2c%20were%20getting%20becoming%20run%20down%2c%20in%20those%20cases%2c%20you'd%20sit%20downstairs%2c%20somewhere%20close%20to%20an%20exit.%20Although%20we%20didn't%20pay%20attention%20to%20exits%20in%20those%20days.%20%20%0a%09"
+                  dur="00027.600s"/>
+            <text id="text_timepoint_160" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Would%20you%20sit%20in%20the%20back%20row%3f%0a%09%20%20EC%20%3a%20Towards%20the%20back%2c%20yeah.%20Now%2c%20this%20is%20the...%0a%09%20%20AE%20%3a%20Central%20I%20think%20again.%0a%09%20%20EC%20%3a%20Central%20Theatre%20yeah%2c%20and%20you'd%20see%2c%20be%20up%20near%20the%2c%20in%20the%20balcony%2c%20near%20the%20projection%20booth%2c%20and%20you%20could%20talk%20to%20the%20person%20who%20is%20running%20the%2c%20the%20show%20and%20everything%20else.%0a%09"
+                  dur="00021.000s"/>
+            <text id="text_timepoint_161" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20do%20that%3f%0a%09%20%20EC%20%3a%20Oh%20yeah.%0a%09%20%20AE%20%3a%20Why%20would%20you%2c%20what%20would%20you%20talk%20to%20them%20about%3f%0a%09%20%20EC%20%3a%20Oh%20just%20that%2c%20they've%20seen%20the%20movie%2c%20or%20something...%0a%09"
+                  dur="00006.300s"/>
+            <text id="text_timepoint_162" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20ask%20them%20questions%20about%20it%2c%20and%20you'd%20be%20there%20if%20they%20had%20any%20problems%2c%20you'd%20tell%20in%20advance%2c%20before%20anybody%20else%20knew.%20But%2c%20they%20were%20always%2c%20either%20f-%2c%20you%20know%20they%20were%20friends%2c%20most%20of%20them%20were%20friends%20that%20were%20running%20those%20and%20there%20again%20you%20could%20see%20the%2c%20the%20extensive%20artwork%20and%20the%20theatre%2c%20the%20beauty%20of%20the%20theatres.%20%20%0a%09"
+                  dur="00025.800s"/>
+            <text id="text_timepoint_163" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20they%20really%20were%20so%20exquisite.%20%0a%09%20%20EC%20%3a%20Yeah%2c%20you%20could%20see%20they%20put%20something%20into%2c%20in%20those%20days%20that%2c%20that%20was%20the%20biggest%20entertainment%20there%20was%2c%20outside%20of%20seeing%20a%20ballgame%20or%20going%20to%20a%20ballgame.%0a%09%20%20AE%20%3a%20Yeah%2c%20now%20you're%20saying%20that%20you%20would%20know%20the%20projectionists%2c%20a%20lot%2c%20a%20lot%20of%20times%20your%20friends%20would%20be%20the%20projectionists.%0a%09%20%20EC%20%3a%20Right%2c%20projection.%0a%09"
+                  dur="00017.400s"/>
+            <text id="text_timepoint_164" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20remember%20what%20theatres%20you%20had%20friends%20working%20at%3f%0a%09%20%20EC%20%3a%20Mostly%20say%20the%20Broadway%20Theatre%20and%2c%20the%20person%20that%20ran%20the%20Broadway%20theatre%20for%20many%2c%20many%20years%2c%20until%20it%20closed%20was%20Joe%20Langone.%20He's%20still%20alive%3b%20he%20lives%20on%20uh...Minnesota%20or%20Michigan%3f%20Minnesota%20Ave%2c%20he%20still%20lives%20on%20Minnesota%20Ave%2c%20and%20he%20ran%20it%2c%20he%20would%20sell%20the%20tickets%2c%20walk%20around%20and%20collect%20the%20ticket%20when%20you%20went%20in%2c%20lotta%20times%20he%20would%20be%20the%20projectionist.%0a%09"
+                  dur="00037.000s"/>
+            <text id="text_timepoint_165" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Was%20he%20a%20nice%20man%3f%20Do%20you%20remember%20him%3f%0a%09%20%20EC%20%3a%20Oh%2c%20very%20nice%2c%20very%20nice.%20He%20still%20is%2c%20he%20still%20a%20wonderful%20person.%20He's%20another%20one%20that%20would%20look%20after%20you%20and%20make%20sure%20you%20didn't%20get%20in%20trouble%2c%20things%20like%20that.%0a%09%20%20AE%20%3a%20It%20sounds%20like%20there%20were%20a%20lot%20of%20people%20looking%20out%20for%20the%20kids%20back%20then.%0a%09"
+                  dur="00015.300s"/>
+            <text id="text_timepoint_166" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20right%2c%20yeah.%20%20And%20these%20were%20people%20that%20all%20lived%20in%20the%20neighborhood%2c%20they%20were%20all%20friends%2c%20and%20as%20I%20say%2c%20he's%20still%20alive%20and%20he%20would%20have%20a%20lot%20of%20memories%20of%20that.%0a%09%20%20AE%20%3a%20I%20wonder%20if%20anyone's%20talked%20to%20him.%20I'll%20have%20to%20find%20out.%0a%09%20%20EC%20%3a%20I%2c%20I%20asked%20Evelyn%20about%20that.%20She%20didn't%20know.%20%0a%09"
+                  dur="00014.000s"/>
+            <text id="text_timepoint_167" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20She%20didn't%20know.%20Joe%20Langone%20you%20said%3f%0a%09%20%20EC%20%3a%20Yes%2c%20on%20Minnesota%20Ave.%20Let%20me%20see...%0a%09%20%20AE%20%3a%20And%20he%20ran%20the%20Broadway%3f%0a%09%20%20EC%20%3a%20He%20ran%20the%20Broadway%20Theatre.%0a%09"
+                  dur="00014.700s"/>
+            <text id="text_timepoint_168" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I'm%20just%20making%20a%20note%20so%20I%20can%20ask%20my%2c%20my%20professor%20if%2c%20if%20that's%20someone%20that%20he's%20already%20had%20a%20chance%20to%20speak%20with%2c%20because%20certainly%2c%20it%20sounds%20like%20a%20good%20person%20for%20his%20project.%20%0a%09%20%20EC%20%3a%20Oh%20yes%2c%20he%20is%2c%20because%20he%20would%20remember%2c%20he%20was%20the%20manager%20back%20there%20in%20the%2040's...%20%5blooking%20for%20address%5d%20uh%2c%20uh%2c%20ok.%0a%09"
+                  dur="00025.000s"/>
+            <text id="text_timepoint_169" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20it%20l-a-n-d%3f%0a%09%20%20EC%20%3a%20L-a-n-g-o-n-e.%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20Uh%2c%20Langone.%20Helen%20it's%20under%2c%20yeah.%20Minnesota%20Ave%2c%20number%2035.%20And%20the%20phone%20number%20617-625...%0a%09"
+                  dur="00022.100s"/>
+            <text id="text_timepoint_170" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20625.%0a%09%20%20EC%20%3a%206850%2c%20and%20his%20wife's%20name%20is%20Helen.%20She%20would%20probably%20know%20as%20much%20as%20him%2c%20too.%20%20%0a%09%20%20AE%20%3a%20I%20bet%2c%20I%20bet%2c%20if%2c%20if%20uh%2c%20she%20was%20around%20when%20he%20was%20running%20the%20theatre.%20She%20probably%20went%20quite%20a%20bit%20too%20herself%20and%20helped%20out.%20%0a%09%20%20EC%20%3a%20Yeah%2c%20cause%20he's%20got%20to%20be%20in%20his%2080's%20now%2c%20his%20late%2c%20mid%20to%20late%2080's.%20I%20haven't%20seen%20him%20for%20a%20few%20months%2c%20through%20the%20winter%2c%20at%20least.%0a%09"
+                  dur="00026.400s"/>
+            <text id="text_timepoint_171" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20If%20we%20were%20to%20contact%20him%2c%20would%20it%20be%20ok%20to%20use%20your%20name%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20yeah%2c%20tell%20him%20that%20I%20suggested.%20'Cause%20he%20would%20know.%20%20%0a%09"
+                  dur="00011.900s"/>
+            <text id="text_timepoint_172" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20will%20look%20into%20that%20to%20make%20sure%20we%20don't%20leave%20that%20stone%20unturned.%0a%09%20%20EC%20%3a%20That's%20right%2c%20because%20there's%20one%20of%2c%20he's%20one%20of%20the%20few%20that%20managed%20a%20theatre%20in%20those%20days.%20I%20thought%20Helen%2c%20thought%2c%20I%20look-...I%20thought%20she%20said%20she%20had%20called%20him%20for%20something.%0a%09"
+                  dur="00021.300s"/>
+            <text id="text_timepoint_173" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ok%2c%20well%20I%20look%20into%20that%20one%2c%20thanks%20for%20that%20tip.%20So%20what%20do%20you%20think%20of%20these%20photographs%3f%0a%09%20%20EC%20%3a%20They're%20wonderful.%0a%09%20%20AE%20%3a%20You%20like%20them%3f%0a%09%20%20EC%20%3a%20Yup%2c%20I%20do...yah%2c%20I%20remember%20these%20%5bchuckles%5d.%20You%20don't%20even%20think%20of%20it%2c%20oh%20there%20was%20the%20other%20thing%20I%20want%20to%20say%20about%20the%20Broadway%20theatre%3b%20on%20Sundays%20they%20used%20to%20have%20talent%20day.%0a%09"
+                  dur="00029.600s"/>
+            <text id="text_timepoint_174" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%20really%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20and%2c%20they'd%20have%20a%20movie%20first%2c%20and%20then%20they'd%20have%20the%20talent%20later%20on%2c%20after%20the%20movies%20were%20over%2c%20and%20they'd%20have%20maybe%2010%20acts%2c%20and%20the%20winner%20would%20win%20money.%0a%09"
+                  dur="00015.000s"/>
+            <text id="text_timepoint_175" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Wow!%20Ok.%0a%09%20%20EC%20%3a%20You'd%20get%20money%2c%20yeah.%20What%20reminded%20me%20of%20that%20was%20this%20here%20%5blooks%20at%20program%20ad%20for%20talent%20show%5d.%0a%09%20%20AE%20%3a%20Now%2c%20who%20would%2c%20who%20would%20have%20entered%20it%2c%20like%20people%2c%20neighbors%2c%20your%20neighbors%2c%20would%20they%20sing%3f%20%20%0a%09%20%20EC%20%3a%20Yeah%2c%20neighbors%20or%20people%20from%20Boston%2c%20somebody%20you%2c%20you%20know%2c%20that's%20on%20there%20way%20up%2c%20they%20wanna%2c%20show%20their%20talents%2c%20would%20come.%20Now%2c%20this%20isn't%20that%20one%20though%20%5blooking%20at%20photos%5d.%0a%09"
+                  dur="00018.000s"/>
+            <text id="text_timepoint_176" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20kinds%20of%20talents%20would%20you%20see%20at%20these...%0a%09%20%20EC%20%3a%20They'd%20have%20comedy%2c%20singing%2c%20ah%2c%20acrobat%2c%20acrobatic%2c%20almost%20everything%20you%20could%20think%20of.%0a%09%20%20AE%20%3a%20Kind%20of%20like%20vaudeville%3f%0a%09%20%20EC%20%3a%20Vaudeville%2c%20yeah.%20Yeah.%0a%09"
+                  dur="00016.900s"/>
+            <text id="text_timepoint_177" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Wow.%20Ok%2c%20I%20didn't%20know%20that.%0a%09%20%20EC%20%3a%20Yeah%2c%20there%20were.%20That%20was%20a%20lot%20of%20activity.%20%0a%09%20%20AE%20%3a%20Do%20you%20remember%20what%20year%20that%20would%20have%20been%2c%20like%20what%20time%20frame%3f%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20because%20I%20was%20still%2c%20in%20the%20mid%2040's%20to%20late%2040's%2c%2040's.%0a%09"
+                  dur="00014.900s"/>
+            <text id="text_timepoint_178" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20that%20was%20at%20the%20Broadway%20on%20Sundays%3f%20%0a%09%20%20EC%20%3a%20Yeah%20that%20was%20the%20Broadway%20on%20Sundays.%20%0a%09%20%20AE%20%3a%20That%20is%20excellent%2c%20I%20had%20no%20idea.%20%0a%09%20%20EC%20%3a%20And%20once%20in%20a%20while%20they%20would%20have%20it%20during%20the%20week%2c%20but%20not%20very%20often.%20Weekends%20were%20the%20big%2c%20moviegoers.%0a%09"
+                  dur="00012.400s"/>
+            <text id="text_timepoint_179" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Mmm-hmm.%20And%20the%20winners%20would%20win%20some%20sort%20of%20cash%20prize.%0a%09%20%20EC%20%3a%20Yeah%2c%20winner%20cash...%0a%09%20%20AE%20%3a%20Do%20you%20remember%20any%20of%20the%20theatres%20having%20vaudeville%20shows%20as%20a%20part%20of%20a%20lineup%3f%0a%09%20%20EC%20%3a%20I%20never%20hea-%2c%20outside%2c%20if%20you%20call%20that%20vaudeville%2c%20but%20it%20wasn't%20that%2c%20it%20was%20just%20amateur%20nights%2c%20they'd%20call%20it%20amateur%20nights.%0a%09"
+                  dur="00019.200s"/>
+            <text id="text_timepoint_180" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20it%20wasn't%20like%20a%20professional.%0a%09%20%20EC%20%3a%20No%2c%20not%20like%20in%20Boston%2c%20like%20I%20said%20that%20uh%2c%20this%20lady's%20husband%20used%20to%20be%20the%20manager%20for%20the%20Keith%20Circuit.%0a%09%20%20AE%20%3a%20Yeah.%0a%09%20%20EC%20%3a%20The%20old%20Keith%20Circuit.%20%20%0a%09"
+                  dur="00009.300s"/>
+            <text id="text_timepoint_181" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20the%20Keith%20Circuit%20is%20the%20ones%20that%20brought%20the%20vaudeville%20in.%0a%09%20%20EC%20%3a%20Vaudeville%2c%20and%20brought%20in%20all%20the%20entertainers.%0a%09%20%20AE%20%3a%20Yeah.%0a%09"
+                  dur="00005.500s"/>
+            <text id="text_timepoint_182" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Like%20uh%2c%20her%20husband%2c%20my%20brother%20was%20as%20I%20said%20was%20a%20doctor%2c%20and%20he%20was%2c%20this%20was%20in%20the%2030's%20and%2040's%20when%20he%20first%20got%20started%2c%20he%20saw%20the%20same%20type%20program%20that%20the%20Jimmy%20Fund%20runs%20today%20and%20he%20had%20an%20act%2c%20he%20ran%20a%20time%20in%20Boston%2c%20at%20the%2c%20ah%2c%20was%20it%20the%2c%20the%20hotel%2c%20it%20was%20the%20Statler%20or%20one%20of%20the%20big%20hotels%2c%20and%20her%20husband%20brought%20Lou%20Costello%20into%20Boston%20to%20perform%20that%20night%2c%20and%20that%20was%20one%20of...%0a%09%20%20AE%20%3a%20What%20was%20her%2c%20her%20name%20again%3f%20%20%0a%09%20%20EC%20%3a%20Camille%20Zin.%0a%09"
+                  dur="00040.600s"/>
+            <text id="text_timepoint_183" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Camille%20Zin...%0a%09%20%20EC%20%3a%20Her%20husband%20was%20Tony%20Zin%2c%20Anthony%20Zin%2c%20yeah%2c%20in%20fact%20they%20wrote%20up%20in%20the%20Herald%20about%20a%20year%2c%20just%20a%20few%20months%20before%20he%20passed%20away%20about%20his%20activity%20in%20Boston.%20He%2c%20all%20the%20acts%20that%20came%20into%20the%20RKO%2c%20and%20that%20was%20the%20only%20place%20they%20had%20the%20acts%3a%20Frank%20Sinatra%2c%20Costello%20and%20Abbott%20and%20Costello%2c%20Jimmy%20Cagney%2c%20all%20of%20them%2c%20we%20used%20to%20cut%20school%20to%20go%20in%20there%20%5blaughs%5d.%0a%09"
+                  dur="00030.300s"/>
+            <text id="text_timepoint_184" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20didn't%20do%20that%3f!%20%5bLaughs%20with%20him%5d.%0a%09%20%20EC%20%3a%20Off%20the%20record...%0a%09%20%20AE%20%3a%20Did%20you%20ever%20get%20caught%3f%0a%09%20%20EC%20%3a%20No%2c%20thank%20God.%20But%20we%20used%20to%20go%20in%20there%2c%20I%20made%20sure%20he%20never%20saw%20me%2c%20so%2c%20cause%20we%20were%2c%20the%20families%20were%20close%2c%20and%20they%20were%20instrumental%20in%20putting%20on%20a%20big%20show%20for%20them%2c%20they%20raised%20quite%20a%20bit%20of%20money%2c%20and%20that%20was%20before%20the%20Jimmy%20Fund%20was%20established.%0a%09"
+                  dur="00022.800s"/>
+            <text id="text_timepoint_185" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Wow%2c%20that's%20excellent.%0a%09%20%20EC%20%3a%20Yeah%2c%20so.%0a%09%20%20AE%20%3a%20Well%20%5blooking%20at%20photos%5d%20this%20is%20another%20amateur%20night%2c%20I%20don't%20know...%0a%09%20%20EC%20%3a%20Yeah%2c%20this%20was%20at%20the%20Orpheum%20Theatre...%0a%09"
+                  dur="00010.400s"/>
+            <text id="text_timepoint_186" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Now%20when%20you...%0a%09%20%20EC%20%3a%20September%2012th%2c%20doesn't%20say%20the%20year.%0a%09%20%20AE%20%3a%20No%2c%20it%20doesn't%2c%20I%20don't%20know%20if%2c%20we've%20tried%20to%20find%20out%20what%20year%20this%20was...%0a%09%20%20EC%20%3a%20%5bReads%20quietly%20the%20flier%20ad%20to%20himself%2c%20mostly%20inaudible%5d.%0a%09"
+                  dur="00012.100s"/>
+            <text id="text_timepoint_187" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Maybe%201930's%3f%2040's%3f%0a%09%20%20EC%20%3a%20I%20would%20say%20it%20was%20in%20the%20late%2030's...I%20would%20say%20it%20was%20in%20the%20late%2030's.%0a%09%20%20AE%20%3a%20Would%20you%20ever%20get%20the%20handouts%2c%20the%20flyers%20to%20promote%2c%20would%20you%20find%20out%20about%20movies%20that%20way%2c%20like%20what%20was%20coming%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20oh%20yeah.%20They%20used%20to%20have%20coming%20attractions%20and%20they%20used%20to%20have%20billboards%20outside%20the%20theatre%2c%20and%20they'd%20put%20on%20coming%20attractions.%0a%09"
+                  dur="00025.000s"/>
+            <text id="text_timepoint_188" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yep%2c%20I've%20seen%20the%20billboards%20itself.%20I've%20seen%20pictures%20of%20that.%0a%09%20%20EC%20%3a%20Right.%0a%09%20%20AE%20%3a%20Now%2c%20how%20would%20you%20find%20out%2c%20like%20would%20somebody%20come%20to%20you%20with%20fliers%3f%20%20Would%20they%20be%20passed%20out%2c%20how%20would%20you%20find%20out%3f%0a%09"
+                  dur="00008.100s"/>
+            <text id="text_timepoint_189" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Occasionally%20they%20would%20if%20it%20was%20a%20real%20hot%20picture%2c%20that%20they%20probably%20committed%20so%20much%20money%20to%2c%20they%20would%20come%20around%20and%20make%20sure%20that%20it%20was%20sold%20out%20and%20they'd%20put%20fliers%20under%20doors%20or%20have%20someone%20at%20the%20corners%20waiting%20there%20as%20you%20get%20off%20the%20streetcar%2c%20because%20everybody%20had%2c%20not%20everybody%20had%20cars%20in%20those%20days%2c%20you%20used%20the%2c%20in%20those%20days%2c%20Boston%20elevated%20railway%2c%20we%20used%20that%20which%20was%20a%20streetcar%2c%20you%20saw%20the%20tracks%20going%20up%20the%20street.%20Everybody%20was%20on%20that.%0a%09%20%20AE%20%3a%20Wow.%0a%09"
+                  dur="00031.500s"/>
+            <text id="text_timepoint_190" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20And%20as%20you%20got%20off%2c%20they'd%20hand%20you%20a%2c%20they'd%20hand%20you%20a%20flyer%20or%20something%20to%20tell%20you%20what's%20coming%20and%20what%20they're%20giving%20away%2c%20so%2c%20you%20can%20see%20the%20tracks%20here%20in%20Davis%20Square.%0a%09%20%20AE%20%3a%20Did%20you%20ever%20keep%20any%20of%20the%20flyers%3f%0a%09%20%20EC%20%3a%20No.%20In%20fact%20when%20we%20moved%20from%20the%20other%20house%20I%20used%20to%20for%20about%203%20weeks%20straight%20I%20would%20shred%20papers%20that%20I%20had%20no%20room%2c%20so%20I%20got%20rid%20of%20a%20lot%20of%20stuff%20that%20we%20had.%0a%09"
+                  dur="00030.200s"/>
+            <text id="text_timepoint_191" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That's%20ok.%20I%20was%20just%20curious%20if%20that%20was%2c%20if%20the%20flyers%20ever%20meant%20anything%20to%20you%20maybe%20when%20you%20were%20younger%20when%20you%20got%20them%20and%20you%20would've%20kept%20them.%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20As%20like%20souvenirs.%20I%20know%20like%20for%20instance%2c%20I'll%20keep%20souvenir%20programs%20from%20different%20plays%20I've%20seen.%0a%09%20%20EC%20%3a%20Yeah%2c%20right%2c%20I%20do%2c%20but%20then%20I%20had%20to%20get%20rid%20a%20lot%20of%20that%20because%20I%20don't%20even%20have%20room%2c%20I've%20never%20put%20these%20up%2c%20because%20I%20don't%20know%20how%20to%2c%20where%20I'd%20put%20them%2c%20or%2c%20so%20I%20didn't%20want%20to%20do%20it.%20But%20at%20home%2c%20my%20other%20house%2c%20we%20had%20ten%20rooms%2c%20and%20I%20had%20a%20big%20study%20just%20for%20myself.%20The%20study%20was%2012%20by%2015.%20%20%0a%09"
+                  dur="00030.600s"/>
+            <text id="text_timepoint_192" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20That's%20a%20big%20room.%0a%09%20%20EC%20%3a%20Yes%2c%20and%20I%20used%20to%20have%20pictures%20all%20over%2c%20and%20with%20Ted%20Kennedy%2c%20Tip%20O'Neil%2c%20all%20the%20way%20back.%0a%09%20%20AE%20%3a%20Ah%2c%20wow.%20That's%20great.%0a%09%20%20EC%20%3a%20All%20the%20way%20back%2c%20and%20the%20nights%20that%20we%20were%20inaugurated%2c%20different%20things...%0a%09"
+                  dur="00017.200s"/>
+            <text id="text_timepoint_193" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Now%20we've%20had%20a%20chance%20to%20look%2c%20and%20I've%20heard%20a%20lot%20of%20your%20really%20wonderful%20memories%2c%20is%20there%20one%20memory%20that%20stands%20out%2c%20one%20of%20your%20favorite%20movies%20or%20favorite%20memories%20about%20going%20to%20the%20movies.%20As%20we've%2c%20as%20we've%20talked%20up%20quite%20a%20bit%20about%20some%20of%20these%20different%20theatres%20you've%20been%20to.%0a%09%20%20EC%20%3a%20Yeah%2c%20well%2c%20I%20think%20some%20of%20the%20Dr.%20Kildare%20pictures%2c%20or%20the%20one%20that%20stands%20out%20the%20most%20is%20Mr.%20Smith%20Goes%20to%20Washington%2c%20I%20think.%20%20%0a%09"
+                  dur="00026.000s"/>
+            <text id="text_timepoint_194" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20the%20one%2c%20yeah%20that%20one%20always%20stand%20out%2c%20now%20why%20is%20that%20one%20stood%20out%20for%20you.%0a%09%20%20EC%20%3a%20%5bspeaking%20at%20the%20same%20time%20as%20AE%5d%20That%20one%20always%20stood%20in%20my%2c%20that%20was%20always%20in%2c%20and%20also%2c%20uh%2c%20the%2c%20Bing%20Crosby's%2c%20The%20Bells%20of%20Saint%20Mary's%2c%20that%20one%20always%20stood%20out%20in%20mind%2c%20too%2c%20with%20Barry%20Fitzgerald...%0a%09%20%20AE%20%3a%20Can%20I%20ask%20why%3f%0a%09"
+                  dur="00017.500s"/>
+            <text id="text_timepoint_195" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I%20don't%2c%20I%20think%20it%20was%20probably%20just%20the%20humanitarian%20way%20the%20picture%20was%2c%20the%20picture%20was%20presented.%20I%20think%20that%20was%20it.%20The%20Bells%20of%20Saint%20Mary%20and%20the%20other%20one%20that%20he%20was%20in%2c%20ah%2c%20no%20that%20was%20it.%20Yeah%2c%20that%20was%20it%2c%20with%20the%2c%20the%20opera%20singer%20%5blaughs%5d.%20Barry%20Fitzgerald%20was%20in%20it%20and%20Bing%20Crosby%20and%20ah%2c%20oh%20opera%20singer%2c%20she%20was...%0a%09%20%20AE%20%3a%20I%20don't%20know%2c%20I%20wish%20I%20did...%0a%09%20%20EC%20%3a%20She%20was%20r-%2c%20romantically%20linked%20with%20Tony%20LaVallee.%0a%09"
+                  dur="00038.100s"/>
+            <text id="text_timepoint_196" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I've%20heard%20of%20Tony%20LaVallee.%0a%09%20%20EC%20%3a%20Yeah%2c%20yeah...%0a%09%20%20AE%20%3a%20Do%20you%20remember%20who%20you%20went%20to%20see%20those%20two%20movies%20with%3f%0a%09%20%20EC%20%3a%20Uh%2c%20I%20don't%20know%20if%20I%20went%20alone%20on%20a%20cou-%2c%20on%20one%20time.%20%0a%09"
+                  dur="00010.200s"/>
+            <text id="text_timepoint_197" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Well%20you%20saw%2c%20uh%2c%20Mr.%20Smith%20Goes%20to...%0a%09%20%20EC%20%3a%20Washington.%0a%09%20%20AE%20%3a%20Washington%20four%20times.%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00006.500s"/>
+            <text id="text_timepoint_198" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Was%20it%20all%20in%20the%20same%20day%3f%0a%09%20%20EC%20%3a%20No%2c%20twice%20in%20the%20same%20day.%0a%09%20%20AE%20%3a%20Twice%20in%20the%20same%20day.%0a%09%20%20EC%20%3a%20There%20would've%20been%20some%20of%20the%20guys%20around%20the%20corner.%20So%2c%20they%20left%20and%20I%20was%20still%20there%2c%20so%20%5blaughs%5d.%0a%09"
+                  dur="00009.000s"/>
+            <text id="text_timepoint_199" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20then%20the%20other%20movie%2c%20do%20you%20remember%20who%20you%20saw%20that%20with%3f%0a%09%20%20EC%20%3a%20Yeah%2c%20Dr.%20Kildare%20or%20some%20of%20the%20Bing%20Crosby%20and%20Bob%20Hope%20shows%20with%20Dorothy%20Lamour%2c%20Road%20to%20Burma%20and%20Road%20to%20Zanzibar%2c%20I%20can%20remember%20those...%0a%09%20%20AE%20%3a%20Did%20you%20go%20with...%0a%09%20%20EC%20%3a%20And%20Jimmy%20Cagney%2c%20some%20of%20the%20Jimmy%20Cagney's%20pictures%2c%20uh%2c%20uh%2c%20af-%2c%20when%20he%20was%20in%20prison.%20I'm%20trying%20to%20think%20of%20a%20name%20of%20it%2c%20ah%20%5bchuckles%5d.%20Now%20that%20you%20want%20to%20think%20of%20it%2c%20you%20can't.%20%20%0a%09"
+                  dur="00034.900s"/>
+            <text id="text_timepoint_200" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20can't%2c%20you%20know%20what%20will%20happen%2c%2010%20minutes%20from%20now%2c%20you'll%20think%20of%20it.%0a%09%20%20EC%20%3a%20Oh%20yeah%2c%20yeah%2c%20I%20know%20it%20%5bchuckles%5d.%0a%09%20%20AE%20%3a%20I%20was%20just%20curious%20if%20maybe%20there%20were%20movies%20that%20stood%20out%20for%20you%20that%20you%20remembered.%0a%09%20%20EC%20%3a%20I%20remember%20the%20d-%2c%20the%20Dr.%20Kildare%20pictures%2c%20as%20I%20say...%0a%09"
+                  dur="00013.400s"/>
+            <text id="text_timepoint_201" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20now%20I%20think%20you%20told%20me%20which%20theater%20you%20saw%20Mr.%20Smith%20in%2c%20but%20what%20about%20the%20doctor...%0a%09%20%20EC%20%3a%20That%20was%20at%20the%20Broadway%2c%20Broadway%20theatre.%0a%09%20%20AE%20%3a%20And%20the%20doc-%2c%20the%20doct-%2c%20excuse%20me...%0a%09%20%20EC%20%3a%20Doctor%20Kildare.%20%0a%09"
+                  dur="00009.800s"/>
+            <text id="text_timepoint_202" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Doctor%20Kildare.%0a%09%20%20EC%20%3a%20Yes%2c%20that%20would%20have%20been%20at%20the%2c%20been%20at%20the%20Broadway%20theatre%20too%2c%20yeah.%20There's%20one%20Strawberry%20Blond%2c%20Olivia%20DeHavilland%2c%20yeah.%0a%09%20%20AE%20%3a%20Did%20you%20see%20that%20one%3f%0a%09%20%20EC%20%3a%20Yes%2c%20yeah.%0a%09"
+                  dur="00014.800s"/>
+            <text id="text_timepoint_203" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20about-...%0a%09%20%20EC%20%3a%20I%20remember%20some%20of%20the%20Sherlock%20Holmes%20pictures%2c%20too.%0a%09%20%20AE%20%3a%20Yeah%3f%0a%09%20%20EC%20%3a%20With%20Basil%20Rathbone.%0a%09"
+                  dur="00008.600s"/>
+            <text id="text_timepoint_204" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I've%20heard%20of%20him.%0a%09%20%20EC%20%3a%20Going%20way%20back.%20I%20remember%20some%20of%20those%2c%20that%20was%2c%20I%20used%20to%20see%20at%20the%20Broadway%20or%20the%20Capitol%2c%20either%20one.%0a%09%20%20AE%20%3a%20How%20many%20movies%20do%20you%20think%20you've%20ever%20seen%3f%0a%09"
+                  dur="00010.200s"/>
+            <text id="text_timepoint_205" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Ooh...%0a%09%20%20AE%20%3a%20When%20you%20were%20growing%20up%2c%20if%20you%20were%20going%20to%20take%20a%20wild%20guess%3f%0a%09%20%20EC%20%3a%20%5bpauses%5d%20Over%20a%2015-year%20period%2c%20at%20least%20once%20or%20twice%20a%20week%2c%20oh%20I'd%20say...%20%5btalking%20to%20himself%20inaudibly%5d...twice%20a%20week%2c%2050%20weeks%20would%20be%20about%20a%20hundred%20a%20year%2c%20over%20a%2015-year%20period%2c%20I'd%20say%20about%201500.%0a%09"
+                  dur="00031.300s"/>
+            <text id="text_timepoint_206" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%201500%3f%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20I%20mean%2c%20you%2c%20you%20mentioned%20so%20many%20different%20movies%20and%20going%20quite%20a%20bit%2c%20so%20I%20had%20a%20feeling%20that%20you%20probably%20took%20in%20a%20lot%20of%20different%20films.%0a%09"
+                  dur="00009.700s"/>
+            <text id="text_timepoint_207" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20In%20fact%20when%20I%20was%20in%20the%20service%20in%20Puerto%20Rico%2c%20I%20remember%20one%20Christmas%20time%2c%20going%20to%20see%20White%20Christmas%20with%20the%20sun%20shining.%0a%09%20%20AE%20%3a%20Aww.%0a%09%20%20EC%20%3a%20And%20we%20had%20outdoor%20theatres%20down%20there.%20And%20I%20remember%20seeing%20Bing%20Crosby%20and%20Danny%20Kay%20and%20the%20girl's%20name%2c%20uh%2c%20Olivia%20de%20Havilland%2c%20no%2c%20oh%20she%20just%20passed%20away%2c%20in%20fact%2c%20ah%2c%20uh%2c%20%5blaughs%5d.%0a%09"
+                  dur="00037.500s"/>
+            <text id="text_timepoint_208" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20It's%20another%20name%20that%20will%20come%20back%20to%20you%20later%20on.%0a%09%20%20EC%20%3a%20Yeah%2c%20right%2c%20yeah.%0a%09%20%20AE%20%3a%20Later%20on%2c%20later%20on%20when%20you're%20brushing%20your%20teeth...%0a%09%20%20EC%20%3a%20Ah%2c%20I'm%20just%20saying%20Patty%20Page%2c%20but%20no%2c%20she%20was%20another%20singer.%20Mitzy%20Gainor%20and%20ah%20White%20Christmas%2c%20it's%20on%20every%20Christmas%20time%2c%20I%20see%20it%20almost%20every%20year%20here.%20%0a%09"
+                  dur="00020.100s"/>
+            <text id="text_timepoint_209" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yes%2c%20yeah.%0a%09%20%20EC%20%3a%20But%20that%20was%20back%20in%20the%2050's%20when%20I%20saw%20that%2c%20when%20it%20first%20came%20out%2c%20about%201955%2c%20I%20think%20it%20was.%0a%09"
+                  dur="00007.500s"/>
+            <text id="text_timepoint_210" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20what%20did%20you%20miss%20most%20when%20after%20you%20had%20to%20see%20on%20the%20open%20theatre%20and%20you%20weren't%20in%20your%20home%20town%2c%20what%20did%20you%20miss%20most%20about%20the%20Somerville%20movie%20theatres%3f%0a%09%20%20EC%20%3a%20Ah%2c%20probably%20the%20convenience%2c%20this%20was%20more%20of%20a%20military%20theatre%2c%20and%20all%20it%20was%20just%20the%20theatre%2c%20you%20didn't%20have%20the%2c%20the%20casual%20meeting%20of%20people%2c%20it%20was%20all%20the%20same%20group%2c%20the%20service%20men%20were%20there%2c%20and%20I%20think%20not%20being%20able%20to%20pick%20up%20a%2c%20a%20candy%20bar%2c%20or%20a%20box%20of%20thing%2c%20but%20we%20could%20smoke.%0a%09%20%20AE%20%3a%20Oh.%0a%09"
+                  dur="00034.400s"/>
+            <text id="text_timepoint_211" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20So%20I%20always%20had%20a%20cigar%2c%20and%20afterwards%20we%20found%20out%20it's%20not%20good%20for%20you%20%5blaughs%5d.%0a%09%20%20AE%20%3a%20Yep%2c%20yep%2c%20that's%20what%20they%20tell%20you.%20%0a%09%20%20EC%20%3a%20So%2c%20but%2c%20in%20those%20days%20it%20was%20ok.%20Because%20if%20you%20had%20them%2c%20you%20lit%20them%20up.%0a%09"
+                  dur="00011.200s"/>
+            <text id="text_timepoint_212" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20What%20do%20you-%2c%20yeah%2c%20I%20do-...%0a%09%20%20EC%20%3a%20So%2c%20I'd%20always%20have%20a%20cigar...%0a%09%20%20AE%20%3a%20Yeah%2c%20you%2c%20you%20have%20everything%20inside%3b%20you%20could%20smoke%20anywhere%20back%20then.%0a%09"
+                  dur="00005.000s"/>
+            <text id="text_timepoint_213" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Right%2c%20yeah.%20Down%20there%20in%20Puerto%20Rico%20or%20something.%0a%09%20%20AE%20%3a%20I%20had%20another%20question%20I%20was%20wondering%20about%20what%20you%20think%20is%20different%20now%20between%20going%20to%20the%20movies%20now%20versus%20what%20it%20meant%20to%20go%20to%20the%20movies%20back%20then%2c%20the%20differences%20between%20when%20you%20used%20to%20go%3f%0a%09"
+                  dur="00014.000s"/>
+            <text id="text_timepoint_214" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Like%20if%20you%20go%20to%20a%20mall%20and%20you%20go%20to%20a%20theatre%2c%20there's%20five%20or%20six%20different%20theatres%20there%2c%20and%20everyone%20has%20a%2c%20a%20show%2c%20that%20you%20don't%20know%20what%20the%20con-%2c%20you%20know%2c%20what%20the%20con-%2c%20the%20theme%20of%20the%20picture%20is%2c%20or%20anything%20else.%20You%20don't%20hear%20that%20much%20about%20them.%20There's%2c%20as%20I%20say%2c%20five%20or%20six%20different%20theatres%20in%2c%20within%20the%20confines%20of%20one%20building%2c%20and%20to%20try%20to%20find%20the%20one%20you%20want%20to%20go%20to%2c%20if%20you%20haven't%20read%20about%20it%20in%20the%20paper%2c%20you%20don't%20know%20where%20to%20go%2c%20you're%20just%2c%20just%20stymied%20there%2c%20you're%20looking%20at%20the%20bill%20board%20or%20something%2c%20and%20you%20don't%20know.%20So%20I%20haven't%20gone%20in%20at%20least%20five%20years%20to%20see%20a%20movie.%20In%20fact%20the%20last%20movie%20I%20think%20I%20saw%20was%20one%20of%20the%20Godfathers.%20%0a%09"
+                  dur="00043.200s"/>
+            <text id="text_timepoint_215" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%2c%20really%3f%20%20Those%20are%20good%20movies.%20Good%20movies.%20%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Now%20I%20bet%2c%20um%2c%20now%20you%20had%20your%20chi-%2c%20um%20your%20two%20boys%2c%20they%20grew%20up%20in%20Somerville%2c%20did%20you%20ever%20take%20them%20to%20the%2c%20the%20neighborhood%20theatres%2c%20when%20they%20were%20kids%3f%20%20%0a%09"
+                  dur="00013.100s"/>
+            <text id="text_timepoint_216" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20They%20were%2c%20they%20were%20all%20gone%20by%20the%20time.%0a%09%20%20AE%20%3a%20They%20were%3f%0a%09%20%20EC%20%3a%20We%20didn't%20get%20married%20until%201959%2c%20fif-%2c%20yeah%2c%20fif-%2c%20'58.%201958.%20Let%20me%20think%2c%20I've%20got%20to%20think%20back%20to%20remember.%0a%09%20%20AE%20%3a%20%5bwhispers%5d%20I%20won't%20tell%20her!%0a%09"
+                  dur="00017.900s"/>
+            <text id="text_timepoint_217" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%2044%2c%201958%2c%20this%20would%20be%20the%2044th%20year%20coming%20up%2c%20so%20no%2c%20nine%2c%20nineteen%2c%20yeah%2c%201958.%20So%2c%20these%20theatres%20were%20not%20as%2c%20when%20they%20were%20in%20there%20ah%2c%20oh%2c%20say%2c%207%20or%208%2c%20theatres%20were%20not%20around%20like%20that%2c%20like%20that%2c%20as%20they%20were%20then.%0a%09%20%20AE%20%3a%20So%20what%20do%20you%20think%20they%20missed-%0a%09%20%20EC%20%3a%20But...%0a%09%20%20AE%20%3a%20Oh%20go%20ahead.%0a%09"
+                  dur="00024.000s"/>
+            <text id="text_timepoint_220" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20But%20I%20did%20take%20to%20them%2c%20you%20know%20to%20a%20lot%20of%20the%20uh%2c%20ohhh%2c%20ah%2c%20what%20would%20you%20say%20like%20ah%2c%20different%20cities%20and%20town%20point%20out%20different%20things%20to%20them%2c%20what%20was%20there.%20And%20ah%2c%20we'd%2c%20I'd%20take%20'em%20to%20ball%20games%20or%20hockey%20games%2c%20things%20like%20that%20which%20offset%20the%20lack%20of%20the%20movie%2c%20but%20then%20they%20built%20the%20theatres%20that%20you%2c%20the%20combined%20theatres%2c%20and%20by%20that%20time%20they%20went%20on%20their%20own.%20%0a%09%20%20AE%20%3a%20Ok.%0a%09%20%20EC%20%3a%20So%20they%20did%2c%20they%2c%20they%20went%20and%20they'd%20saw%2c%20they'd%20see%20different%20things.%0a%09"
+                  dur="00038.900s"/>
+            <text id="text_timepoint_221" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20So%20what%20do%20you%20think%20they%20missed%20out%20on%20in%20terms%20of%20not%20being%20able%20to%20go%20to%20those%20types%20of%20theatres%20like%20you%20did%20when%20you%20were%20a%20kid%3f%0a%09%20%20EC%20%3a%20Well%2c%20I%2c%20I%20think%20they%20miss%20out%20on%20the%2c%20the%20beauty%20of%20the%20theatres%2c%20I%2c%20as%20I%20say%2c%20the%20theatres%20today%20don't%20have%20the%20characteristics%20that%20they%20had%20in%20those%20days%20like%20you%20saw%20the%2c%20at%20the%20Central%20Theatre%2c%20the%2c%20the%20ah%2c%20uh%2c%20the%20ohhhh%2c%20how%20could%20I%20put%20it%2c%20the%20beauty%20of%20the%20architect%20inside%2c%20the%20beauty%20of%20the%20colors%2c%20and%20everything%2c%20they're%20not%20put%20together%20in%20the%20same%20manner%20as%20these%20theatres%20today.%0a%09"
+                  dur="00039.500s"/>
+            <text id="text_timepoint_222" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20there%20anything%20else%20do%20you%20think%20they%20missed%20out%20on%3f%20I%20heard%20you%20mention%20earlier%20the%20kind%20of...%0a%09%20%20EC%20%3a%20Well%20I%20think...%0a%09%20%20AE%20%3a%20...community%2c%20and%2c%20and%2c%20sense%20of%20people.%0a%09"
+                  dur="00007.100s"/>
+            <text id="text_timepoint_223" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I%20think%20they%20missed%20out%20on%20the%20fact%20that%20the%20families%20could%20go%20together%20and%20be%20a%20family.%20That%20was%20the%20thing.%20Like%20today%2c%20the%20pictures%20that%20they%20were%20showing%20in%20their%20days%2c%20I%20wouldn't%2c%20to%20me%20they%20didn't%20have%20the%20interest%20that%20the%20old%20time%20pictures%20had%2c%20like%2c%20they%20used%20to%2c%20be%20with%20heroes%2c%20old%20time%20heroes%20and%20things%20like%20that.%20They%20don't%20bring%20in%20pictures%20today%20like%20that.%20Like%20Oklahoma%2c%20the%20old%20stoge%2c%20stage%20plays%2c%20they%20don't%20make%20pictures%20like%20Benny%20Goodman%20story%2c%20the%20Glenn%20Miller%20story%2c%20different%20things%20like%20that%20which%20was%20part%20of%20history%2c%20they%20don't%20have%20them%20today.%20Today%20pictures%20to%20me%20don't%20have%20the%20rhyme%2c%20the%20theme%2c%20or%20don't%20have%20a%20story%20to%20tell.%20Very%20few%20of%20them%20do.%20So%2c%20and%20as%20a%20result%20in%20those%20days%2c%20the%20pictures%20used%20to%20have%20a%2c%20you%20could%20relate%20to%20part%20of%20the%20history%20right%20there.%20SoI%20don't%20know%2c%20to%20me%2c%20I%20used%20to%20enjoy%20them%2c%20because%20they%20told%20you%20something%20about%2c%20oh%20an%20individual%20or%20a%2c%20a%20group%2c%20family%2c%20like%20during%20the%20war%2c%20there%20were%20a%20lot%20of%20pictures%20like%20Hirojima%2c%20and%20things%20like%20that%2c%20so%20I%20guess%20something%20that%20was%20happening.%20So%2c%20but%20today%2c%20they%20don't%20have%20as%20much--along%20with%20the%20humor%2c%20there%20was%20a%20lot%20of%20humor%20in%20pictures%20in%20those%20days%2c%20so%20and%20that%20kept%20you%2c%20that%20kept%20you%2c%20interested.%20Yeah.%0a%09"
+                  dur="00100.500s"/>
+            <text id="text_timepoint_224" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Hmm%2c%20that's%20too%20bad.%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20So%20it%20sounds%20like%20um%2c%20your%2c%20your%20boys%20and%20even%20your%20grandchildren%20will%20have%20a%20very%20different%20experience.%0a%09%20%20EC%20%3a%20Yes%2c%20they%20do.%20Because%20they%20go%20out%2c%20today%20they%20buy%20a%20lot%20of%20these%2c%20or%20they%20rent%20a%20lot%20of%20movies%2c%20so%20you%2c%20those%2c%20in%20our%20day%2c%20there%20was%20nothing%20like%20that.%20In%20fact%2c%20the%20only%20thing%20that%20you%20had%20that%20told%2c%20that%20reacted%20to%20the%20past%2c%20was%20the%20oh%2c%20say%20the%2c%20the%20victrola%20or%20the%20photograph%2c%20phonograph%2c%20something%20like%20that%2c%20but%20other%20than%20that%20you%20had...%0a%09"
+                  dur="00037.700s"/>
+            <text id="text_timepoint_225" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20And%20the%20radio%2c%20was%20the%20radio%3f%0a%09%20%20EC%20%3a%20We%20had%20radio%3b%20back%20when%20I%20was%20growing%20up%20we%20used%20to%20have%20crystal%20sets.%0a%09%20%20AE%20%3a%20%5bLaughs%5d%0a%09%20%20EC%20%3a%20Which%20was%2c%20I%20don't%20know%20if%20you've%20ever%20heard%20of%20it%3f%0a%09"
+                  dur="00007.300s"/>
+            <text id="text_timepoint_226" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20think%20I've%20heard%20of%20it%2c%20I%20think%20I've%20heard%20about%20this.%0a%09%20%20EC%20%3a%20It%20was%20a%20little%20thing%20you%20could%20make%2c%20you%20could%20buy%20kits%2c%20and%20make%20it%2c%20and%20it%20had%20earphones%20and%20you%20could%20listen%20on%20the%20earphones.%0a%09%20%20AE%20%3a%20Neat!%20Neat!%20Wow.%0a%09%20%20EC%20%3a%20I%20remember%20that%20back%20in%20the%2030's.%0a%09"
+                  dur="00014.600s"/>
+            <text id="text_timepoint_227" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Wow.%0a%09%20%20EC%20%3a%20So%2c%20yeah.%0a%09%20%20AE%20%3a%20That's%20great.%0a%09%20%20EC%20%3a%20Yeah...%0a%09"
+                  dur="00004.200s"/>
+            <text id="text_timepoint_228" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20was%20also%20wondering%2c%20it%20sounds%20like%20you%20had%20a%20lot%20of...%0a%09%20%20EC%20%3a%20A%20lot%20of%20fun%20growing%20up.%0a%09%20%20AE%20%3a%20A%20lot%20of%20fun%2c%20it%20sounded%20like%20you%20had%20a%20great%20time%20with%20the%20movies%20and%20you%20had%20some%20one%2c%20some%20stars%20that%20you%20even%20liked%3f%0a%09%20%20EC%20%3a%20Yeah.%20%0a%09"
+                  dur="00014.100s"/>
+            <text id="text_timepoint_229" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Did%20you%20ever%20collect%20anything%20of%20theirs%3f%20%20Do%20you%20ever%20collect%20pictures%20or...%0a%09%20%20EC%20%3a%20I%20used%20to%2c%20yeah.%0a%09%20%20AE%20%3a%20Yeah%2c%20did%20you%20co-%2c%20who%20did%20you%20collect%2c%20whose%20pieces%20did%20you%20collect%3f%0a%09%20%20EC%20%3a%20Well%2c%20I%20used%20to%20like%20Kit-%2c%20uh%2c%20Barrymore%2c%20Lionel%20Barrymore%2c%20uh%2c%20the%20cowboy%20pictures-...%0a%09"
+                  dur="00016.400s"/>
+            <text id="text_timepoint_230" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20You%20used%20to%20collect%20things%20from%20the%20cowboy%20pictures...%0a%09%20%20EC%20%3a%20Cowboys%20pictures%2c%20Tom%20Mix%2c%20Roy%20Rodgers%2c%20uh...%0a%09%20%20AE%20%3a%20What%20kinds%20of%20stuff%20did%20they%20have%20to%20collect%3f%0a%09%20%20EC%20%3a%20When%20you%20went%20to%20the%20theatre%2c%20they'd%20sometimes%20would%20have%20pictures...%0a%09"
+                  dur="00016.000s"/>
+            <text id="text_timepoint_231" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%20yeah.%0a%09%20%20EC%20%3a%20...of%2c%20of%20the%20stars%20there%20of%20the%20movies%0a%09%20%20AE%20%3a%20Yeah.%0a%09%20%20EC%20%3a%20And%20you'd%20get%20one%20say%2c%20say%20Roy%20Rogers%20or...or%20not%20Tom%20Mix%2c%20but%20the%20oh%20Roy%20Rogers%20and%2c%20the%20other%20famous%20cowboy%2c%20Ge-%2c%20Gene%20Autry.%0a%09"
+                  dur="00022.900s"/>
+            <text id="text_timepoint_232" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I've%20heard%20of%20him.%0a%09%20%20EC%20%3a%20They'd%20have%20pictures%20of%20them%20and%20it%20would%20have%20an%20autograph%20on%20it%2c%20whether%20or%20not%20it%20was%20authentic%20or%20not%20you%20didn't%20know%2c%20but%20it%2c%20it%20was%20great%20because%20you%20went%20for%20an%20afternoon%2c%20you%20saw%20the%20pictures%2c%20then%20you%20had%20a%20picture%20of%20them.%20It's%20like%20going%20to%20a%20ball%20game%2c%20and%20having%20a%20ball%20player%20autograph.%0a%09%20%20AE%20%3a%20Mmmmm.%0a%09"
+                  dur="00016.800s"/>
+            <text id="text_timepoint_233" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20A%20thing%20for%20you.%20So...%0a%09%20%20AE%20%3a%20Were%20there%20any%20actresses%20that%20you%20also%20collected%20their%20stuff%3f%0a%09%20%20EC%20%3a%20Ah%2c%20Doris%20Day%2c%20Patty%20Page%2c%20Betty%20Davis...%0a%09"
+                  dur="00015.800s"/>
+            <text id="text_timepoint_234" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Mmm.%20I've%20seen-...%0a%09%20%20EC%20%3a%20She%20was%20always%20one%20of%20my%20favorite%20actresses.%0a%09%20%20AE%20%3a%20Yeah%2c%20seen%20a%20lot%20of%20her%2c%20her%20pictures.%0a%09%20%20EC%20%3a%20Right%2c%20she%20was%20active%20and%20uh%2c%20let's%20see...Jimmy%20Cagney%20I%20liked%2c%20Barrymore's%2c%20Ray%20Milan...%0a%09"
+                  dur="00017.900s"/>
+            <text id="text_timepoint_235" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%3f%0a%09%20%20EC%20%3a%20Yeah.%20I%20can%20remember%20that%20in%2c%20the%20famous%20picture%20he%20played%20as%20a%20drunk%2c%20a%20drunk%20at%20the...%0a%09%20%20AE%20%3a%20I%20don't%20know%20what%20%5binaudible%5d.%0a%09%20%20EC%20%3a%20I%20forget%20what%20the%20name%20of%20that%20picture%20was%2c%20that's%2c%20that's%20at%20least%2045%20to%2050%20years%20ago.%20%20Ray%20Milan...%0a%09"
+                  dur="00024.700s"/>
+            <text id="text_timepoint_236" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Were%20you%20ever%20a%2c%20a%20member%20of%20one%20of%20the%20fan%20clubs%3f%0a%09%20%20EC%20%3a%20No%2c%20no%20never.%20Never%20got%20involved%20in%20that.%0a%09%20%20AE%20%3a%20Did%20you%20ever%20look%20at%20the%20fan%20magazines%3f%20%20I%20know%20there%20were%20a%20lot%20of%20different%20ones.%0a%09%20%20EC%20%3a%20Occasionally%20I%20used%20to.%0a%09"
+                  dur="00012.500s"/>
+            <text id="text_timepoint_237" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20do%20you%20remember%20which%20ones%20you%20use-%2c%20you%20used%20to%20like%3f%0a%09%20%20EC%20%3a%20Oh%20boy...%0a%09%20%20AE%20%3a%20I%20know%20there's%20Photoplay...%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00006.900s"/>
+            <text id="text_timepoint_238" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Uh%2c%20there's%20a%20couple%20of%20them...%0a%09%20%20EC%20%3a%20Let's%20see%2c%20there%20was%2c%20uhI%20haven't%20seen%20any%20on%20the%20market%20of%20course%20for%20many%20years%2c%20now.%0a%09%20%20AE%20%3a%20No.%20I%20think%20a%20lot%20of%20them%20have%20folded%20but...%0a%09%20%20EC%20%3a%20They%20all%20went%20when%20the%2c%20the%20way%20of%20the%20movies%2c%20because%20they%20weren't%2c%20weren't%20around%20anymore.%0a%09"
+                  dur="00017.900s"/>
+            <text id="text_timepoint_239" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20think%20the%20first%20one%20that%20I%20read%20about%20coming%20out%20was%20in%20like%201911%20or%20maybe%20that's%20too%20early%2c%20might%20be%201917.%0a%09%20%20EC%20%3a%20Somewhere%20around%20there%20in%20the%20First%20World%20War.%0a%09%20%20AE%20%3a%20Yeah%20and%20then%20I%20think%20it%20was%20Photoplay%2c%20and%20then%20there's%20a%20couple%20of%20different%20ones.%20At%20one%20time%20there%20was%20probably%20about%2012%20of%20them%20I%20think%20on%20the%20market.%0a%09"
+                  dur="00016.800s"/>
+            <text id="text_timepoint_240" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20I%2c%20I%20don't%20remember%20too%20many%20of%20those%2c%20I%20never%20got%20involved%20in%20those.%0a%09%20%20AE%20%3a%20But%20you%20did%20see%20them%20from%20time%20to%20time%3f%0a%09%20%20EC%20%3a%20Yes%2c%20on%20the%20stand%20or%20something.%20In%20fact%20I%20remember%20one%20time%20I%20think%20they%20had%20a%20big%20spread%20on%20Bing%20Crosby%20with%20his%20brother%2c%20yeah%2c%20his%20brot-...%0a%09%20%20AE%20%3a%20What%2c%20what%2c%20what%20was%20the%20spread%20like%2c%20do%20you%20remember%3f%0a%09"
+                  dur="00017.800s"/>
+            <text id="text_timepoint_241" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20A%20family%2c%20it%20was%20a%20family%20spread%2c%20about%20how%2c%20his%20family%2c%20his%2c%20his%20brother%20and%20then%20his%20sons.%0a%09%20%20AE%20%3a%20Excellent.%0a%09%20%20EC%20%3a%20They%20had%20a%20nice%20one%20about%20that%2c%20I%20can%20remember.%20His%20brother%20was%20a%20bandleader%20also.%20%0a%09%20%20AE%20%3a%20Oh.%0a%09"
+                  dur="00014.300s"/>
+            <text id="text_timepoint_242" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20Bob%20Crosby%2cBob%20Crosby%2c%20but%20I%20used%20to%20like%20the%20Bing%20Crosby%20movies.%20He%20was%20always%20a%20little%20bit%20of%20comedy%20and%20a%20little%20bit%20of%20serious.%20%0a%09%20%20AE%20%3a%20Mmmm.%20Mmmm-hmmm.%0a%09%20%20EC%20%3a%20So%0a%09%20%20AE%20%3a%20So%20it%20sounds%20like%20your%20favorite%20types%20of%20movies%20would%20have%20been...%0a%09"
+                  dur="00015.600s"/>
+            <text id="text_timepoint_243" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Comedy.%0a%09%20%20AE%20%3a%20Comedy.%0a%09%20%20EC%20%3a%20Comedy%20or%20musicals.%0a%09%20%20AE%20%3a%20Yeah.%0a%09"
+                  dur="00003.200s"/>
+            <text id="text_timepoint_244" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Musicals%20I%20liked.%0a%09%20%20AE%20%3a%20And%20you%20liked%20the%20cowboys.%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Cowboys%20and%20westerns%2c%20yeah.%0a%09"
+                  dur="00004.000s"/>
+            <text id="text_timepoint_245" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20And%20they%20all%20had%2c%20had%20a%20story%2c%20and%20that's%2c%20that's%20what%20I%20liked.%20%20%0a%09%20%20AE%20%3a%20Yeah.%20Do%20you%20miss%20Somerville's%20local%20theatres%3f%0a%09"
+                  dur="00009.500s"/>
+            <text id="text_timepoint_246" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah%2c%20yeah.%20But%2c%20later%20as%20I%20started%20to%20get%20older%20and%20got%20into%20activities%2c%20with%20different%20activities%2c%20I%20didn't%20have%20the%20time%20as%20much%2c%20so%20the%20most%20I'd%20go%20is%20probably%20once%20a%20month%20or%20so%2c%20we'd%20go%20in%20town%2c%20we'd%20go%20in%20town%20to%20some%20of%20the%20theatres%20there%20that%20had%20the%20just%2c%20new%20releases%20and%20they'd%20tu-%2c%20you%20know%2c%20they'd%20be%20the%20ones%20that%20you'd%20want%20to%20see%2c%20you%20could%20go%20in%2c%20take%20the%20streetcar%20in%2c%20and%20they%20had%20along%20Washington%20Street%2c%20they%20must%20have%20had%20about%206%20different%20theatres%20so%20you%20could%20pick%20out%20your%2c%20the%20one%20you%20liked%20and%20you%20could%20go%20and%20see%20it.%20So%20if%20you%20didn't%20have%20a%20date%2c%20you%20went%20with%20a%20bunch%20of%20guys.%20Like%20we%20used%20to%20see%20the%20stage%20plays.%0a%09"
+                  dur="00049.800s"/>
+            <text id="text_timepoint_247" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20there%20anything%20in%20particular%20that%20you%20miss%20most%20about%20the%20local%20Somerville%20theatres%3f%0a%09%20%20EC%20%3a%20Uh%2c%20well%2c%20I'd%20say%20we%2c%20we%20had%20at%20it%20at%20the%20right%20time%2c%20we%2c%20growing%20up%2c%20they%20were%20there%20for%20us.%20Today%20I%20don't%20think%20you'd%20have%20the%20time%2c%20with%20all%20the%20activities%20people%20have%20today%2c%20and%20with%20television%20takes%20away%20a%20lot%20of%20time.%20Like%20I'll%2c%20once%20in%20a%20while%20if%20I'm%20home%20I'll%20sit%20and%20watch%20a%20ball%20game%20or%20something%2c%20but%20that's%20it.%20I%20don't%20watch%20a%20movie%20or%20anything%20on%20there%20anymore%2c%20causethey%20have%20no%20appeal%20to%20me.%20I've%20run%20my%20gamut%20I%20guess.%0a%09"
+                  dur="00041.000s"/>
+            <text id="text_timepoint_248" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Maybe%20so%2c%20I%20was%20just%20wondering%20if...%0a%09%20%20EC%20%3a%20Yeah%2c%20everything%20has%20it%20cycles.%0a%09%20%20AE%20%3a%20Yeah%2c%20if%20there%20was%20something%20that%20you%20missed%2c%20besides%20the%2c%20the%2c%20the%20actual%20movie%20itself.%0a%09%20%20EC%20%3a%20Yeah%2c%20yeah%2c%20right%2c%20like%20at%20Christmas%20time%20they'll%20have%20the%20Miracle%20at%2034th%20Street...uh%20the%20one%20with%20Jimmy%2c%20Jimmy%20Stewart.%0a%09"
+                  dur="00021.400s"/>
+            <text id="text_timepoint_249" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Jimmy%20Stewart.%20I%20love%20that%20movie.%0a%09%20%20EC%20%3a%20Yeah%2c%20I'll%20watch%20that%2c%20and%20they%20have%20the%20Bells%20of%20Saint%20Mary%2c%20White%20Christmas%2c%20I'll%20watch%20those%2c%20but%20other%20than%20that%2c%20one%20end%20of%20the%20year%20to%20the%20other%2c%20I%20don't%20watch%20a%20movie.%20Maybe%20it's%20just%20the%20change%20of%20times%2c%20or%20you%20get%20tired%20of%20something.%0a%09%20%20AE%20%3a%20Yeah.%20I%20was%20just%20wondering%20if%20you%20maybe%20ever%20missed%20it%2c%20especially%20for%20your%20kids%20growing%20up%2c%20miss%20having%20them%20there.%0a%09"
+                  dur="00026.900s"/>
+            <text id="text_timepoint_250" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Right%2c%20yeah%2c%20yeah.%20I%20probably%20would%2c%20but%2c%20you%20don't%20have%20the%20time%2c%20you%20don't%20think%20of%20it.%0a%09%20%20AE%20%3a%20Yeah%2c%20you've%20been%20exceptionally%20busy.%0a%09%20%20EC%20%3a%20Right%20yeah%2c%20so%2c%20well%20since%20I%20was%2c%20oh%20first%20elected%20to%20the%20school%20board%20in%201953%2c%20my%20time%20has%20always%20been%20pretty%20much%20taken%20up%20with%20something%20or%20another%2c%20some%2c%20so.%20%0a%09"
+                  dur="00025.500s"/>
+            <text id="text_timepoint_251" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Good.%20Well%2c%20I%20mean%2c%20not%20good%20that%20it's%20been%20taken%20up%2c%20but%20it's%20been%20good%20that%20you've%20been%20so%20well%20served%20and%20you've%20been%20able%20to...%0a%09%20%20EC%20%3a%20And%20I've%20enjoyed%20it%2c%20I%20enjoyed%20it%20when%20I%20had%20it.%20And%20I'm%20enjoying%20life%20today%2c%20too.%20So...%0a%09%20%20AE%20%3a%20Excellent.%20Is%20there%20anything%20else%20that%20you'd%20like%20to%20add%20in%20terms%20of%20um%2c%20the%20movies%2c%20your%20experiences%2c%20anything%20else%20you%20wanted%20to%20add%3f%0a%09"
+                  dur="00021.900s"/>
+            <text id="text_timepoint_252" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Ah%2c%20let's%20seeI%20think%20the%20most%20important%20thing%20is%20that%20we%20saw%20people%20alive%20in%20those%20days%2c%20they%2c%20they%2c%20they%20wanted%20to%20see%20something%2c%20they%20were%20there%20to%20make%20sure%20that%2c%20the%20pop-%2c%20pictures%20were%20wholesome.%20You%20never%20had%20to%20worry%20about%20rating%20them%20or%20anything%20like%20that.%20I%20think%20people%20enjoyed%20them%20for%20what%20they%20were%3a%20entertainment%2c%20and%20that's%2c%20that's%20exactly%20the%20way%20I%20looked%20at.%20I%20forgot%20everything%2c%20all%20my%20cares%20whenever%20I%20went%20to%20a%20movie.%20I%20just%20concentrated%20on%20the%20movie.%0a%09"
+                  dur="00038.300s"/>
+            <text id="text_timepoint_263" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20It%20sounds%20like%20that%2c%20that's...%0a%09%20%20EC%20%3a%20I%20got%20involved%2c%20you%20know%2c%20you%20get%20involved%20in%20the%20theme%20of%20the%20movie%2c%20the%2c%20the%20plot%20and%20everything%20else%2c%20and%20once%20in%20a%20while%20you'd%20see%20a%20mystery%20and%20you'd%20try%20to%20work%20along%20with%20it%2c%20so.%20Not%20that%20often%2c%20there%20weren't%20that%20many%20of%20them.%20But%20ah...%0a%09%20%20AE%20%3a%20I%20think%20that's%20a%20really%20interesting%20point%20because%20I%2c%20I%20spoke%20with%20a%20woman%20who%2c%20her%20movie%20going%20experiences%20in%20Somerville%20was%20in%20the%2060's%2c%20and%20by%20the%2060's%20it%20was%20more%20about%20hanging%20with%20your%20friends...%0a%09"
+                  dur="00029.800s"/>
+            <text id="text_timepoint_264" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Friends%2c%20yeah.%0a%09%20%20AE%20%3a%20and%20not%20the%20picture.%0a%09%20%20EC%20%3a%20Picture%2c%20yeah.%0a%09%20%20AE%20%3a%20And%20it%20sounds%20like%20your%20experience%2c%20the%20picture%20was%20the%20important%20part.%0a%09"
+                  dur="00006.300s"/>
+            <text id="text_timepoint_265" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20That's%20right.%20You're%20there%20to%20see%20the%20picture%20and%20if%20it%20wasn't%20good%20you'd%20walk%20out%20on%20it%2c%20that's%20all.%20But%20if%20it%20was%20good%2c%20you'd%20stay%20and%20if%20it%20was%20a%20re-run%2c%20they%20ran%20a%20couple%20of%20times%2c%20you%20might%20stay%20for%20the%20second%20show%20of%20it%2c%20to%20see%20if%20you%20missed%20anythingbut%20that%2c%20it%20was%20a%20lot%20of%20fun.%20You%20had%20something%20to%20take%20up%20your%20day%2c%20because%20I%20say%20in%20those%20days%2c%20there%20wasn't%20as%20much%20to%20do%2c%20you%20either%20played%20ball%20or%20you%20went%20out%2c%20you%20went%20to%20a%20movie%20if%20it%20was%20cold%2c%20or%20something.%0a%09%20%20AE%20%3a%20Or%20played%20golf%3f%20%5bLaughs%20and%20looks%20at%20golf%20clubs%20near%20the%20desk%5d.%0a%09%20%20EC%20%3a%20Play%20golf%2c%20yeah%2c%20yeah%20%5blaughs%5d.%20And%20unfortunately%20I%20haven't%20played%20for%20over%20two%20years.%20So%2c%20but%20this%20summer%20I'm%20gonna%20take%20them%20out%20again%20and%20see.%0a%09"
+                  dur="00036.900s"/>
+            <text id="text_timepoint_266" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Good.%0a%09%20%20EC%20%3a%20Yeah%2c%20to%2c%20up%20at%20the%20beach%2c%20at%20least%20hit%20out%20a%20bucket%20of%20balls%2c%20every...%0a%09%20%20AE%20%3a%20Good%2c%20that's%20good.%0a%09%20%20EC%20%3a%20...every%20couple%20times%20a%20week.%20See%20if%20I%20got%20the%20swing%20back%20again.%0a%09"
+                  dur="00009.300s"/>
+            <text id="text_timepoint_267" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Oh%2c%20maybe%20it's%20like%20riding%20a%20bike%2c%20you%20don't%20lose%20it.%0a%09%20%20EC%20%3a%20Well%20%5blaughs%5d%2c%20who%20knows%3f%20%20%0a%09%20%20AE%20%3a%20I%20don't%20know%2c%20I%20don't%20know%20if%20that's%20as%20quite%20as%20is%20the%20same%20skill.%0a%09%20%20EC%20%3a%20Right.%0a%09"
+                  dur="00007.800s"/>
+            <text id="text_timepoint_268" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Good%2c%20well%20I%20have%20to%20thank%20you%2c%20you've%20given%20me%20some%20wonderful%20stories%2c%20great%20information%2c%20you've%20been%20a%20fabulous%20resource.%20Thank%20you...%0a%09%20%20EC%20%3a%20Your%20welcome.%0a%09%20%20AE%20%3a%20Do%20you%20think%20maybe%20your%20sister%20might%20want%20to%20talk%20to%20someone%20from%2c%20from%20our%20school%2c%20because%20she%20also...%0a%09"
+                  dur="00019.300s"/>
+            <text id="text_timepoint_269" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I'll%20ask%20her%2c%20I'll%20ask%20her.%20She%20lives%20in%20Burlington.%20My%20oldest%20sister%20lives%20in%20Woburn.%20She%20might%20remember%20some%20things%2c%20I%20don't%20know.%20My%20oldest%20sister%2c%20she's%2087%20now.%20My%20youngest%20sister%20would%20be%2073.%20She%20is%20the%20youngest%20of%20the%20family.%0a%09%20%20AE%20%3a%20Do%20you%20mind%20if%20I%20ask%20how%20old%20you%20are%3f%0a%09%20%20EC%20%3a%20Huh.%0a%09"
+                  dur="00023.900s"/>
+            <text id="text_timepoint_270" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Do%20you%20mind%20if%20I%20ask%20how%20old%20you%20are%3f%0a%09%20%20EC%20%3a%2076.%0a%09%20%20AE%20%3a%2076.%20%0a%09%20%20EC%20%3a%20Next%20month%2c%20April.%20%0a%09"
+                  dur="00004.300s"/>
+            <text id="text_timepoint_271" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Happy%20Birthday.%0a%09%20%20EC%20%3a%20Thank%20you.%0a%09%20%20AE%20%3a%20What%20day%3f%0a%09%20%20EC%20%3a%20The%2022nd%20and%2023rd.%0a%09"
+                  dur="00007.000s"/>
+            <text id="text_timepoint_272" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Both%20days%3f%0a%09%20%20EC%20%3a%20%5blaughs%5d%20Everybody%20is%20amazed%20at%20that.%20Yeah%2c%20I%20always%20say%20my%20father%20and%20mother%20were%20so%20happy%20to%20have%20me%20they%20celebrated%20for%20two%20days.%20%5bboth%20laugh%5d.%0a%09%20%20AE%20%3a%20That's%20a%20good%20story.%0a%09%20%20EC%20%3a%20But%20no%2c%20my%20baptismal%20record%20is%20the%2023rd%20and%20the%20city%20records%2c%20city%20clerk%20has%20it%20the%2022nd%2c%20so%2c%20my%20brother%20always%20said%2c%20the%20doctor%2c%20that%20I%20was%20born%20at%20midnight%2c%20so...%0a%09"
+                  dur="00023.000s"/>
+            <text id="text_timepoint_273" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Ohhhh.%0a%09%20%20EC%20%3a%20So%20that%20was.%0a%09%20%20AE%20%3a%20That%20was%20it.%0a%09%20%20EC%20%3a%20Yeah%2c%20so%20they%20didn't%20know%20what%20day%2c%20my%20father%20was%20three%20sheets%20to%20the%20wind%20when%20he%20went%20to%20get%20me%20baptized%3b%20he%20called%20it%20the%2023rd.%20So%20%5blaughs%5d.%0a%09"
+                  dur="00011.800s"/>
+            <text id="text_timepoint_274" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20%5blaughs%5d.%20Oh%2c%20that's%20great.%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Funny%20story.%0a%09%20%20EC%20%3a%20Yeah.%0a%09"
+                  dur="00004.100s"/>
+            <text id="text_timepoint_275" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Well%2c%20if%20it%20would%20be%20ok%2c%20maybe%20they%20might%20want%20to%20talk%20to%20someone%20from%20Tufts%20about%20the%2c%20they%20might%20have%20a%20different...%0a%09%20%20EC%20%3a%20View%20of%20it.%0a%09%20%20AE%20%3a%20A%20different%20view%20of%20it%2c%20or%20just%20some%20more%20stories%20to%20tell.%0a%09%20%20EC%20%3a%20Some%20different%20stories%2c%20yeah...%0a%09"
+                  dur="00014.700s"/>
+            <text id="text_timepoint_276" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Yeah%2c%20I%20think%20everybody%20has%20a%20great%20story%20to%20tell%2c%20and%2c%20it%20would%20be%20fun%20if%20they're%20interested%2c%20to%20hear%2c%20a%20whole%20family's%20experience%20of%20movie%20going.%20%5bEC%20writes%20something%20down%20and%20passes%20it%20forward%5d.%20Is%20that%20your%20sister%3f%0a%09%20%20EC%20%3a%20Yes%2c%20it's%20my%20youngest%20sister.%20Ah%2c%20younger%2c%20don't%20tell%20her%2c%20I%20keep%20telling%20her%20that%20she's%20older%20%5blaughs%5d.%0a%09%20%20AE%20%3a%20We%20won't%20say.%0a%09"
+                  dur="00027.200s"/>
+            <text id="text_timepoint_277" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Ah%2c%20let's%20see%2c%20what%20is%20her%20number%3f%20781..Da...da...daa...Hey%20Grace%3f%20%5bshouts%20off%20to%20the%20distance%5d.%0a%09%20%20AE%20%3a%20Do%20you%20want%20me%20to%20get%20her%20for%20you%3f%0a%09%20%20EC%20%3a%20No%2c%20it's%20ok.%20%5bmumbles%20inaudibly%20about%20phone%20number.%5d%20%20%5bGets%20up%20and%20walks%20into%20the%20living%20room.%20He%20asks%20wife%20for%20Eleanor's%20number.%5d%20What%20is%20Eleanor's%20number%3f%0a%09%20%20HC%20%3a%20%5binaudible%2c%20she%20replies%20and%20gives%20him%20the%20number%5d.%20Do%20you%20want%20to%20call%20the%20Eagle%20Tribune%3f%20%0a%09"
+                  dur="00041.900s"/>
+            <text id="text_timepoint_278" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20%5bLaughs%20and%20reenters%5d.%20Yeah.%20That's%2c%20we%20always%20call%20her%20that.%20She's%20got%20the%20news%20before%20we%20do.%0a%09%20%20AE%20%3a%20Oh%2c%20really%3f%0a%09%20%20EC%20%3a%20%5blaughing%5d.%20She's%20always%2c%20she's%20always%20in%2c%20she's%2c%20she's%20the%20one%20that%20might%20have%20some...%0a%09"
+                  dur="00010.500s"/>
+            <text id="text_timepoint_279" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Some%20of%20the%20dishware%3f%0a%09%20%20EC%20%3a%20Some%20of%20the%20dishes%20or%20something%20from%20my%20mother's%20because%20she%20took%20a%20lot%20of%20the%20glassware%2c%20my%20oldest%20sister.%20%20%0a%09%20%20AE%20%3a%20%5bpause%5d%20Is%20that%20Cam%3f%20%0a%09%20%20EC%20%3a%20Yes.%0a%09"
+                  dur="00016.800s"/>
+            <text id="text_timepoint_280" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Is%20her%2c%20what's%20her%20full%20name%3f%0a%09%20%20EC%20%3a%20Camilla.%20%0a%09%20%20AE%20%3a%20My%20sister's%20name%2c%20we%20call%20her%20Cam%2c%20too%2c%20but%20her%20full%20name%20is%20Cambria%2c%20so%20I%20just%20was%20%20wondering%2c%20wait%2c%20no%20way...%0a%09%20%20EC%20%3a%20Oh%2c%20yeah%20781-933-4328.%20%5bsays%20slowly%20as%20he%20writes%20down%20number%5d.%0a%09"
+                  dur="00018.100s"/>
+            <text id="text_timepoint_281" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20I%20love%20that%20name%2c%20Camilla.%20%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20It's%20very%20pretty.%0a%09%20%20EC%20%3a%20Yeah%2c%20they%20can%20call%20them%20and%20just%20ask%20them%2c%20they...%0a%09"
+                  dur="00008.200s"/>
+            <text id="text_timepoint_282" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Thank%20you.%0a%09%20%20EC%20%3a%20You%20may%20ask%20them%20questions%20on%20the%20phone%2c%20'cause%20it%20might%20be%20tough%20to%20get%20out%20there.%0a%09%20%20AE%20%3a%20Well%20I%20think%20that%20a%20couple%20of%20our%20classmates%20have%20cars%2c%20and%2c%20I%2c%20I%20have%20a%20car%2c%20I%20actually%20live%20not%20too%20far%20from%20Woburn%20and%20Burlington%2c%20I%20live%20in%20Salem%2c%20so%20if%20I%20can%20get%0a%09"
+                  dur="00016.000s"/>
+            <text id="text_timepoint_283" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20It's%20a%20little%2c%20little...%0a%09%20%20AE%20%3a%20It's%20a%20little%20bit%20of%20a%20hike%2c%20but...%0a%09%20%20EC%20%3a%20Yeah%2c%20128%2c%20over%20towards...%0a%09%20%20AE%20%3a%20Wakefield%20is%20about%2015%20minutes%20from%20me%20on%20128.%0a%09"
+                  dur="00008.600s"/>
+            <text id="text_timepoint_284" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Woburn%3f%0a%09%20%20AE%20%3a%20Woburn's%20about...%0a%09%20%20EC%20%3a%20Yeah%2c%20that's%20where%20she%20is%2c%20Wo-...%0a%09%20%20AE%20%3a%20Oh%20wait%2c%20Woburn.%20That's%20about%2020-25%20minutes.%0a%09"
+                  dur="00006.900s"/>
+            <text id="text_timepoint_285" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Woburn%20and%20Tewksbury.%0a%09%20%20AE%20%3a%20Yep%2c%20it's%20about%2025%20minutes%20on%20the%20highway%3b%20it's%20not%20too-too%20bad.%20%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Now%20you're%20saying%20that%20the%20organization%20that%20you're%20belonging%2c%20that%20you%20belong%20to%2c%20that%20you'd%20ask%20some%20of%20the%20guys%20if%20they%20remembered%2c%20and%20I%20don't%20know%20if%20I%20got%20the%20gentleman's%20name...%0a%09"
+                  dur="00013.900s"/>
+            <text id="text_timepoint_286" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I%20wanted%20to%20give%20you...%0a%09%20%20AE%20%3a%20That%20was%20it.%0a%09%20%20EC%20%3a%20Larry%20Murphy's%20let%20me%20write%20that%20down%20here.%0a%09%20%20AE%20%3a%20Because%20I%20remember%20you%20said%20that%20when%20we%20first%20started%20talking%20about%2c%20Larry%2c%20was%2c%20works%20at%20the%20Tufts%20Administration%20Building%3f%0a%09"
+                  dur="00015.700s"/>
+            <text id="text_timepoint_287" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20At%20the%2c%20yeah%20he's%20the%20ah%2c%20ah%2c%20da-da-da-ah...%0a%09%20%20AE%20%3a%20He%20works%20for%20the%20senior%20center%3f%0a%09%20%20EC%20%3a%20He's%20employed%20by%20the%20city%20of%20Somerville%2c%20I'll%2c%20I'll%20write%20it%20down%20here.%0a%09%20%20AE%20%3a%20Oh%2c%20thank%20you%2c%20I%20could%20write%20it%20if%20it's%20easier.%20Thank%20you.%20Now%20I%20just%20figure%20you%20probably%20are%20so%20well%20connected%2c%20you're%20just%20like%20an%20untapped%20resource%20here.%0a%09"
+                  dur="00026.100s"/>
+            <text id="text_timepoint_288" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20%5blaughs%5d.%20%0a%09%20%20AE%20%3a%20Oh%2c%20you%20probably%20know%20everybody%20who%20ever%20went%20to%20the%20movies%20here%20in%20Somerville.%20It%20sounds%20like%20that...%0a%09%20%20EC%20%3a%20%5blaughs%5d%20I%20don't%20want%20to%20date%20myself.%0a%09%20%20AE%20%3a%20Well%2c%20not%20everybody%2c%20but%20you%20definitely%20have%20a%20good%20network%20of%20people%20from%20all%20the%20different%20organizations%20that%20you%20belong%20to.%20%0a%09"
+                  dur="00016.400s"/>
+            <text id="text_timepoint_289" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20This%20is%2c%20city%20hall%20number%2c%20extension%202310.%20%0a%09%20%20AE%20%3a%20Thank%20you%2c%20wonderful.%0a%09%20%20EC%20%3a%20I'll%20tell%20you%20what%20his%20exact%20title%20is%20so%3b%20they'll%2c%20they'll%20make%20sure%20they%20connect%20you%20to%20him%2c%20da%2c%20da-da-da-da%2c%20where%20did%20I%20put%20that%20envelope%20%5blooks%20around%20his%20office%5d.%0a%09%20%20AE%20%3a%20There's%2c%20no...%0a%09"
+                  dur="00024.000s"/>
+            <text id="text_timepoint_290" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20It's%20white...%0a%09%20%20AE%20%3a%20There's%20an%20envelope%20right%20over%20there.%20%0a%09%20%20EC%20%3a%20No%2c%20it's%20in%20one%20of%20these%20things.%0a%09%20%20AE%20%3a%20Oh%20Ok.%20Well%2c%20I'm%20sure%20that%20if%20we%20ask%20for%20Larry%20Murphy%20at%20the%2c%20the%20city%20hall%2c%20and%20say%20he's%20employed%20in%20the...%0a%09"
+                  dur="00016.800s"/>
+            <text id="text_timepoint_291" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%202310%20is%20his%20extension%2c%20it's%20right%20to%20his%20desk.%0a%09%20%20AE%20%3a%20Yup%2c%20that's%20good%20enough%2c%20that%2c%20I%20don't%20want%20to%20put%20you%20in%20trouble%20there%2c%20trying%20to%20find%20it.%0a%09%20%20EC%20%3a%20Oh%20no%2c%20I've%20gotta%2c%20I%20better%20find%20it.%0a%09%20%20AE%20%3a%20Oh%2c%20you%20need%20it%3f%0a%09"
+                  dur="00010.000s"/>
+            <text id="text_timepoint_292" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20It's%20got%20other%20things%20in%20it.%20It%20must%20be%20in%20here%20someplace.%0a%09%20%20AE%20%3a%20Shall%20I%20move%20my%20things%3f%0a%09%20%20EC%20%3a%20Oh%2c%20no%20%5bbusies%20himself%2c%20looking%5d.%0a%09%20%20AE%20%3a%20Do%20you%20want%20me%20to%20get%20that%20for%20you%3f%20%5bEC%20tries%20to%20reach%20across%20to%20bookcase%20near%20AE%5d.%0a%09"
+                  dur="00010.200s"/>
+            <text id="text_timepoint_293" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20That's%20not%20it%2c%20that%20the%20%5binaudible%5d%20service%20I%20do%20with%20the%20Lyons%2c%20that%20we%20install%20new%20numbers.%20If%20you%20had%20time%2c%20I'd%20suggest%20you%20join%20the%20Lyons%20%5blaughs%5d.%0a%09%20%20AE%20%3a%20I%20know%2c%20it%20sounds%20like%20that%20would%20be%20a%20good%20organization.%20%0a%09%20%20EC%20%3a%20%5blaughs%5d%20Oh%2c%20yeah%2c%20it%20is.%20Hmm%2c%20it's%20gotta%20be%20here%20%5blooks%20for%20envelope%20again%5d.%0a%09%20%20AE%20%3a%20Well%2c%20I'm%20sort%20of%20in%20your%20way%2c%20so%20it's%20not%20helping.%0a%09"
+                  dur="00021.100s"/>
+            <text id="text_timepoint_294" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Those%20are%20grants%20to%20hospitals%2c%20I'm%20on%20the%20Lyons%2c%20I%20research%20for%20which%20we%20give%20out%20grants%20to%20hospitals%20that%20are%20researching%20on%20the%20eyes.%20In%20fact%20I'm%20going%20to%20Tufts%20Medical%20Center%2c%20the%20end%20of%20the%20month.%0a%09%20%20AE%20%3a%20Oh%2c%20wow.%20%0a%09%20%20EC%20%3a%20Yeah%2c%20for%2c%20in%20Boston%20at%20the%20research%20lab%20there.%0a%09%20%20AE%20%3a%20Would%20you%20like%20to%20keep%20these%20photographs%3f%0a%09"
+                  dur="00020.800s"/>
+            <text id="text_timepoint_295" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Huh%3f%0a%09%20%20AE%20%3a%20Would%20you%20like%20to%20keep%20those%3f%0a%09%20%20EC%20%3a%20No%2c%20I%20could%20make%20a%20copy%20if%20that%20would%20be...%0a%09%20%20AE%20%3a%20Um%2c%20sure%20I%20just%2c%20it%2c%20it%20seemed%20like%2c%20you%20liked%20them%2c%20and%20I%20just%20wanted%20to%20offer%20them%20if%20you%2c%20if%20you%20wanted...%0a%09"
+                  dur="00010.100s"/>
+            <text id="text_timepoint_296" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20You%20have%20extras%3f%20%20%0a%09%20%20AE%20%3a%20Well%20I%20could%20get%20some%20at%20school%2c%20yeah.%20I%20can%20get%20some...%0a%09%20%20EC%20%3a%20If%20you%20can%2c%20if%20not%2c%20I%20can%20make%20a%20copy%20here%20for%20myself.%0a%09%20%20AE%20%3a%20I'm%20sure%20I%20can%20get%20some%20extras%2c%20it%20just%20seemed%20to%20give%20you%20some%20pleasure%20to%20look%20at%20them...%0a%09"
+                  dur="00010.600s"/>
+            <text id="text_timepoint_297" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20If%20I%20could%2c%20you%20know%20as%20a%20token%20of%20a%20thank%20you.%0a%09%20%20EC%20%3a%20Oh%2c%20you're%20welcome.%20Thank%20you.%0a%09"
+                  dur="00005.400s"/>
+            <text id="text_timepoint_298" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20The%20other%20thing%20I'd%20like%20to%20do%20if%20you'd%20like%20is%20I%20can%20make%20a%20copy%20of%20our%20tapes%20today%2c%20and%20send%20you%20those%2c%20in%20case%20you%20ever%20want%20to%20give%20them%20to%20your%20kids%2c%20or%20your%20grandchildren%20when%20they%20want%20to%20hear%20about%20Grandpa's%20experience...%0a%09%20%20EC%20%3a%20%5blaughs%5d%0a%09%20%20AE%20%3a%20...growing%2c%20growing%20up%20in%20Somerville%2c%20that%20might%20be%20a%20fun%20story%20for%20them%20to%20hear%20one%20day.%20Would%20you%20like%20that%3f%20%0a%09"
+                  dur="00017.100s"/>
+            <text id="text_timepoint_299" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20Yeah.%0a%09%20%20AE%20%3a%20Ok.%20I'd%20be%20happy%20to%20make%20a%20copy%20for%20you.%0a%09%20%20EC%20%3a%20Cause%20I've%20got%20tapes%20of%20other%20things%2c%20other%20%5binaudible%5d%20that%20they'd%20get%20bored%20with%20it.%20%20%0a%09%20%20AE%20%3a%20Well%2c%20you%20know%20what%2c%20someday%20this%20is%20going%20to%20be%20a%20treasure%20that%20they'll%20have%2c%20they%20may%20not%20have%20you%20to%20talk%20to%2c%20but...%0a%09"
+                  dur="00013.800s"/>
+            <text id="text_timepoint_300" region="captions"
+                  src="data:,%0a%09%20%20EC%20%3a%20I%20have%20a%20tape%20of%20the%20night%20they%20had%20the%20Pride%20Night%20and%20we%20talked%20and%20when%20we%2c%20the%20history%2c%20the%20complete%20tape%2c%20about%20twenty%20minutes%20to%20each%20person%2c%20of%20what%20we%20did%2c%20and%20everything%20over%20the%20years.%0a%09%20%20AE%20%3a%20I%20wish%20I%20had%20tapes%20of%20my%20grandparents%20talking%2c%20you%20know%2c%20telling%20about%20their%2c%20their...%0a%09%20%20EC%20%3a%20Their%20history%3f%0a%09"
+                  dur="00026.200s"/>
+            <text id="text_timepoint_301" region="captions"
+                  src="data:,%0a%09%20%20AE%20%3a%20Their%20history%2c%20and%20when%20they%20were%20kids.%20That%20would%20have%20been%20really%20special%20for%20me.%0a%09%20%20EC%20%3a%20I%20think%20they%20were%20amazed%20the%20night%20that%20uh.huh.what%20do%20we%20have%20here.%20The%20Elks.%20%20%5bdigs%20through%20a%20bag%20of%20papers%2c%20looking%20for%20something.%5d%20Hmm%20%5btape%20cuts%20out%20momentarily%5d%20yeah%2c%20it's%20the%20Executive%20Director%20on%20Council%20on%20Aging.%0a%09%20%20AE%20%3a%20Executive%20Director%20on%20Council%20on%20Aging%20%5bwrites%20this%20down%5d.%0a%09%20%20%5btape%20ends%20here%5d%0a%09"
+                  dur="00069.253s"/>
+         </seq>
+      </par>
+   </body>
+</smil>

@@ -1,0 +1,122 @@
+<?xml version="1.0"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4"
+	        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:xlink="http://www.w3.org/1999/xlink"
+		xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+	<control>
+		<recordId>RCR00613</recordId>
+		<maintenanceStatus>new</maintenanceStatus>
+		<maintenanceAgency>
+			<agencyCode>MMeT-C</agencyCode>
+			<agencyName>Tufts University Digital Collections and Archives</agencyName>
+		</maintenanceAgency>
+		<languageDeclaration>
+		 	<language languageCode="eng">English</language>
+			<script scriptCode="Latn">Latin</script>
+		</languageDeclaration>
+		<conventionDeclaration>
+			<abbreviation>DACS</abbreviation>
+			<citation>Describing Archives: a Content Standard, Society of American Archivists. 2004</citation>
+			<descriptiveNote><p>Locally using rules from chapter 10 and 11.</p></descriptiveNote>
+		</conventionDeclaration>
+		<conventionDeclaration>
+			<abbreviation>AACR2R</abbreviation>
+			<citation>Anglo-American Cataloging Rules, Revised.</citation>
+			<descriptiveNote><p>Locally used for their definition of a corporate body.</p></descriptiveNote>
+		</conventionDeclaration>
+		<maintenanceHistory>
+			<maintenanceEvent>
+				<eventType>created</eventType>
+				<eventDateTime standardDateTime="2010-02-09">2010-02-09</eventDateTime>
+				<agentType>human</agentType>
+				<agent>KSF</agent>
+			</maintenanceEvent>
+			<maintenanceEvent>
+				<eventType>revised</eventType>
+				<eventDateTime standardDateTime="2011-09-09">2011-09-09</eventDateTime>
+				<agentType>human</agentType>
+				<agent>VAM</agent>
+			</maintenanceEvent>
+		</maintenanceHistory>
+		<sources>
+			<source>
+				<sourceEntry>Bouv&#233;-Boston School Bulletin, 1942-1961. UP178. Tufts University. Digital Collections and Archives. Medford, MA.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Miller, Russell E. Light on the Hill: A History of Tufts College, 1852-1952. Vol. 1, 698-701. Boston: Beacon Press, 1966.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Miller, Russell E. Light on the Hill: A History of Tufts University Since 1952. Vol. 2, 11, 49, 118-120. Cambridge, Mass.: Mass Market Books, 1986.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Northeastern University. "History of Bouv&#233; College." http://www.northeastern.edu/bouve/about/history.html [accessed March 30, 2011].</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Northeastern University. Archives and Special Collections Finding Aids. Boston-Bouv&#233; College records. M41. http://www.lib.neu.edu/archives/collect/findaids/m41find.htm [accessed March 30, 2011].</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Northeastern University. Archives and Special Collections Finding Aids. Marjorie Bouv&#233; papers. M89. http://www.lib.neu.edu/archives/collect/findaids/m89find.htm</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Trustees of Tufts College. Bulletin of Tufts College, 1944-1945. Medford, MA: Tufts College, 1945.</sourceEntry>
+			</source>
+			<source>
+			  <sourceEntry>Wessell, Nils Y. "The Academic Aims of Tufts University as They Relate to the College of Special Studies." UA028.001 folder 1. Tufts University. Digital Collections and Archives. Medford, MA.</sourceEntry>
+			</source>
+		</sources>
+	</control>
+	<cpfDescription>
+		<identity>
+			<entityType>corporateBody</entityType>
+			<nameEntry>
+			  <part>Bouv&#233;-Boston School of Physical Therapy and Physical Education</part>
+			  <authorizedForm>local</authorizedForm>
+			</nameEntry>
+		</identity>
+		<description>
+			<existDates>
+				<dateRange>
+					<fromDate>1942</fromDate>
+					<toDate>1964</toDate>
+				</dateRange>
+			</existDates>
+			<biogHist><abstract>The Bouv&#233;-Boston School of Physical Education, an institution that offered young women training in physical therapy as well as in the teaching of physical education, became an affiliate in Tufts' Division of University Extension in 1942. Even after the school's 1950 relocation to Tufts' Medford campus, its administration was independent and its students took classes apart from the rest of the student body. Bouv&#233;-Boston courses concerned aspects of recreation, human physiology and public health. When pressed by the Tufts administration to merge with the university, Bouv&#233;-Boston declined and, in 1964, affiliated with Northeastern University.</abstract><p>The Bouv&#233; School, named for its founder Marjorie Bouv&#233;, was incorporated in 1925. Ms. Bouv&#233; was one of seven graduates of the Boston Normal School of Gymnastics who had, in 1913, founded the Boston School of Physical Education. The Bouv&#233; School offered a three-year program in which young women could specialize in physical therapy or in the teaching of physical education. Upon the graduation of its first class in 1928, Bouv&#233;'s physical therapy program received accreditation from the American Physical Therapy Association.</p><p>In 1930, the Bouv&#233; School and the Boston School of Physical Education consolidated to form the Bouv&#233;-Boston School of Physical Education. Bouv&#233;-Boston was located at 105 South Huntington Ave. in the Jamaica Plain section of Boston, and had student housing in nearby Brookline. The school became affiliated with Simmons College, which allowed students who had completed a four-year course to receive a Bachelor of Science in Education. In 1935, Bouv&#233;-Boston launched a cultural exchange program with Japan. In 1936, the school was accredited by the American Medical Association.</p><p>In 1942, Bouv&#233;-Boston affiliated with Tufts College. The college had instituted a Division of University Extension in 1939 to serve enrollees, such as working teachers, who could not attend regular college classes. Bouv&#233;-Boston would be one of five professional schools that affiliated with the Division (later called the Division of Special Studies, then the College of Special Studies). Russell Miller, in volume one of Light on the Hill, suggests that because most of these affiliates were women's schools, they therefore provided a fresh source of revenue at a time when male students were being drafted into military service for World War II. Also in 1942, Bouv&#233;-Boston acquired the students and records of the Posse Institute, a school of physical education that closed its doors after fifty years.</p><p>The Bouv&#233;-Boston bulletin for 1942-1943 proclaimed that: "Physical education is an integral part of the physical, mental, moral, and social development of the individual. Such development should give real joy in physical fitness, mental alertness to solve life's problems, moral stamina to live above the average, and a social-mindedness that takes keen interest in people."</p><p>In the arrangement with Tufts, as with Simmons, Bouv&#233;-Boston students could take a three-year professional program, but were urged to take the four-year program for the B.S. in Education (the three-year program was phased out over the course of the decade). Several Tufts faculty members taught for Bouv&#233;-Boston, and liberal arts courses were sprinkled among courses that concerned aspects of recreation, human physiology and public health. Physical therapy students gained clinical experience in a number of Greater Boston hospitals, and aspiring physical education teachers practice-taught in local schools and YWCAs. Bouv&#233;-Boston students attended a camp session every June at Camp Mon-o-Moy in East Brewster on Cape Cod and a winter sports session in January in Intervale, New Hampshire.</p><p>Students were expected to be exemplars of good health. They had to have chest and dental x-rays taken, a hearing test performed, and photographic silhouettes and tracings made of their posture. Individualized follow-ups to these examinations were conducted by teachers and physicians.</p><p>The 1943-1944 bulletin framed the Bouv&#233;-Boston course of study in terms of its contribution to the war effort. It stressed the acute need for physical therapists in Army and Navy hospitals, and the fact that graduates were engaged in service for the U.S.O. and Red Cross.</p><p>Miller writes that "relations between Tufts and Bouv&#233;-Boston, particularly in the early years of affiliation, were tenuous at best and strained at worst." Bouv&#233;-Boston, like the other affiliates, maintained a separate administration, had separate classes, and students had their own social activities and organizations. This practice continued even after Bouv&#233;-Boston moved into its new building on the Tufts Medford campus in 1950. The school's new home contained administrative and faculty offices, a gymnasium, physical therapy room, and student and faculty lounges. Four former private residences housed Bouv&#233;-Boston students, and there was an athletic field for their exclusive use.</p><p>In the mid-1950s, the Bouv&#233;-Boston School received a Teaching Grant from the Department of Health, Education and Welfare under the 1954 Vocational Rehabilitation Act.</p><p>In the fall of 1958, Bouv&#233;-Boston students moved into their new dormitory, Ruth Page Sweet Hall, named for the second director of Bouv&#233;-Boston, who had served in that position from 1948 until her death earlier in 1958. By that time, Bouv&#233;-Boston students had established a number of clubs, including the Athletic Association, PE Club, PT Club, Dance Group, and Swim Club, which put on an annual show featuring synchronized swimming. The Bouv&#233;-Boston Alumnae Association raised funds for the school and organized reunions and other events.</p><p>In October of 1960, the Trustees of Tufts College approved the proposal to grant the Bachelor of Science in Physical Therapy degree. However, by 1962 Tufts President Nils Y. Wessell decided that the university should re-evaluate its practice of granting such strictly professional degrees. A firm believer in liberal arts education, he stated in a February 1963 memorandum entitled "The Academic Aims of Tufts University as They Relate to the College of Special Studies" that students of the affiliates should meet the Bachelor's degree requirements met by students at Jackson College (the women's college within the university), the College of Liberal Arts, and the College of Engineering. A concentration in a professional area would take place in the fifth year, and lead to a Master's degree. The affiliates were given the choice to merge with Tufts or disaffiliate.</p><p>Bouv&#233;-Boston was one of the institutions that chose to disaffiliate. Soon after, the school became affiliated with Northeastern University. Its dormitory on the Tufts campus was renamed Hill Hall in 1967, and its main building was renamed Lane Hall in 1968.</p><p>As of 2011, the descendant of the Bouv&#233;-Boston School at Northeastern is called the Bouv&#233; College of Health Sciences. The records of the Bouv&#233;-Boston School-referred to by its subsequent name, Boston-Bouv&#233; College-are held by Northeastern University Archives and Special Collections, as are the personal papers of Marjorie Bouv&#233;.</p></biogHist>
+		</description>
+		<relations>
+			<cpfRelation cpfRelationType="temporal" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isAssociatedWith" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00141">Department of Occupational Therapy</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1942">1942</fromDate>
+					<toDate standardDate="1964">1964</toDate>
+				</dateRange>
+			</cpfRelation>
+			<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isAssociatedWith" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00148">Department of Education</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1942">1942</fromDate>
+					<toDate standardDate="1964-07-01">1964</toDate>
+				</dateRange>
+			</cpfRelation>
+			<cpfRelation cpfRelationType="hierarchical" xlink:type="simple" xlink:arcrole="http://dca.lib.tufts.edu/ontology/rcr#isPartOf" xlink:role="http://dca.lib.tufts.edu/ontology/rcr#CorporateBody">
+				<relationEntry xml:id="RCR00569">College of Special Studies</relationEntry>
+				<dateRange>
+					<fromDate standardDate="1942">1942</fromDate>
+					<toDate standardDate="1964-07-01">1964</toDate>
+				</dateRange>
+			</cpfRelation>
+			<resourceRelation resourceRelationType="creatorOf" xml:id="UA034">
+			  <relationEntry>Bouve-Boston School of Physical Therapy and Physical Education, records</relationEntry>
+			  <objectXMLWrap>
+			    <ead xmlns="urn:isbn:1-93166-22-9">
+			      <archdesc level="collection">
+				<did>
+				  <unittitle>Bouve-Boston School of Physical Therapy and Physical Education, records</unittitle>
+				  <unitid>UA034</unitid>
+				</did>
+			      </archdesc>
+			    </ead>
+			  </objectXMLWrap>
+			</resourceRelation>
+		</relations>
+	</cpfDescription>
+</eac-cpf>
