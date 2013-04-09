@@ -24,4 +24,7 @@ class TuftsBase < ActiveFedora::Base
 
   # Tufts specific needed metadata streams
   has_metadata :name => "DCA-META", :type => TuftsDcaMeta
+  has_metadata :name => "DCA-ADMIN", :type => TuftsAdministrativeMeta
+  has_metadata :name => "DC-DETAILED", :type => TuftsDcDetailed
+
 end

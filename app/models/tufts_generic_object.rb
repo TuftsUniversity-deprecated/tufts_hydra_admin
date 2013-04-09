@@ -23,7 +23,8 @@ class TuftsGenericObject < ActiveFedora::Base
 
   # Tufts specific needed metadata streams
   has_metadata :name => "DCA-META", :type => TuftsDcaMeta
-
+  has_metadata :name => "DCA-ADMIN", :type => TuftsAdministrativeMeta
+  has_metadata :name => "DC-DETAILED", :type => TuftsDcDetailed
   has_metadata :name => "GENERIC-CONTENT", :type => TuftsGenericMeta
 
   def to_solr(solr_doc=Hash.new, opts={})

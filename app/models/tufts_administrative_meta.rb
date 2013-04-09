@@ -1,15 +1,5 @@
-# 2011-04-16
-#
-# My take on what our faculty publication content model is going to look like
-# in ActiveFedora
-#
-# Since we're new to opinionated metadata rather than drive yourself nuts make sure to read
-# the rdoc: http://rubydoc.info/gems/om/1.2.2/frames
-#
-class TuftsDcDetailed < ActiveFedora::NokogiriDatastream
 
-  # 2012-01-23 decided to make everything searchable here and handle facetable in the to_solr methods of the
-  # models
+class TuftsAdministrativeMeta < ActiveFedora::NokogiriDatastream
 
   set_terminology do |t|
     t.root("path" => "dc", "xmlns" => "http://www.fedora.info/definitions/",
@@ -79,7 +69,7 @@ class TuftsDcDetailed < ActiveFedora::NokogiriDatastream
   # see here for more details:
   # http://nokogiri.org/Nokogiri/XML/Builder.html
   def self.xml_template
-    builder = Nokogiri::XML::Builder.new do |xml|
+    builder = Nokogiri::XML::Builder.new do |xml|                                              ta
       xml.dc(:version => "0.1", :xmlns => "http://www.fedora.info/definitions/",
              "xmlns:dc" => "http://purl.org/dc/elements/1.1/",
              "xmlns:dcadesc" => "http://nils.lib.tufts.edu/dcadesc/",
@@ -122,6 +112,7 @@ class TuftsDcDetailed < ActiveFedora::NokogiriDatastream
 
     return builder.doc
   end
+
   def to_solr(solr_doc = Hash.new) # :nodoc:
     return solr_doc
   end

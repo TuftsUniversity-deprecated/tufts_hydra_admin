@@ -23,6 +23,8 @@ class TuftsTEI < ActiveFedora::Base
 
   # Tufts specific needed metadata streams
   has_metadata :name => "DCA-META", :type => TuftsDcaMeta
+  has_metadata :name => "DCA-ADMIN", :type => TuftsAdministrativeMeta
+  has_metadata :name => "DC-DETAILED", :type => TuftsDcDetailed
 
   # DCA_admin might be the one that we have started clearing out -- it used to have metadata
   # but it was all wrong, so now we're just putting it in as empty.
