@@ -54,7 +54,7 @@ module Tufts::ModelMethods
 
 
       unless names.empty?
-        ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "author_si", "#{names[0]}")
+        ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "author_tesi", "#{names[0]}")
       end
 
       #TITLE SORT
@@ -63,7 +63,7 @@ module Tufts::ModelMethods
 
 
       unless titles.empty?
-        ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "title_si", "#{titles[0]}")
+        ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "title_tesi", "#{titles[0]}")
       end
 
     end
@@ -346,6 +346,8 @@ module Tufts::ModelMethods
  	  end
 
         ::Solrizer::Extractor.insert_solr_field_value(solr_doc, "pub_date_isi", "#{valid_date_string}")
+        #::Solrizer::Extractor.insert_solr_field_value(solr_doc, "pub_date_dtsi", "#{valid_date_string}")
+
         #::Solrizer::Extractor.insert_solr_field_value(solr_doc, "pub_date_sort", "#{valid_date_string}")
       end
 
