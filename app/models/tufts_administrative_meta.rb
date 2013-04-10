@@ -25,8 +25,8 @@ class TuftsAdministrativeMeta < ActiveFedora::NokogiriDatastream
   # http://nokogiri.org/Nokogiri/XML/Builder.html
   def self.xml_template
     builder = Nokogiri::XML::Builder.new do |xml|
-      xml.dc(:version => "0.1", :xmlns => "http://www.fedora.info/definitions/",
-             "xmlns:ac" => "http://purl.org/dc/dcmitype/",
+
+      xml.ac(:version => "0.1", "xmlns:ac" => "http://purl.org/dc/dcmitype/",
              "xmlns:local" => "http://nils.lib.tufts.edu/dcaadmin/") {
         xml['local'].steward
         xml['ac'].name
