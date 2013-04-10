@@ -103,13 +103,39 @@ class TuftsDcDetailed < ActiveFedora::NokogiriDatastream
         xml['dcadesc'].persname
         xml['dcadesc'].corpname
         xml['dcadesc'].geogname
-        xml['dcadesc'].subject
+        xml['dcterms'].subject
         xml['dcadesc'].funder
-        xml['dcadesc'].temporal
+        xml['dcterms'].temporal
         xml['dcatech'].resolution
         xml['dcadesc'].bitdepth
         xml['dcadesc'].colorspace
         xml['dcadesc'].filesize
+        xml['dcterms'].alternative
+        xml['dcterms'].contributor
+        xml['dcterms'].abstract
+        xml['dcterms'].toc
+        xml['dcterms'].date
+        xml['dcterms'].dateCopyrighted
+        xml['dcterms'].dateSubmitted
+        xml['dcterms'].dateAccepted
+        xml['dcterms'].dateModified
+        xml['dcterms'].language
+        xml['dcterms'].medium
+        xml['dcterms'].provenance
+        xml['dcterms'].accessRights
+        xml['dcterms'].rightsHolder
+        xml['dcterms'].license
+        xml['dcterms'].replaces
+        xml['dcterms'].isReplacedBy
+        xml['dcterms'].hasFormat
+        xml['dcterms'].isFormatOf
+        xml['dcterms'].hasPart
+        xml['dcterms'].isPartOf
+        xml['dcterms'].accruralPolicy
+        xml['dcterms'].audience
+        xml['dcterms'].references
+        xml['dcterms'].specialCoverage
+
       }
     end
 
