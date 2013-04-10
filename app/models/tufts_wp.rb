@@ -36,7 +36,7 @@ class TuftsWP < ActiveFedora::Base
   has_metadata :name => "FILE-META", :type => TuftsFileMeta
 
   # Tufts specific needed metadata streams
-  has_metadata :name => "Metadata.xml", :type => TuftsWpMeta
+ # has_metadata :name => "Metadata.xml", :type => TuftsWpMeta
 
   #Our Binary streams
   #has_datastream :name=>"Access.xml", :type=>ActiveFedora::Datastream, :controlGroup=>'E'
