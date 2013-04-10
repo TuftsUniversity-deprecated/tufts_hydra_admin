@@ -19,8 +19,8 @@ GIT
 
 GIT
   remote: https://github.com/mkorcy/solrizer-fedora.git
-  revision: f575b51922401a5386a42b35e62998a2ee8ab5f5
-  ref: f575b51922401a5386a42b35e62998a2ee8ab5f5
+  revision: 254cd03792a3a26276bce962d572471f99705051
+  ref: 254cd03
   branch: 3.x
   specs:
     solrizer-fedora (3.0.0.pre1)

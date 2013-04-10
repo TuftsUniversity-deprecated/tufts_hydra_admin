@@ -43,7 +43,7 @@ gem "devise-guests", "~> 0.3"
 gem "bootstrap-sass"
 gem 'om'
 gem 'solrizer'
-gem 'solrizer-fedora', :git=>"https://github.com/mkorcy/solrizer-fedora.git", :branch => "3.x", :ref => "f575b51922401a5386a42b35e62998a2ee8ab5f5"
+gem 'solrizer-fedora', :git=>"https://github.com/mkorcy/solrizer-fedora.git", :branch => "3.x", :ref => "254cd03"
 gem 'active-fedora', :git=>"https://github.com/mkorcy/active_fedora.git", :branch =>"class_exists", :ref => "a9355bb1b47c6c62bee75ee8f838cee5a78a975c"
 # we should remove the dependency on chronic it doesn't do what we originally intended and now its a mess
 gem 'chronic'
